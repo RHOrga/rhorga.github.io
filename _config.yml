@@ -2,3 +2,7 @@ title: RoHOW
 description: Robotic Hamburg Open Workshop
 
 markdown: kramdown
+
+gems:
+  - jekyll-redirect-from
+

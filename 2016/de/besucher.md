@@ -1,6 +1,6 @@
 ---
 title: Informationen für Besucher
-layout: default
+layout: default-de
 ---
 
 ## Austragungsort
