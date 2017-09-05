@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="31.999968"
+   height="31.99976"
+   viewBox="0 0 0.15999984 0.1599988"
+   id="svg2">
+  <desc
+     id="desc4">Flag of Germany</desc>
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs11">
+    <clipPath
+       id="clipPath3045">
+      <path
+         d="m 0.21332488,2.9200013 c 0,0.044183 -0.0358172,0.08 -0.0799999,0.08 -0.04418274,0 -0.07999994,-0.035817 -0.07999994,-0.08 0,-0.044183 0.0358172,-0.08 0.07999994,-0.08 0.0441827,0 0.0799999,0.035817 0.0799999,0.08 z"
+         id="path3047"
+         style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.19088674;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </clipPath>
+  </defs>
+  <g
+     transform="translate(-0.05332504,-2.8400013)"
+     clip-path="url(#clipPath3045)"
+     id="g3040">
+    <path
+       d="m 0,2.8400002 0.26666659,0 0,0.1599999 -0.26666659,0 z"
+       id="black_stripe"
+       style="fill:#000000" />
+    <path
+       d="m 0,2.8933334 0.26666659,0 0,0.1066667 -0.26666659,0 z"
+       id="red_stripe"
+       style="fill:#dd0000" />
+    <path
+       d="m 0,2.9466667 0.26666659,0 0,0.053333 L 0,3 z"
+       id="gold_stripe"
+       style="fill:#ffce00" />
+  </g>
+</svg>

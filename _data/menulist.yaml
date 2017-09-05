@@ -1,0 +1,15 @@
+menu:
+  - title: RoHOW
+    url: index.html
+  - title: Besucher
+    url: besucher.html
+  - title: Teams
+    url: besucher.html
+  - title: Ablaufplan
+    url: besucher.html
+  - title: Ort
+    url: besucher.html
+  - title: Presse
+    url: besucher.html
+  - title: Kontakt
+    url: besucher.html
