@@ -13,7 +13,7 @@ body
 {
     position: relative;
     margin: 20px auto;
-    width: 900px;
+    width: 1000px;
 }
 
 #robots
@@ -154,7 +154,13 @@ article ol
     text-decoration: none;
 }
 
-#wrapper > footer > div
+#wrapper > footer #sponsors
+{
+    padding: 10px 40px;
+    background-color: #FFF;
+}
+
+#wrapper > footer #university
 {
     padding: 10px 40px;
     background-color: #FFF;
@@ -167,21 +173,33 @@ article ol
     overflow: hidden;
 }
 
-#wrapper > footer div > img
+#wrapper > footer #sponsors > #ibeo
 {
     float: left;
-    margin: 30px 0 30px 10px;
+    margin: 30px 0px 0px 25px;
 }
 
-#wrapper > footer div > img:nth-child(2)
+#wrapper > footer #sponsors > #iav
 {
-    margin: 30px 0 30px 83px;
+    margin: 30px 0px 0px 90px;
 }
 
-#wrapper > footer div > img:last-child
+#wrapper > footer #sponsors > #freiheit
 {
     float: right;
-    margin: 30px 10px 30px 0;
+    margin: 30px 25px 0px 0px;
+}
+
+#wrapper > footer #university > #uhh
+{
+    float: left;
+    margin: 30px 0px 30px 200px;
+}
+
+#wrapper > footer #university > #tuhh
+{
+    float: right;
+    margin: 30px 200px 30px 0px;
 }
 
 #wrapper > footer p
@@ -189,9 +207,21 @@ article ol
     text-align: center;
 }
 
-nav, article, #wrapper > footer > div
+nav, article, #wrapper > footer > #sponsors
 {
     box-shadow: 0px 0px 6px #666;
+}
+
+#eurobotic_week
+{
+    background: url(/assets/img/eurobotic_week.png) no-repeat;
+    background-position: 16px;
+    min-height: 132px;
+    padding: 0 16px 0 280px;
+    margin: 32px 0;
+    border: 1px solid #E52F26;
+    border-left: 0;
+    border-right: 0;
 }
 
 .gallery div div
