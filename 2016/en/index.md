@@ -1,6 +1,6 @@
 ---
 title: Der RoHOW
-layout: default-en
+layout: default-en-2016
 ---
 
 ![Gruppenfoto]({{ site.baseurl }}/assets/img/teams.jpg){: width="600" height="250"}

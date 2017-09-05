@@ -1,12 +1,12 @@
 <!doctype html>
 <html lang="en">
-  {% include head.html %}
+  {% include 2016/head.html %}
   <body>
     <div id="wrapper">
-        {% include header.html %}
+        {% include 2016/header.html %}
         <nav>
             <ul>
-                {% for item in site.data.menulist-en.menu %}
+                {% for item in site.data.year2016.menulist-de.menu %}
                 <li>
                     <a href="{{ item.url }}" alt="{{ item.title }}" class="{% if item.url == page.url %}active{% endif %}">{{ item.title }}</a>
                 </li>
@@ -15,15 +15,15 @@
         </nav>
         <article>
             <header>
-							<a class="lang_switcher" href="{{ page.url | replace:'en','de'}}"><img src="{{ site.baseurl }}/assets/img/de.svg" width="32" height="32" alt="Deutsche Version" /></a>
-							<a class="lang_switcher" href="{{ page.url | replace:'en','en'}}"><img src="{{ site.baseurl }}/assets/img/en.svg" width="32" height="32" alt="English version" /></a>
+							  <a class="lang_switcher" href="{{ page.url | replace:'de','de'}}"><img src="{{ site.baseurl }}/assets/img/de.svg" width="32" height="32" alt="Deutsche Version" /></a>
+							  <a class="lang_switcher" href="{{ page.url | replace:'de','en'}}"><img src="{{ site.baseurl }}/assets/img/en.svg" width="32" height="32" alt="English version" /></a>
                 <h1>{{ page.title }}</h1>
             </header>
             <section>
                 {{ content }}
             </section>
         </article>
-        {% include footer.html %}
+        {% include 2016/footer.html %}
     </div>
   </body>
 </html>

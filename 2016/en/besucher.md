@@ -1,6 +1,6 @@
 ---
 title: Information for visitors
-layout: default-en
+layout: default-en-2016
 ---
 
 ## Venue
