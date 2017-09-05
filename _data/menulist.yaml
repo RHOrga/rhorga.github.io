@@ -1,8 +1,8 @@
 menu:
   - title: RoHOW
-    url: index.html
+    url: /
   - title: Besucher
-    url: besucher.html
+    url: /besucher.html
   - title: Teams
     url: besucher.html
   - title: Ablaufplan
