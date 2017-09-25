@@ -128,11 +128,6 @@ table.teams td:nth-child(1), table.teams td:nth-child(3), table.teams td:nth-chi
     text-align: center;
 }
 
-table.teams img
-{
-    width: 32px;
-}
-
 table.schedule th:first-child, table.schedule td:first-child
 {
     width: 20%;

@@ -2,14 +2,14 @@ menu:
   - title: RoHOW
     url: /2016/de/
   - title: Besucher
-    url: /2016/de/besucher.html
+    url: /2016/de/visitors.html
   - title: Teams
     url: /2016/de/teams.html
   - title: Ablaufplan
-    url: besucher.html
+    url: /2016/de/schedule.html
   - title: Ort
-    url: besucher.html
+    url: /2016/de/venue.html
   - title: Presse
-    url: besucher.html
+    url: /2016/de/press.html
   - title: Kontakt
-    url: besucher.html
+    url: /2016/de/contact.html

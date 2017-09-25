@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="32"
+   height="31.999929"
+   viewBox="0 0 1.024 1.0239977"
+   id="svg2">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12">
+    <clipPath
+       id="clipPath2998">
+      <path
+         d="m 38.576269,984.17621 a 16.011024,13.389337 0 1 1 -32.0220488,0 16.011024,13.389337 0 1 1 32.0220488,0 z"
+         transform="matrix(0.99931156,0,0,1.1949809,-6.5497075,-1160.0717)"
+         id="path3000"
+         style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </clipPath>
+  </defs>
+  <g
+     transform="matrix(0.032,0,0,0.032,-1.6391384e-8,-2.2369059e-6)"
+     clip-path="url(#clipPath2998)"
+     id="g2991">
+    <rect
+       width="32"
+       height="32"
+       x="0"
+       y="0"
+       id="rect4"
+       style="fill:#ff0000" />
+    <rect
+       width="20"
+       height="6"
+       x="6"
+       y="13"
+       id="rect6"
+       style="fill:#ffffff" />
+    <rect
+       width="6"
+       height="20"
+       x="13"
+       y="6"
+       id="rect8"
+       style="fill:#ffffff" />
+  </g>
+</svg>
