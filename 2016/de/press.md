@@ -1,6 +1,6 @@
 ---
 title: Presse
-layout: default-de-2016
+layout: default-de-only-2016
 ---
 
 
