@@ -1,6 +1,6 @@
 ---
 title: Information for teams
-layout: default-en-2016
+layout: default-en-only-2016
 ---
 
 ## Registration
