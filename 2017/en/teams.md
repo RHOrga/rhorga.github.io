@@ -24,7 +24,7 @@ Please submit your registration as soon as possible to help us simplify planning
 | 1st September 2017   | Registration opens                            |
 | 22th October 2017    | Registration deadline RoboCup Major teams     |
 | 5th November 2017    | Registration deadline team members with names |
-| 1st December (5 pm)  | Set-Up day teams                              |
+| 1st December 2017    | Set-Up day teams (5 pm)                       |
 | 2nd December 2017    | Workshop day                                  |
 | 3rd December 2017    | Competition/Workshop day, (open to public)    |
 
