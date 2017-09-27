@@ -1,21 +1,19 @@
 ---
 title: Impressum
-layout: default-de-only-2016
+layout: default-de-only-2017
 ---
 
 ## Ansprechpartner
 
-Nils Rokita  
-Telefon: +49 (0) 40 - 42883 - 2547  
-[info@bit-bots.de](mailto:info@bit-bots.de)
+Pascal Loth  
+Telefon: +49 (0) 40 - 42878 - 4723  
+[roboting@tuhh.de](mailto:roboting@tuhh.de)
 
 ## Anschrift
 
-RoboCup AG  
-Labor F-015  
-Fachbereich Informatik  
-Vogt-Kölln-Straße 30  
-22527 Hamburg
+RobotING@TUHH e.V.    
+Am Schwarzenberg-Campus 3    
+21073 Hamburg
 
 ## Haftungsausschluss
 ### Haftung für Inhalte
