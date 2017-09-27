@@ -4,6 +4,7 @@ layout: default-de-2017
 redirect_from:
   - "/"
   - "/2017"
+  - "/2017/"
 ---
 
 ![Gruppenfoto](/assets/img/teams2016.jpg){: width="700" height="192"}
