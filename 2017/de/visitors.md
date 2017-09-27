@@ -1,6 +1,6 @@
 ---
 title: Informationen für Besucher
-layout: default-de-2016
+layout: default-de-2017
 ---
 
 ## Austragungsort
@@ -13,7 +13,7 @@ Denickestraße 22
 
 ## Öffnungszeiten
 
-Der RoHOW wird für Besucher am Sonntag den 27. November 2016 ab 12 Uhr, seine Türen öffnen.
+Der RoHOW wird für Besucher am Sonntag, den 3. Dezember ab 12 Uhr, seine Türen öffnen.
 
 ## Eintrittspreise
 
