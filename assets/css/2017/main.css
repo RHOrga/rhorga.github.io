@@ -158,6 +158,8 @@ article ol
 {
     padding: 10px 40px 30px 40px;
     background-color: #FFF;
+    -webkit-border-radius: 0 0 25px 25px;
+    border-radius: 0 0 25px 25px;
 }
 
 #wrapper > footer #university
