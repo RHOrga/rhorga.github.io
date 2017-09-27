@@ -9,7 +9,7 @@ Technische Universität Hamburg
 Denickestraße 22  
 21073 Hamburg  
 
-[Mehr hier](besucher.html)
+[Mehr hier](venue.html)
 
 ## Öffnungszeiten
 
