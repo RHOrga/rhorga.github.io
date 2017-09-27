@@ -40,7 +40,7 @@ Please visit our leagues pages www.robocupgermanopen.de/major for a reference to
 
 Inexpensive hotels near by:
 
-B&B Hotel Hamburg-Harburg  
+B&B Hotel Hamburg-Harburg (seems to be booked out)  
 Theodor-Yorck-Straße 1  
 21079 Hamburg  
 [www.hotelbb.de](www.hotelbb.de)
