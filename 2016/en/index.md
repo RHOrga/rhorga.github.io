@@ -3,7 +3,7 @@ title: RoHOW
 layout: default-en-2016
 ---
 
-![Gruppenfoto]({{ site.baseurl }}/assets/img/teams.jpg){: width="600" height="250"}
+![Gruppenfoto]({{ site.baseurl }}/assets/img/teams2015.jpg){: width="600" height="250"}
 
 From 25th to 27th November 2016 the third Robotic Hamburg Open Workshop (RoHOW) will be held at the Hamburg University of Technology (TUHH).
 

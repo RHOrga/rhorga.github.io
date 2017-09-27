@@ -6,7 +6,7 @@ redirect_from:
   - "/2017"
 ---
 
-![Gruppenfoto](/assets/img/teams.jpg){: width="600" height="250"}
+![Gruppenfoto](/assets/img/teams2016.jpg){: width="600" height="250"}
 
 Vom 1. bis 3. Dezember 2017 findet der vierte Robotic Hamburg Open Workshop (RoHOW) an der Technischen Universität Hamburg (TUHH) statt.
 
