@@ -2,7 +2,8 @@
 title: Der RoHOW
 layout: default-de-2016
 redirect_from:
-  - "/2016"
+  - "/"
+  - "/2017"
 ---
 
 ![Gruppenfoto](/assets/img/teams.jpg){: width="600" height="250"}
