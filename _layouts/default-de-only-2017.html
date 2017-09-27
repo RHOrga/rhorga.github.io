@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+  {% include 2017/head.html %}
+  <body>
+    <div id="wrapper">
+        {% include 2017/header.html %}
+        <nav>
+            <ul>
+                {% for item in site.data.2016.menulist-de.menu %}
+                <li>
+                    <a href="{{ item.url }}" alt="{{ item.title }}" class="{% if item.url == page.url %}active{% endif %}">{{ item.title }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+        </nav>
+        <article>
+            <header>
+                <h1>{{ page.title }}</h1>
+            </header>
+            <section>
+                {{ content }}
+            </section>
+        </article>
+        {% include 2017/footer_de.html %}
+    </div>
+  </body>
+</html>

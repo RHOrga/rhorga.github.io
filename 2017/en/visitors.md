@@ -1,6 +1,6 @@
 ---
 title: Information for visitors
-layout: default-en-2016
+layout: default-en-2017
 ---
 
 ## Venue
@@ -13,7 +13,7 @@ Denickestraße 22
 
 ## Opening hours
 
-The RoHOW will be open for visitors on Sunday the 27th November 2016 starting from 12 o'clock.
+The RoHOW will be open for visitors on Sunday the 3rd December 2017 starting from 12 o'clock.
 
 ## Entrance fee
 

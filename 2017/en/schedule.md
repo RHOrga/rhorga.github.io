@@ -1,9 +1,9 @@
 ---
 title: Schedule
-layout: default-en-2016
+layout: default-en-2017
 ---
 
-## Friday (25<sup>th</sup> November 2016, internal)
+## Friday (1<sup>st</sup> December 2017, internal)
 
 | Time  |  Event |
 |-------|--------|
@@ -12,7 +12,7 @@ layout: default-en-2016
 | 08:00 pm  |  Evening program (at the venue) |
 {: class="schedule"}
 
-## Saturday (26<sup>th</sup> November 2016, internal)
+## Saturday (2<sup>nd</sup> December 2017, internal)
 
 | Time  |  Event |
 |-------|--------|
@@ -22,18 +22,23 @@ layout: default-en-2016
 | 10:00 pm  |  Venue closing |
 {: class="schedule"}
 
-## Sunday (27<sup>th</sup> November 2016, public)
+### Announced talks
+
+* Arne Hasselbring - TBA       
+* BSc. Lasse Peters - Adaption und Vergleich von nichtliniearen Filtermethoden zur Selbstlokalisierung auf einem Feld mit dem humanoiden NAO-Robotiksystem
+
+## Sunday (3<sup>rd</sup> December 2017, public)
 
 | Time  |  Event |
 |-------|--------|
 | 08:00 am |  Venue opening |
 | 12:00 pm |  Beginning of open day |
 | 12:30 pm |  Test match I |
-| 01:15 pm |  [Talk][DE] Finn Poppinga, Martin Poppinga – Der RoboCup: Ein Überblick |
 | 14:00 pm |  Test match II |
-| 14:45 pm |  [Talk][DE] Dr. Sven Magg – Bioinspirierte Robotik: Warum brauchen Roboter ein Gehirn? |
 | 15:30 pm |  Test match III |
-| 16:15 pm |  [Talk][DE] Prof. Dr. Marko Lindner – Weichzeichner und größere Schummeleien |
-| 17:00 pm |  Match: Hamburg Bit-Bots vs. HULKs |
 | 06:00 pm |  End and deconstruction |
 {: class="schedule"}
+
+### Announced talks
+
+* Prof. Dr. Marko Lindner – Weichzeichner und größere Schummeleien
