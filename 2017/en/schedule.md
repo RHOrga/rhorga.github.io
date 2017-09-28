@@ -25,7 +25,7 @@ layout: default-en-2017
 ### Announced talks
 
 * Arne Hasselbring - TBA       
-* BSc. Lasse Peters - Adaption und Vergleich von nichtliniearen Filtermethoden zur Selbstlokalisierung auf einem Feld mit dem humanoiden NAO-Robotiksystem
+* B.Sc. Lasse Peters - Adaption und Vergleich von nichtliniearen Filtermethoden zur Selbstlokalisierung auf einem Feld mit dem humanoiden NAO-Robotiksystem
 
 ## Sunday (3<sup>rd</sup> December 2017, public)
 
