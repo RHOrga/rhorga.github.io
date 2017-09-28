@@ -25,7 +25,7 @@ layout: default-de-2017
 ### Angemeldete Vorträge
 
 * Arne Hasselbring - TBA
-* BSc. Lasse Peters - Adaption und Vergleich von nichtliniearen Filtermethoden zur Selbstlokalisierung auf einem Feld mit dem humanoiden NAO-Robotiksystem
+* B.Sc. Lasse Peters - Adaption und Vergleich von nichtliniearen Filtermethoden zur Selbstlokalisierung auf einem Feld mit dem humanoiden NAO-Robotiksystem
 
 ## Sonntag (3. Dezember 2017, öffentlich)
 
