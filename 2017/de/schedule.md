@@ -26,6 +26,7 @@ layout: default-de-2017
 
 * Arne Hasselbring - Implementierung und Evaluation einer Pfeifendetektion für den NAO-Roboter
 * B.Sc. Lasse Peters - Adaption und Vergleich von nichtliniearen Filtermethoden zur Selbstlokalisierung auf einem Feld mit dem humanoiden NAO-Robotiksystem
+* B.Sc. Georg Christian Felbinger - A genetic approach to design convolutional neural networks for the purpose of a ball detection on the NAO robotic system
 
 ## Sonntag (3. Dezember 2017, öffentlich)
 
