@@ -24,7 +24,7 @@ layout: default-de-2017
 
 ### Angemeldete Vorträge
 
-* Arne Hasselbring - TBA
+* Arne Hasselbring - Implementierung und Evaluation einer Pfeifendetektion für den NAO-Roboter
 * B.Sc. Lasse Peters - Adaption und Vergleich von nichtliniearen Filtermethoden zur Selbstlokalisierung auf einem Feld mit dem humanoiden NAO-Robotiksystem
 
 ## Sonntag (3. Dezember 2017, öffentlich)
