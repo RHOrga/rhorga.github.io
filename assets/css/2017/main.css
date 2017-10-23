@@ -185,6 +185,16 @@ article ol
     overflow: hidden;
 }
 
+#wrapper > footer #sponsors > #basler
+{
+    margin: 0px 50px 0px 0px;
+}
+
+#wrapper > footer #sponsors > #imaginghub
+{
+    margin: 0px 0px 0px 0px;
+}
+
 #wrapper > footer #sponsors_small > #alfon
 {
     margin: 0px 50px 0px 0px;
