@@ -3,7 +3,7 @@ title: Ablaufplan
 layout: default-de-2017
 ---
 
-## Freitag (01. Dezember 2017, intern)
+## Freitag (1. Dezember 2017, intern)
 
 | Zeit   | Ereignis                                |
 |:-------|:----------------------------------------|

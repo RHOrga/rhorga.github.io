@@ -9,7 +9,7 @@ From 1st to 3rd December 2017 the fourth Robotic Hamburg Open Workshop (RoHOW) w
 
 The RoHOW is an educational and networking event of the Hamburg University of Technology (TUHH) with students and scientists from all over the world that are active in research on humanoid robots.
 
-Teams of the Standard Platform League are invited to present their work in lectures, lighting talks or workshops. The RoHOW is organized by students from the RoboCup team <a href="https://www.hulks.de/">HULKs</a> of the TUHH.
+Teams of the Standard Platform League are invited to present their work in lectures, lightning talks or workshops. The RoHOW is organized by students from the RoboCup team <a href="https://www.hulks.de/">HULKs</a> of the TUHH.
 
 <div id="eurobotic_week">
     <p>This event is part of the <strong>European&nbsp;Robotics&nbsp;Week&nbsp;2017</strong> &ndash; 17&nbsp;November - 26&nbsp;November&nbsp;2017</p>
