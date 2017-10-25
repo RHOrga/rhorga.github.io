@@ -5,7 +5,7 @@ layout: default-en-only-2017
 
 ## Registration
 
-To register your team and team members, please send an email to <a href="mailto:hulks@tuhh.de">hulks@tuhh.de</a> including your team name, a contact person and the estimated number of participants from your team. This needs to be done by **22<sup>th</sup> October 2017**. We will also need the names of all participants by **5<sup>th</sup> November 2017**.
+To register your team and team members, please send an email to <a href="mailto:hulks@tuhh.de">hulks@tuhh.de</a> including your team name, a contact person and the estimated number of participants from your team. This needs to be done by **5<sup>th</sup> November 2017**. We will also need the names of all participants by **19<sup>th</sup> November 2017**.
 
 Please submit your registration as soon as possible to help us simplify planning.
 
@@ -24,8 +24,8 @@ Please submit your registration as soon as possible to help us simplify planning
 |       Date           |                 Event                         |
 |---------------------:|:----------------------------------------------|
 | 1st September 2017   | Registration opens                            |
-| 22th October 2017    | Registration deadline RoboCup Major teams     |
-| 5th November 2017    | Registration deadline team members with names |
+| 5th November 2017    | Registration deadline RoboCup Major teams     |
+| 19th November 2017    | Registration deadline team members with names |
 | 1st December 2017    | Set-Up day teams (5 pm)                       |
 | 2nd December 2017    | Workshop day                                  |
 | 3rd December 2017    | Competition/Workshop day, (open to public)    |
