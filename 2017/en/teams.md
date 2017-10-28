@@ -36,7 +36,8 @@ Your participation will be free of charge.
 
 ## Rules
 
-Please visit our leagues pages www.robocupgermanopen.de/major for a reference to the rules. Since the SPL will use 8mm artificial turf from next year on, there will be a single SPL standard sized field as seen in the RoboCup 2016 Outdoor Competition. If you have further questions or rules are missing please contact the chair of your league.
+Please visit our leagues pages www.robocupgermanopen.de/major for a reference to the rules.
+If you have further questions or rules are missing please contact the chair of your league.
 
 ## Accommodation
 
