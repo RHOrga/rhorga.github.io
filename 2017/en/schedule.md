@@ -26,6 +26,8 @@ layout: default-en-2017
 
 * **Dr. Jörg Kunze** (Basler AG)  
 [EN] Bayer Pattern and Image Quality
+* **TBA** (Ibeo Automotive Systems)  
+[TBA] TBA
 * **B.Sc. Arne Hasselbring**  
 [DE] Implementierung und Evaluation einer Pfeifendetektion für den NAO-Roboter
 * **B.Sc. Lasse Peters**  
