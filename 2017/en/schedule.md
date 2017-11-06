@@ -30,7 +30,7 @@ layout: default-en-2017
 [TBA] TBA
 * **B.Sc. Arne Hasselbring**  
 [DE] Implementierung und Evaluation einer Pfeifendetektion für den NAO-Roboter
-* **B.Sc. Lasse Peters**  
+* **B.Sc. Lasse Peters**  
 [EN] Adaption and comparison of nonlinear filtering methods for self-localization on a football field
 * **B.Sc. Georg Christian Felbinger**  
 [EN] A genetic approach to design convolutional neural networks for the purpose of a ball detection on the NAO robotic system
