@@ -13,7 +13,7 @@ layout: default-de-only-2017
 ### 1. Überblick
 
 | | |
-|:----------:|-------|
+|----------:|:------|
 | **Titel:** | RoHOW |
 | **Datum (öffentlich):**  |   3. Dezember 2017 |
 | **Datum (Teilnehmer):**  |   1. bis 3. Dezember 2017 |
