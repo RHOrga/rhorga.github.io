@@ -51,3 +51,5 @@ layout: default-en-2017
 
 * **Prof. Dr. Marko Lindner**  
 [DE] Weichzeichner und größere Schummeleien
+* **René Kost**  
+[DE] RoboCup
