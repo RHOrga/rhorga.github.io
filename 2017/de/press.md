@@ -7,6 +7,7 @@ layout: default-de-only-2017
 ## Material
 
 - [Flyer (DIN Lang / DIN ⅓A4)](/assets/img/Flyer2017.pdf)
+- [Plakat (DIN A7)](assets/img/Plakat2017.pdf)
 
 ## Pressemitteilung
 ### 1. Überblick
