@@ -3,6 +3,6 @@ description: Robotic Hamburg Open Workshop
 
 markdown: kramdown
 
-gems:
+plugins:
   - jekyll-redirect-from
 
