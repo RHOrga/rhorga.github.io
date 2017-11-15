@@ -23,5 +23,5 @@ Der Eintritt sowie die Parkplatznutzung im Parkhaus der Technischen Universität
 
 In Zusammenarbeit mit der [Koordinierungsstelle](https://dual.tuhh.de/) für
 duales Studieren an der TUHH bieten wir Kindern ab 10 Jahren die Möglichkeit
-selber Tätig zu werden im Bau und der Programmierung eines Roboters. Es ist
+selber tätig zu werden im Bau und der Programmierung eines Roboters. Es ist
 keine Anmeldung erforderlich.  Kommen Sie einfach vorbei.
