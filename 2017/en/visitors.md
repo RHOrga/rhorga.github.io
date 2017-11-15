@@ -18,3 +18,10 @@ The RoHOW will be open for visitors on Sunday the 3rd December 2017 starting fro
 ## Entrance fee
 
 There is no entrance fee due.
+
+## Robotics workshop
+
+In cooperation with the [coordination office](https://dual.tuhh.de/) for dual
+studies at the TUHH, we offer children from 10 years of age the opportunity to
+work in the construction and programming of a robot. No registration is
+required. Just come around. 

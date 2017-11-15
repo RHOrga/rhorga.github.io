@@ -18,3 +18,10 @@ Der RoHOW wird für Besucher am Sonntag, den 3. Dezember 2017 ab 12 Uhr, seine T
 ## Eintrittspreise
 
 Der Eintritt sowie die Parkplatznutzung im Parkhaus der Technischen Universität ist frei.
+
+## Robotikworkshop
+
+In Zusammenarbeit mit der [Koordinierungsstelle](https://dual.tuhh.de/) für
+duales Studieren an der TUHH bieten wir Kindern ab 10 Jahren die Möglichkeit
+selber Tätig zu werden im Bau und der Programmierung eines Roboters. Es ist
+keine Anmeldung erforderlich.  Kommen Sie einfach vorbei.
