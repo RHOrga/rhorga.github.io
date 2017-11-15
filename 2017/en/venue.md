@@ -15,4 +15,4 @@ Germany
 ## Building plan (Building I)
 
 ![Gebäude I - Erdgeschoss](/assets/img/I-groundfloor.png){: width="600" height="491"}
-![Gebäude I - Keller](/assets/img/I-basement.png){: width="600" height="667"}
+![Gebäude I - Keller](/assets/img/I-basement_2017.png){: width="600" height="667"}
