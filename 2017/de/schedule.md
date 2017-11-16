@@ -34,6 +34,12 @@ layout: default-de-2017
 [EN] Adaption and comparison of nonlinear filtering methods for self-localization on a football field
 * **B.Sc. Georg Christian Felbinger**  
 [EN] A genetic approach to design convolutional neural networks for the purpose of a ball detection on the NAO robotic system
+* **Diskussion about labeling tools**
+    * **Fabian Fiedler** 
+        * Imagetagger: An Open Source Online Platform for Collaborative Image
+          Labeling
+    * **B.Sc. Georg Christian Felbinger**
+        * Annotate
 
 ## Sonntag (3. Dezember 2017, öffentlich)
 
