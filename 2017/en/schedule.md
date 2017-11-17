@@ -35,7 +35,7 @@ layout: default-en-2017
 * **B.Sc. Georg Christian Felbinger**  
 [EN] A genetic approach to design convolutional neural networks for the purpose of a ball detection on the NAO robotic system
 * **Diskussion about labeling tools**
-    * **Fabian Fiedler** 
+    * **Niklas Fiedler** 
         * Imagetagger: An Open Source Online Platform for Collaborative Image
           Labeling
     * **B.Sc. Georg Christian Felbinger**
