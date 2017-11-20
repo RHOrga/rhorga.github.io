@@ -48,14 +48,15 @@ layout: default-de-2017
 
 ## Sonntag (3. Dezember 2017, öffentlich)
 
-| Zeit  | Ereignis                         |
-|:------|:---------------------------------|
-| 08:00 | Öffnung des Veranstaltungsorts   |
-| 12:00 | Beginn des Tages der offenen Tür |
-| 12:30 | Testspiel I                      |
-| 14:00 | Testspiel II                     |
-| 15:30 | Testspiel III                    |
-| 18:00 | Abschluss und Abbau              |
+| Zeit    | Ereignis                           |
+| :------ | :--------------------------------- |
+| 08:00   | Öffnung des Veranstaltungsorts     |
+| 12:00   | Beginn des Tages der offenen Tür   |
+| 12:00   | Beginn Robotikworkshop für Kinder  |
+| 12:30   | Testspiel I                        |
+| 14:00   | Testspiel II                       |
+| 15:30   | Testspiel III                      |
+| 18:00   | Abschluss und Abbau                |
 {: class="schedule"}
 
 ### Angemeldete Vorträge

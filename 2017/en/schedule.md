@@ -48,14 +48,15 @@ layout: default-en-2017
 
 ## Sunday (3<sup>rd</sup> December 2017, public)
 
-| Time     | Event                  |
-| :------  | :-------               |
-| 08:00 am | Venue opening          |
-| 12:00 pm | Beginning of open day  |
-| 12:30 pm | Test match I           |
-| 14:00 pm | Test match II          |
-| 15:30 pm | Test match III         |
-| 06:00 pm | End and deconstruction |
+| Time     | Event                                      |
+| :------  | :-------                                   |
+| 08:00 am | Venue opening                              |
+| 12:00 pm | Beginning of open day                      |
+| 12:00 pm | Beginning of the robotic workshop for kids |
+| 12:30 pm | Test match I                               |
+| 14:00 pm | Test match II                              |
+| 15:30 pm | Test match III                             |
+| 06:00 pm | End and deconstruction                     |
 {: class="schedule"}
 
 ### Announced talks
