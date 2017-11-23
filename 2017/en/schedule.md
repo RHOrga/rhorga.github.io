@@ -8,8 +8,8 @@ layout: default-en-2017
 | Time     | Event                              |
 | :------  | :-------                           |
 | 05:00 pm | Setup for all teams                |
-| 07:30 pm | Welcoming in Auditorium maximum II |
-| 08:00 pm | Evening program (at the venue)     |
+| 07:00 pm | Welcoming in Auditorium maximum II |
+| 08:00 pm | Eating, drinking, discussing and chilling at the venue <br>(Food Truck, HULKs Beer and so on) |
 {: class="schedule"}
 
 ## Saturday (2<sup>nd</sup> December 2017, internal)

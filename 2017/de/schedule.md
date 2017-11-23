@@ -8,8 +8,8 @@ layout: default-de-2017
 | Zeit   | Ereignis                                |
 |:-------|:----------------------------------------|
 | 17:00  | Aufbau für alle Teams                   |
-| 19:30  | Begrüßung im Audimax II                 |
-| 20:00  | Abendprogramm auf dem Veranstaltungsort |
+| 19:00  | Begrüßung im Audimax II                 |
+| 20:00  | Essen, Trinken, Diskutieren und Chillen am Veranstaltungsort<br>(Food Truck, HULKs Beer und vieles mehr |
 {: class="schedule"}
 
 ## Samstag (2. Dezember 2017, intern)
