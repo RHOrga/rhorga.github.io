@@ -40,6 +40,9 @@ layout: default-en-2017
           Labeling
     * **B.Sc. Georg Christian Felbinger**
         * Annotate
+* Discussion about stabilization methods
+    * Exchange of own implementations
+    * Experiences, effectivity
 
 ### Ideas for workshops and discussions  
 
