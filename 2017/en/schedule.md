@@ -17,7 +17,7 @@ layout: default-en-2017
 | Time                   | Event                      |
 | :------                | :-------                   |
 | 08:00 am               | Venue opening              |
-| 10:00 pm -<br>06:00 pm | Workshops (see whiteboard) |
+| 10:00 pm -<br>06:00 pm | Workshops                  |
 | 12:00 pm               | Group photo                |
 | 10:00 pm               | Venue closing              |
 {: class="schedule"}
@@ -40,7 +40,7 @@ layout: default-en-2017
           Labeling
     * **B.Sc. Georg Christian Felbinger**
         * Annotate
-* Discussion about stabilization methods
+* **Discussion about stabilization methods**
     * Exchange of own implementations
     * Experiences, effectivity
 
@@ -51,20 +51,15 @@ layout: default-en-2017
 
 ## Sunday (3<sup>rd</sup> December 2017, public)
 
-| Time     | Event                                      |
-| :------  | :-------                                   |
-| 08:00 am | Venue opening                              |
-| 12:00 pm | Beginning of open day                      |
-| 12:00 pm | Beginning of the robotic workshop for kids |
-| 12:30 pm | Test match I                               |
-| 14:00 pm | Test match II                              |
-| 15:30 pm | Test match III                             |
-| 06:00 pm | End and deconstruction                     |
+| Time     | Event                                                                                 |
+| :-       | :-                                                                                    |
+| 08:00 am | Venue opening                                                                         |
+| 12:00 pm | Beginning of open day                                                                 |
+| 12:00 pm | Beginning of the robotic workshop for kids                                            |
+| 12:30 pm | Test game                                                                             |
+| 01:30 pm | Presentation [DE]<br>René Kost - Einführung und Überblick                             |
+| 02:30 pm | Test game                                                                             |
+| 03:30 pm | Presentation [DE]<br>Prof. Dr. Marko Lindner - Weichzeichner und größere Schummeleien |
+| 04:30 pm | Test game                                                                             |
+| 06:00 pm | End and deconstruction                                                                |
 {: class="schedule"}
-
-### Announced talks
-
-* **Prof. Dr. Marko Lindner**  
-[DE] Weichzeichner und größere Schummeleien
-* **René Kost**  
-[DE] RoboCup - Einführung und Überblick
