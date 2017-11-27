@@ -26,6 +26,8 @@ layout: default-de-2017
 
 * **Dr. Jörg Kunze** (Basler AG)  
 [EN] Bayer Pattern and Image Quality
+* **Dipl.-Inf. Dipl.-Ing. Stefan Richter** (freiheit.com technologies)  
+[TBA] TBA
 * **M.Sc. Martin Krähling** (Ibeo Automotive Systems)  
 [EN] Driving Strategies for Autonomous Urban Shuttles  
 * **B.Sc. Arne Hasselbring**  
