@@ -17,7 +17,7 @@ layout: default-en-2017
 | Time                   | Event                      |
 | :------                | :-------                   |
 | 08:00 am               | Venue opening              |
-| 10:00 pm -<br>06:00 pm | Workshops                  |
+| 10:00 am -<br>06:00 pm | Workshops                  |
 | 12:00 pm               | Group photo                |
 | 10:00 pm               | Venue closing              |
 {: class="schedule"}
