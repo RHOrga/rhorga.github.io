@@ -53,15 +53,15 @@ layout: default-en-2017
 
 ## Sunday (3<sup>rd</sup> December 2017, public)
 
-| Time     | Event                                                                                 |
-| :-       | :-                                                                                    |
-| 08:00 am | Venue opening                                                                         |
-| 12:00 pm | Beginning of open day                                                                 |
-| 12:00 pm | Beginning of the robotic workshop for kids                                            |
-| 12:30 pm | Test game                                                                             |
-| 01:30 pm | Presentation [DE]<br>René Kost - Einführung und Überblick                             |
-| 02:30 pm | Test game                                                                             |
-| 03:30 pm | Presentation [DE]<br>Prof. Dr. Marko Lindner - Weichzeichner und größere Schummeleien |
-| 04:30 pm | Test game                                                                             |
-| 06:00 pm | End and deconstruction                                                                |
+| Time     | Event                                                                                |
+| :-       | :-                                                                                   |
+| 08:00 am | Venue opening                                                                        |
+| 12:00 pm | Beginning of open day                                                                |
+| 12:00 pm | Beginning of the robotic workshop for kids                                           |
+| 12:30 pm | Test game                                                                            |
+| 01:30 pm | Presentation [DE]<br>René Kost: RoboCup - Einführung und Überblick                   |
+| 02:30 pm | Test game                                                                            |
+| 03:30 pm | Presentation [DE]<br>Prof. Dr. Marko Lindner: Weichzeichner und größere Schummeleien |
+| 04:30 pm | Test game                                                                            |
+| 06:00 pm | End and deconstruction                                                               |
 {: class="schedule"}

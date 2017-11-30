@@ -9,7 +9,7 @@ layout: default-de-2017
 |:-------|:----------------------------------------|
 | 17:00  | Aufbau für alle Teams                   |
 | 19:00  | Begrüßung im Audimax II                 |
-| 20:00  | Essen, Trinken, Diskutieren und Chillen am Veranstaltungsort<br>(Food Truck, HULKs Beer und vieles mehr |
+| 20:00  | Essen, Trinken, Diskutieren und Chillen am Veranstaltungsort<br>(Food Truck, HULKs Beer und vieles mehr) |
 {: class="schedule"}
 
 ## Samstag (2. Dezember 2017, intern)
@@ -53,15 +53,15 @@ layout: default-de-2017
 
 ## Sonntag (3. Dezember 2017, öffentlich)
 
-| Zeit  | Ereignis                                                                         |
-| :-    | :-                                                                               |
-| 08:00 | Öffnung des Veranstaltungsorts                                                   |
-| 12:00 | Beginn des Tages der offenen Tür                                                 |
-| 12:00 | Beginn Robotikworkshop für Kinder                                                |
-| 12:30 | Testspiel                                                                        |
-| 13:30 | Vortrag [DE]<br>René Kost - Einführung und Überblick                             |
-| 14:30 | Testspiel                                                                        |
-| 15:30 | Vortrag [DE]<br>Prof. Dr. Marko Lindner - Weichzeichner und größere Schummeleien |
-| 16:30 | Testspiel                                                                        |
-| 18:00 | Abschluss und Abbau                                                              |
+| Zeit  | Ereignis                                                                        |
+| :-    | :-                                                                              |
+| 08:00 | Öffnung des Veranstaltungsorts                                                  |
+| 12:00 | Beginn des Tages der offenen Tür                                                |
+| 12:00 | Beginn Robotikworkshop für Kinder                                               |
+| 12:30 | Testspiel                                                                       |
+| 13:30 | Vortrag [DE]<br>René Kost: RoboCup - Einführung und Überblick                   |
+| 14:30 | Testspiel                                                                       |
+| 15:30 | Vortrag [DE]<br>Prof. Dr. Marko Lindner: Weichzeichner und größere Schummeleien |
+| 16:30 | Testspiel                                                                       |
+| 18:00 | Abschluss und Abbau                                                             |
 {: class="schedule"}
