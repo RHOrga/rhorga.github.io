@@ -27,3 +27,12 @@ info point and we will help out.
 
 **Best practice:** Give us the money and your order list with the name of the delivery
 service written on it.
+
+## Image Labeling Tools (Links)
+
+Here are the links that were mentioned in the discussion about image labeling tools.
+
+* <https://annotate.cybr.fail>
+* <https://gitlab.com/gfelbing/annotate>
+* <https://imagetagger.bit-bots.de>
+* <https://github.com/bit-bots/imagetagger>
