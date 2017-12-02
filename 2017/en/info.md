@@ -13,7 +13,7 @@ www.rohow.de/mopad
 
 For any concerns, just contact us.
 
-| \  | \  |
+|   |   |
 | - | - |
 | Pascal | +49 176 63767951 |
 | Yuria |  +49 151 74376250 |
