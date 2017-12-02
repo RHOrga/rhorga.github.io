@@ -12,6 +12,7 @@ redirect_from:
 ## Contact
 
 For any concerns, just contact us.
+
 |   |   |
 | - | - |
 | Pascal | +49 176 63767951 |
