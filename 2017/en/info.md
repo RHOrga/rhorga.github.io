@@ -13,10 +13,8 @@ www.rohow.de/mopad
 
 For any concerns, just contact us.
 
-\begin{align*}
-\text{Ploth } & \text{+49 176 63767951}\\
-\text{Yuria } & \text{+49 151 74376250}\\
-\end{align*}
+Pascal +49 176 63767951
+<br>Yuria +49 151 74376250
 
 ## Ordering pizza, croque, ...
 
