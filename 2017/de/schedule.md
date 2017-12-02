@@ -19,7 +19,6 @@ layout: default-de-2017
 | 08:00            | Öffnung des Veranstaltungsorts    |
 | 10:00 -<br>18:00 | Workshops                         |
 | 12:00            | **Dr. Jörg Kunze** (Basler AG) <br>[EN] Bayer Pattern and Image Quality |
-| 14:15            | Gruppenfoto |
 | 15:00            | **M.Sc. Martin Krähling** (Ibeo Automotive Systems) <br>[EN] Driving Strategies for Autonomous Urban Shuttles |
 | 17:00            | **Dipl.-Inf. Dipl.-Ing. Stefan Richter** (freiheit.com technologies) <br>[EN] How to Solve a Problem |
 | 22:00            | Schließung des Veranstaltungsorts |
@@ -53,6 +52,7 @@ layout: default-de-2017
 | Zeit  | Ereignis                                                                        |
 | :-    | :-                                                                              |
 | 08:00 | Öffnung des Veranstaltungsorts                                                  |
+| 11:00 | Gruppenfoto |
 | 12:00 | Beginn des Tages der offenen Tür                                                |
 | 12:00 | Beginn Robotikworkshop für Kinder                                               |
 | 12:30 | Testspiel                                                                       |
