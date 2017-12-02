@@ -16,7 +16,6 @@ For any concerns, just contact us.
 \begin{align*}
 \text{Ploth } & \text{+49 176 63767951}\\
 \text{Yuria } & \text{+49 151 74376250}\\
-\text{René } & \text{+49 176 84629075}\\
 \end{align*}
 
 ## Ordering pizza, croque, ...

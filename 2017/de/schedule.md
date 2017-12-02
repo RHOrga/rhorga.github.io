@@ -18,18 +18,15 @@ layout: default-de-2017
 |:-----------------|:----------------------------------|
 | 08:00            | Öffnung des Veranstaltungsorts    |
 | 10:00 -<br>18:00 | Workshops                         |
-| 12:00            | Gruppenfoto                       |
+| 12:00 pm         | **Dr. Jörg Kunze** (Basler AG) <br>[EN] Bayer Pattern and Image Quality |
+| 02:15 pm         | Gruppenfoto |
+| 03:00 pm         | **M.Sc. Martin Krähling** (Ibeo Automotive Systems) <br>[EN] |Bayer Pattern and Image Quality |
+| 05:00 pm         | **Dipl.-Inf. Dipl.-Ing. Stefan Richter** (freiheit.com technologies) <br>[EN] How to Solve a Problem |
 | 22:00            | Schließung des Veranstaltungsorts |
 {: class="schedule"}
 
 ### Angemeldete Vorträge
 
-* **Dr. Jörg Kunze** (Basler AG)  
-[EN] Bayer Pattern and Image Quality
-* **Dipl.-Inf. Dipl.-Ing. Stefan Richter** (freiheit.com technologies)  
-[TBA] TBA
-* **M.Sc. Martin Krähling** (Ibeo Automotive Systems)  
-[EN] Driving Strategies for Autonomous Urban Shuttles  
 * **B.Sc. Arne Hasselbring**  
 [DE] Implementierung und Evaluation einer Pfeifendetektion für den NAO-Roboter
 * **B.Sc. Lasse Peters**  
@@ -46,7 +43,7 @@ layout: default-de-2017
     * Austausch über eigene Implementierungen
     * Erfahrungen, Effektivität
 
-### Ideas for workshops and discussions  
+### Ideen für Workshops und Diskussionen  
 
 * Brainstorming zu Regeländerungen und Umsetzung
 * Schiedsrichtertraining
