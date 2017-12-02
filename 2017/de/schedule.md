@@ -20,7 +20,7 @@ layout: default-de-2017
 | 10:00 -<br>18:00 | Workshops                         |
 | 12:00            | **Dr. Jörg Kunze** (Basler AG) <br>[EN] Bayer Pattern and Image Quality |
 | 14:15            | Gruppenfoto |
-| 15:00            | **M.Sc. Martin Krähling** (Ibeo Automotive Systems) <br>[EN] Bayer Pattern and Image Quality |
+| 15:00            | **M.Sc. Martin Krähling** (Ibeo Automotive Systems) <br>[EN] Driving Strategies for Autonomous Urban Shuttles |
 | 17:00            | **Dipl.-Inf. Dipl.-Ing. Stefan Richter** (freiheit.com technologies) <br>[EN] How to Solve a Problem |
 | 22:00            | Schließung des Veranstaltungsorts |
 {: class="schedule"}
