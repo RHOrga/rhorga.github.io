@@ -41,6 +41,7 @@ Here are the links that were mentioned in the discussion about image labeling to
 * <https://gitlab.com/gfelbing/annotate>
 * <https://imagetagger.bit-bots.de>
 * <https://github.com/bit-bots/imagetagger>
+* <https://zenodo.org/>
 
 ## Localization workshop
 
