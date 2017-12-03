@@ -27,7 +27,11 @@ info point and we will help out.
 * [Croque](http://www.lieferprofi.de/shops/croquemaster/common/03_speisen-uebersicht.php)
 
 **Best practice:** Give us the money and your order list with the name of the delivery
-service written on it.
+service written on it.  
+
+**Otherwise** use the following address:  
+Denickestraße 22  
+21073 Hamburg  
 
 ## Image Labeling Tools (Links)
 
