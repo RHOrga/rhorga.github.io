@@ -33,7 +33,7 @@ service written on it.
 Denickestraße 22  
 21073 Hamburg  
 
-## Image Labeling Tools (Links)
+## Image Labeling Tools
 
 Here are the links that were mentioned in the discussion about image labeling tools.
 
@@ -41,3 +41,7 @@ Here are the links that were mentioned in the discussion about image labeling to
 * <https://gitlab.com/gfelbing/annotate>
 * <https://imagetagger.bit-bots.de>
 * <https://github.com/bit-bots/imagetagger>
+
+## Localization workshop
+
+* <https://eldorado.tu-dortmund.de/bitstream/2003/33007/1/Dissertation.pdf>
