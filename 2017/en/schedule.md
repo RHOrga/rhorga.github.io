@@ -49,15 +49,16 @@ layout: default-en-2017
 
 ## Sunday (3<sup>rd</sup> December 2017, public)
 
-| Time     | Event                                                                                |
-| :-       | :-                                                                                   |
-| 08:00 am | Venue opening                                                                        |
-| 12:00 pm | Beginning of open day                                                                |
-| 12:00 pm | Beginning of the robotic workshop for kids                                           |
-| 01:00 pm | [Bembelbots](https://www.jrl.cs.uni-frankfurt.de/web/robocup) : [HULKs](http://hulks.de) |
-| 01:30 pm | Presentation [DE]<br>René Kost: RoboCup - Einführung und Überblick                   |
+| Time     | Event                                                                                                                                                       |
+| :-       | :-                                                                                                                                                          |
+| 08:00 am | Venue opening                                                                                                                                               |
+| 12:00 pm | Beginning of open day                                                                                                                                       |
+| 12:00 pm | Beginning of the robotic workshop for kids                                                                                                                  |
+| 01:00 pm | [Bembelbots](https://www.jrl.cs.uni-frankfurt.de/web/robocup) : [HULKs](http://hulks.de)                                                                    |
+| 01:30 pm | Presentation [DE]<br>René Kost: RoboCup - Einführung und Überblick                                                                                          |
 | 02:30 pm | [Berlin United - Nao Team Humboldt](http://naoth.de) : [Nao Devils Dortmund](http://www.irf.tu-dortmund.de/cms/de/IT/Forschung/Robotics/RoboCup/index.html) |
-| 03:30 pm | Presentation [DE]<br>Prof. Dr. Marko Lindner: Weichzeichner und größere Schummeleien |
-| 04:30 pm | [B-Human](https://www.b-human.de) : [Nao Devils Dortmund](http://www.irf.tu-dortmund.de/cms/de/IT/Forschung/Robotics/RoboCup/index.html) |
-| 06:00 pm | End and deconstruction                                                               |
+| 03:30 pm | Presentation [DE]<br>Prof. Dr. Marko Lindner: Weichzeichner und größere Schummeleien                                                                        |
+| 04:30 pm | [B-Human](https://www.b-human.de) : [Nao Devils Dortmund](http://www.irf.tu-dortmund.de/cms/de/IT/Forschung/Robotics/RoboCup/index.html)                    |
+| 05:00 pm | End of event                                                                                                                                                |
+| 06:00 pm | Deconstruction                                                                                                                                              |
 {: class="schedule"}
