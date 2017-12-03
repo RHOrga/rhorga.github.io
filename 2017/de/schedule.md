@@ -52,13 +52,12 @@ layout: default-de-2017
 | Zeit  | Ereignis                                                                        |
 | :-    | :-                                                                              |
 | 08:00 | Öffnung des Veranstaltungsorts                                                  |
-| 11:00 | Gruppenfoto |
 | 12:00 | Beginn des Tages der offenen Tür                                                |
 | 12:00 | Beginn Robotikworkshop für Kinder                                               |
-| 12:30 | Testspiel                                                                       |
+| 13:00 | [Bembelbots](https://www.jrl.cs.uni-frankfurt.de/web/robocup) : [HULKs](http://hulks.de) |
 | 13:30 | Vortrag [DE]<br>René Kost: RoboCup - Einführung und Überblick                   |
-| 14:30 | Testspiel                                                                       |
+| 14:30 | [Berlin United - Nao Team Humboldt](http://naoth.de) : [Nao Devils Dortmund](http://www.irf.tu-dortmund.de/cms/de/IT/Forschung/Robotics/RoboCup/index.html) |
 | 15:30 | Vortrag [DE]<br>Prof. Dr. Marko Lindner: Weichzeichner und größere Schummeleien |
-| 16:30 | Testspiel                                                                       |
+| 16:30 | [B-Human](https://www.b-human.de) : [Nao Devils Dortmund](http://www.irf.tu-dortmund.de/cms/de/IT/Forschung/Robotics/RoboCup/index.html) |
 | 18:00 | Abschluss und Abbau                                                             |
 {: class="schedule"}
