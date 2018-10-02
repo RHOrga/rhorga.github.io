@@ -5,7 +5,11 @@ layout: default-en-only-2018
 
 ## Registration
 
-To register your team and team members, please send an email to <a href="mailto:hulks@tuhh.de">hulks@tuhh.de</a> including your team name, a contact person and the estimated number of participants from your team. This needs to be done by **5<sup>th</sup> November 2017**. We will also need the names of all participants by **19<sup>th</sup> November 2017**.
+To register your team and team members, please send an email to 
+<a href="mailto:hulks@tuhh.de">hulks@tuhh.de</a> including your team name, a 
+contact person and the estimated number of participants from your team. This 
+needs to be done by **4<sup>th</sup> November 2018**. We will also need the 
+names of all participants by **18<sup>th</sup> November 2018**.
 
 Please submit your registration as soon as possible to help us simplify planning.
 
@@ -13,25 +17,20 @@ Please submit your registration as soon as possible to help us simplify planning
 
 |   | Team | Liga | Land |
 |---|------|------|------|
-| ![](/assets/img/teams/Bembelbots.png){: height="32"} | [Bembelbots](https://www.jrl.cs.uni-frankfurt.de/web/robocup) | SPL | ![DE](/assets/img/de.svg) |
-| ![](/assets/img/teams/Berlin United - NaoTH.png){: height="32"} | [Berlin United - Nao Team Humboldt](http://naoth.de) | SPL | ![DE](/assets/img/de.svg) |
-| ![](/assets/img/teams/B-Human.png){: height="32"} | [B-Human](https://www.b-human.de) | SPL | ![DE](/assets/img/de.svg) |
-| ![](/assets/img/teams/DNT_logo.png){: height="32"} | [Dutch Nao Team](http://www.dutchnaoteam.nl) | SPL | ![NL](/assets/img/nl.svg){: height="32"} |
 | ![](/assets/img/teams/HULKs.svg){: height="32"} | [HULKs](http://hulks.de) | SPL | ![DE](/assets/img/de.svg) |
-| ![](/assets/img/teams/Nao Devils Dortmund.png){: height="32"} | [Nao Devils Dortmund](http://www.irf.tu-dortmund.de/cms/de/IT/Forschung/Robotics/RoboCup/index.html) | SPL | ![DE](/assets/img/de.svg) |
-| ![](/assets/img/teams/Nao-Team HTWK.svg){: height="32"} | [Nao-Team HTWK](http://www.htwk-robots.de) | SPL | ![DE](/assets/img/de.svg) |
 {: class="teams"}
 
 ## Important Dates
 
 |       Date           |                 Event                         |
 |---------------------:|:----------------------------------------------|
-| 1st September 2017   | Registration opens                            |
-| 5th November 2017    | Registration deadline RoboCup Major teams     |
-| 19th November 2017    | Registration deadline team members with names |
-| 1st December 2017    | Set-Up day teams (5 pm)                       |
-| 2nd December 2017    | Workshop day                                  |
-| 3rd December 2017    | Competition/Workshop day, (open to public)    |
+| 1st October 2018     | Registration opens                            |
+| 4th November 2018    | Registration deadline RoboCup Major teams     |
+| 18th November 2018   | Registration deadline team members with names |
+| 30th November 2018   | Set-Up day teams (5 pm)                       |
+| 30th November 2018   | Welcoming (7 pm)                              |
+| 2nd December 2018    | Workshop day                                  |
+| 3rd December 2018    | Workshop day                                  |
 
 ## Participation Fees
 
