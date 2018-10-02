@@ -14,9 +14,9 @@ layout: default-de-only-2018
 |                                 |                                                                                        |
 | ----------:                     | :------                                                                                |
 | **Titel:**                      | RoHOW                                                                                  |
-| **Tag für Besucher:**         | 3. Dezember 2017                                                                       |
-| **Workshop für Kinder:**        | 3. Dezember 2017
-| **Teilnehmende RoboCup Teams:** | 1. bis 3. Dezember 2017                                                                |
+| **Tag für Besucher:**           | 2. Dezember 2017 ab 12:00 Uhr                                                          |
+| **Workshop für Kinder:**        | 2. Dezember 2017 ab 12:00 Uhr                                                          |
+| **Teilnehmende RoboCup Teams:** | 30. November bis 2. Dezember 2018                                                      |
 | **Ort:**                        | Technische Universität Hamburg <br> Gebäude I <br> Denickestraße 22 <br> 21073 Hamburg |
 | **Zielgruppe:**                 | RoboCup Teams der Standard Plattform League und Interessierte jeden Alters             |
 | **Eintritt:**                   | frei                                                                                   |
@@ -40,9 +40,9 @@ Wettbewerbe zwischen den Teams stattfinden.
 
 ### 3. Ablauf der Veranstaltung
 
-Der RoHOW ist als Wochenendveranstaltung vom 1. bis 3. Dezember 2017 und somit
-zwischen den Meisterschaften geplant. Am Freitag findet neben der Anreise eine
-allgemeine Begrüßung statt.
+Der RoHOW ist als Wochenendveranstaltung vom 30. November bis zum 2. Dezember 2018 
+und somit zwischen den Meisterschaften geplant. Am Freitag findet neben der Anreise 
+eine allgemeine Begrüßung statt.
 
 Das zentrale Konzept der Veranstaltung sind die organisierten Workshops, die
 über den Samstag verteilt stattfinden. Es wird einerseits theoretische Workshops
@@ -57,15 +57,14 @@ Themenbereich der Robotik wecken, sowie einen größeren Austausch ermöglichen.
 Am Sonntag sollen weitere Workshops stattfinden, die thematisch auf den Inhalten
 des Samstags aufbauen. Darüber hinaus soll die Veranstaltung für fachfremde
 Studierende der Technischen Universität Hamburg sowie für interessierte Besucher
-geöffnet werden. Es soll dafür Testspiele der verschiedenen Teams gegeneinander
-geben, sowie interaktive Demonstrationen und Vorträge, zum Beispiel als
+geöffnet werden. Es soll dafür interaktive Demonstrationen und Vorträge geben, zum Beispiel als
 Einführung in das Themengebiet der Robotik oder zu ethischen Fragen der
 Robotikforschung. Die interaktiven Demonstrationen bieten dabei auch jüngeren
 Kindern einen spielerischen Zugang zu dem Thema, während sich die Vorträge
 insbesondere an Studieninteressierte und Studierende fachfremder Studiengänge
 richten.
 
-Neu im Jahr 2017 ist der Robotikworkshop für Kinder ab etwa 10 Jahre. Es können
+Das zweite Mal dabei ist der Robotikworkshop für Kinder ab etwa 10 Jahre. Es können
 selbst Roboter gebaut und programmiert werden. Wodurch Kindern ein spielerischer
 Zugang zu dem Themengebiet der Robotik bereitet wird.
 
