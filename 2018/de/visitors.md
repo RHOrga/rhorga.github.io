@@ -13,7 +13,7 @@ Denickestraße 22
 
 ## Öffnungszeiten
 
-Der RoHOW wird für Besucher am Sonntag, den 3. Dezember 2017 ab 12 Uhr, seine Türen öffnen.
+Der RoHOW wird für Besucher am Sonntag, den 2. Dezember 2018 ab 12 Uhr, seine Türen öffnen.
 
 ## Eintrittspreise
 
