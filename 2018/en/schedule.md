@@ -3,7 +3,7 @@ title: Schedule
 layout: default-en-2018
 ---
 
-## Friday (30<sup>th</sup> November 2018, internal)
+## Friday (30<sup>th</sup> November 2018)
 
 | Time     | Event                              |
 | :------  | :-------                           |
@@ -12,7 +12,7 @@ layout: default-en-2018
 | 08:00 pm | Eating, drinking, discussing and chilling at the venue <br>(Food Truck, HULKs Beer and so on), open end |
 {: class="schedule"}
 
-## Saturday (1<sup>st</sup> December 2018, internal)
+## Saturday (1<sup>st</sup> December 2018)
 
 | Time                   | Event                      |
 | :------                | :-------                   |
@@ -32,7 +32,9 @@ TBA
 
 TBA
 
-## Sunday (2<sup>nd</sup> December 2018, internal)
+## Sunday (2<sup>nd</sup> December 2018)
+
+There will be **no** public event this year.
 
 | Time     | Event                                    |
 | :-       | :-                                       |
@@ -45,6 +47,3 @@ TBA
 {: class="schedule"}
 
 
-## Sunday (2<sup>nd</sup> December 2018, public part)
-
-There will be **no** public event this year.

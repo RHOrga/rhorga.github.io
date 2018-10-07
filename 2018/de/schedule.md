@@ -3,7 +3,7 @@ title: Ablaufplan
 layout: default-de-2018
 ---
 
-## Freitag (30. November 2018, intern)
+## Freitag (30. November 2018)
 
 | Zeit   | Ereignis                                |
 |:-------|:----------------------------------------|
@@ -12,7 +12,7 @@ layout: default-de-2018
 | 20:00  | Essen, Trinken, Diskutieren und Chillen am Veranstaltungsort<br>(Food Truck, HULKs Beer und vieles mehr), open end |
 {: class="schedule"}
 
-## Samstag (1. Dezember 2018, intern)
+## Samstag (1. Dezember 2018)
 
 | Zeit             | Ereignis                          |
 |:-----------------|:----------------------------------|
@@ -32,7 +32,9 @@ TBA
 
 TBA
 
-## Sonntag (2. Dezember 2018, intern)
+## Sonntag (2. Dezember 2018)
+
+Der öffentliche Teil **entfällt** in diesem Jahr.
 
 | Zeit             | Ereignis                          |
 |:-----------------|:----------------------------------|
@@ -43,8 +45,3 @@ TBA
 | TBA              | Vortrag 3                         |
 | 18:00            | Abbau                             |
 {: class="schedule"} 
-
-## Sonntag (2. Dezember 2018, öffentlicher Teil)
-
-Der öffentliche Teil **entfällt** in diesem Jahr.
-
