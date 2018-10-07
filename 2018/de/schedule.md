@@ -18,9 +18,9 @@ layout: default-de-2018
 |:-----------------|:----------------------------------|
 | 08:00            | Öffnung des Veranstaltungsorts    |
 | 10:00 -<br>18:00 | Workshops                         |
-| TBA              | Vortrag 1 |
-| TBA              | Vortrag 2 |
-| TBA              | Vortrag 3 |
+| TBA              | Vortrag 1                         |
+| TBA              | Vortrag 2                         |
+| TBA              | Vortrag 3                         |
 | ~22:00           | Schließung des Veranstaltungsorts |
 {: class="schedule"}
 
@@ -32,23 +32,19 @@ TBA
 
 TBA
 
-## Sonntag (2. Dezember 2018, interner Teil)
+## Sonntag (2. Dezember 2018, intern)
 
 | Zeit             | Ereignis                          |
 |:-----------------|:----------------------------------|
 | 08:00            | Öffnung des Veranstaltungsorts    |
 | 10:00 -<br>16:00 | Workshops                         |
+| TBA              | Vortrag 1                         |
+| TBA              | Vortrag 2                         |
+| TBA              | Vortrag 3                         |
 | 18:00            | Abbau                             |
 {: class="schedule"} 
 
 ## Sonntag (2. Dezember 2018, öffentlicher Teil)
 
-| Zeit             | Ereignis                          |
-|:-----------------|:----------------------------------|                                        
-| 12:00 | Beginn des Tages der offenen Tür                                                |
-| 12:00 | Beginn Robotikworkshop für Kinder                                               |
-| TBA   | Vortrag 1                                                                       |
-| TBA   | Vortrag 2                                                                       |
-| TBA   | Vortrag 3                                                                       |
-| 17:00 | Ende der Veranstaltung                                                          |
-{: class="schedule"}
+Der öffentliche Teil **entfällt** in diesem Jahr.
+

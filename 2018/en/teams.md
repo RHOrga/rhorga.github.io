@@ -29,8 +29,8 @@ Please submit your registration as soon as possible to help us simplify planning
 | 18th November 2018   | Registration deadline team members with names |
 | 30th November 2018   | Set-Up day teams (5 pm)                       |
 | 30th November 2018   | Welcoming (7 pm)                              |
+| 1st December 2018    | Workshop day                                  |
 | 2nd December 2018    | Workshop day                                  |
-| 3rd December 2018    | Workshop day                                  |
 
 ## Participation Fees
 
@@ -48,17 +48,17 @@ Inexpensive hotels near by:
 B&B Hotel Hamburg-Harburg (seems to be booked out)  
 Theodor-Yorck-Straße 1  
 21079 Hamburg  
-[www.hotelbb.de](www.hotelbb.de)
+[www.hotelbb.de](http://www.hotelbb.de)
 
 Hotel Harburger Hof  
 Küchgarten 17  
 21073 Hamburg  
-[www.hhhof.de](www.hhhof.de)
+[www.hhhof.de](http://www.hhhof.de)
 
 Hotel Süderelbe  
 Großer Schippsee 29,  
 21073 Hamburg  
-[www.hotel-suederelbe.de](www.hotel-suederelbe.de)
+[www.hotel-suederelbe.de](http://www.hotel-suederelbe.de)
 
 ## Delivery of Robots
 

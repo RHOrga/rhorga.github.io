@@ -18,9 +18,9 @@ layout: default-en-2018
 | :------                | :-------                   |
 | 08:00 am               | Venue opening              |
 | 10:00 am -<br>06:00 pm | Workshops                  |
-| TBA                    | talk 1 |
-| TBA                    | talk 2 |
-| TBA                    | talk 3 |
+| TBA                    | talk 1                     |
+| TBA                    | talk 2                     |
+| TBA                    | talk 3                     |
 | 10:00 pm               | Venue closing              |
 {: class="schedule"}
 
@@ -32,25 +32,19 @@ TBA
 
 TBA
 
-## Sunday (2<sup>nd</sup> December 2018, internal part)
+## Sunday (2<sup>nd</sup> December 2018, internal)
 
 | Time     | Event                                    |
 | :-       | :-                                       |
 | 08:00 am | Venue opening                            |
 | 10:00 am -<br>04:00 pm | Workshops                  |
+| TBA                    | talk 1                     |
+| TBA                    | talk 2                     |
+| TBA                    | talk 3                     |
 | 06:00 pm | Deconstruction                                                               |
 {: class="schedule"}
 
 
 ## Sunday (2<sup>nd</sup> December 2018, public part)
 
-| Time     | Event                                                                        |
-| :-       | :-                                                                           |
-| 08:00 am | Venue opening                                                                |
-| 12:00 pm | Beginning of open day                                                        |
-| 12:00 pm | Beginning of the robotic workshop for kids                                   |
-| TBA      | talk 1                                                                       |
-| TBA      | talk 2                                                                       |
-| TBA      | talk 3                                                                       |
-| 05:00 pm | Public day ends                                                              |
-{: class="schedule"}
+There will be **no** public event this year.

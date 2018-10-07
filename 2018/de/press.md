@@ -14,12 +14,11 @@ layout: default-de-only-2018
 |                                 |                                                                                        |
 | ----------:                     | :------                                                                                |
 | **Titel:**                      | RoHOW                                                                                  |
-| **Tag für Besucher:**           | 2. Dezember 2018 ab 12:00 Uhr                                                          |
-| **Workshop für Kinder:**        | 2. Dezember 2018 ab 12:00 Uhr                                                          |
+| **Tag für Besucher:**           | **entfällt**                                                                           |                                                       |
 | **Teilnehmende RoboCup Teams:** | 30. November bis 2. Dezember 2018                                                      |
 | **Ort:**                        | Technische Universität Hamburg <br> Gebäude I <br> Denickestraße 22 <br> 21073 Hamburg |
-| **Zielgruppe:**                 | RoboCup Teams der Standard Plattform League und Interessierte jeden Alters             |
-| **Eintritt:**                   | frei                                                                                   |
+| **Zielgruppe:**                 | RoboCup Teams der Standard Plattform League                                            |
+| **Teilnahmegebühren für Teams:**| keine                                                                                  |
 
 ### 2. Kurzportrait
 
@@ -54,26 +53,9 @@ die an der Technischen Universität Hamburg thematisch verwandte Fächer
 studieren. Dies soll einerseits das Interesse der Studierenden an dem
 Themenbereich der Robotik wecken, sowie einen größeren Austausch ermöglichen.
 
-Am Sonntag sollen weitere Workshops stattfinden, die thematisch auf den Inhalten
-des Samstags aufbauen. Darüber hinaus soll die Veranstaltung für fachfremde
-Studierende der Technischen Universität Hamburg sowie für interessierte Besucher
-geöffnet werden. Es soll dafür interaktive Demonstrationen und Vorträge geben, zum Beispiel als
-Einführung in das Themengebiet der Robotik oder zu ethischen Fragen der
-Robotikforschung. Die interaktiven Demonstrationen bieten dabei auch jüngeren
-Kindern einen spielerischen Zugang zu dem Thema, während sich die Vorträge
-insbesondere an Studieninteressierte und Studierende fachfremder Studiengänge
-richten.
-
-Das zweite Mal dabei ist der Robotikworkshop für Kinder ab etwa 10 Jahre. Es können
-selbst Roboter gebaut und programmiert werden. Wodurch Kindern ein spielerischer
-Zugang zu dem Themengebiet der Robotik bereitet wird.
-
 ### 4. Warum ein RoHOW in Hamburg?
 
 Die Stadt Hamburg bietet sich als "Tor zur Welt der Wissenschaft" besonders als
-Veranstaltungsort an.Insbesondere aufgrund der hohen Dichte an RoboCup Teams im
-Norden von Deutschland. Zudem gibt es eine breite Öffentlichkeit, die für die
-Veranstaltunge am Sonntag gewonnen werden kann. Insbesondere im Kontext von
-Hamburg als Technologiestandort ist der Bezug zur Nachwuchsförderung besonders
-aktuell. Der Flughafen unserer Stadt ermöglicht auch eine vereinfachte Anreise
-für internationale Teams.
+Veranstaltungsort an. Insbesondere aufgrund der hohen Dichte an RoboCup Teams im
+Norden von Deutschland. Der Flughafen unserer Stadt ermöglicht auch eine v
+ereinfachte Anreise für internationale Teams.
