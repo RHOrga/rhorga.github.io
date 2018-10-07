@@ -158,7 +158,7 @@ article ol
 
 #wrapper > footer #sponsors
 {
-    padding: 10px 40px 30px 40px;
+    padding: 10px 40px 10px 40px;
     background-color: #FFF;
     text-align: center;
 }
@@ -187,12 +187,17 @@ article ol
 
 #wrapper > footer #sponsors > #basler
 {
-    margin: 0px 50px 0px 0px;
+    margin: 0px 0px 0px 0px;
 }
 
-#wrapper > footer #sponsors > #imaginghub
+#wrapper > footer #sponsors > #eppendorf
 {
-    margin: 0px 0px 0px 0px;
+    margin: 0px 20px 0px 0px;
+}
+
+#wrapper > footer #sponsors > #sick
+{
+    margin: 0px 20px 0px 0px;
 }
 
 #wrapper > footer #sponsors_small > #alfon
