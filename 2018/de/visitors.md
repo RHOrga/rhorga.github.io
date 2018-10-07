@@ -3,6 +3,12 @@ title: Informationen für Besucher
 layout: default-de-2018
 ---
 
+## Austragungsort
+
+Technische Universität Hamburg  
+Denickestraße 22  
+21073 Hamburg  
+
 ## Info
 
 Der RoHOW 2018 ist im Gegensatz zu den letzten Jahren **nicht** öffentlich. Nur registrierte
