@@ -2,6 +2,7 @@
 title: Der RoHOW
 layout: default-de-2018
 redirect_from:
+  - "/"
   - "/2018"
   - "/2018/"
 ---
