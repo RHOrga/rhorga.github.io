@@ -7,9 +7,8 @@ layout: default-en-only-2018
 
 To register your team and team members, please send an email to 
 <a href="mailto:hulks@tuhh.de">hulks@tuhh.de</a> including your team name, a 
-contact person and the estimated number of participants from your team. This 
-needs to be done by **4<sup>th</sup> November 2018**. We will also need the 
-names of all participants by **18<sup>th</sup> November 2018**.
+contact person and the number of participants including their names. This 
+needs to be done by **8<sup>th</sup> November 2018**.
 
 Please submit your registration as soon as possible to help us simplify planning.
 
@@ -48,7 +47,7 @@ Inexpensive hotels near by:
 B&B Hotel Hamburg-Harburg (seems to be booked out)  
 Theodor-Yorck-Straße 1  
 21079 Hamburg  
-[www.hotelbb.de](http://www.hotelbb.de)
+[www.hotelbb.de](https://www.hotelbb.de/de/hamburg-harburg)
 
 Hotel Harburger Hof  
 Küchgarten 17  
