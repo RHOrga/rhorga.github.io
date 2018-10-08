@@ -19,18 +19,6 @@ Please submit your registration as soon as possible to help us simplify planning
 | ![](/assets/img/teams/HULKs.svg){: height="32"} | [HULKs](http://hulks.de) | SPL | ![DE](/assets/img/de.svg) |
 {: class="teams"}
 
-## Important Dates
-
-|       Date           |                 Event                         |
-|---------------------:|:----------------------------------------------|
-| 1st October 2018     | Registration opens                            |
-| 4th November 2018    | Registration deadline RoboCup Major teams     |
-| 18th November 2018   | Registration deadline team members with names |
-| 30th November 2018   | Set-Up day teams (5 pm)                       |
-| 30th November 2018   | Welcoming (7 pm)                              |
-| 1st December 2018    | Workshop day                                  |
-| 2nd December 2018    | Workshop day                                  |
-
 ## Participation Fees
 
 Your participation will be free of charge.
@@ -44,7 +32,7 @@ If you have further questions or rules are missing please contact the chair of y
 
 Inexpensive hotels near by:
 
-B&B Hotel Hamburg-Harburg (seems to be booked out)  
+B&B Hotel Hamburg-Harburg  
 Theodor-Yorck-Straße 1  
 21079 Hamburg  
 [www.hotelbb.de](https://www.hotelbb.de/de/hamburg-harburg)
