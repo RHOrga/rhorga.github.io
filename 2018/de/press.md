@@ -5,8 +5,7 @@ layout: default-de-only-2018
 
 ## Material
 
-- [Flyer (DIN Lang / DIN ⅓A4)](/assets/img/Flyer2017.pdf)
-- [Plakat (DIN A7)](/assets/img/Plakat2017.pdf)
+Wird noch veröffentlicht.
 
 ## Pressemitteilung
 ### 1. Überblick
@@ -14,11 +13,10 @@ layout: default-de-only-2018
 |                                 |                                                                                        |
 | ----------:                     | :------                                                                                |
 | **Titel:**                      | RoHOW                                                                                  |
-| **Tag für Besucher:**           | **entfällt**                                                                           |                                                       |
 | **Teilnehmende RoboCup Teams:** | 30. November bis 2. Dezember 2018                                                      |
 | **Ort:**                        | Technische Universität Hamburg <br> Gebäude I <br> Denickestraße 22 <br> 21073 Hamburg |
 | **Zielgruppe:**                 | RoboCup Teams der Standard Plattform League                                            |
-| **Teilnahmegebühren für Teams:**| keine                                                                                  |
+| **Teilnahmegebühren:**          | keine                                                                                  |
 
 ### 2. Kurzportrait
 
@@ -29,7 +27,7 @@ Forschung an humanoiden Robotern tätig sind. Die Organisatoren/innen sind
 Studierende des [RoboCup Teams der TUHH](https://www.hulks.de).
 
 Das Team arbeitet seit ihrer Gründung in der Forschung an humanoiden Robotern im
-Rahmen des internationalen Forschungsprojekts RoboCup. Der RoboCup hat zum Ziel
+Rahmen des internationalen Forschungsprojekts [RoboCup](https://www.robocup.org/). Der RoboCup hat zum Ziel
 den Fortschritt und die verschiedenen Ansätze im Bereich der Robotikforschung
 durch Fußballspiele vergleichbar und erfahrbar zu machen und einen Austausch
 zwischen den Universitäten und Forschungseinrichtungen zu fördern. Dies wird
@@ -57,5 +55,5 @@ Themenbereich der Robotik wecken, sowie einen größeren Austausch ermöglichen.
 
 Die Stadt Hamburg bietet sich als "Tor zur Welt der Wissenschaft" besonders als
 Veranstaltungsort an. Insbesondere aufgrund der hohen Dichte an RoboCup Teams im
-Norden von Deutschland. Der Flughafen unserer Stadt ermöglicht auch eine v
-ereinfachte Anreise für internationale Teams.
+Norden von Deutschland. Der Flughafen unserer Stadt ermöglicht auch eine
+vereinfachte Anreise für internationale Teams.
