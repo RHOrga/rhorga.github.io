@@ -9,7 +9,7 @@ layout: default-de-2018
 |:-------|:----------------------------------------|
 | 17:00  | Aufbau für alle Teams                   |
 | 19:00  | Begrüßung im Audimax II                 |
-| 20:00  | Essen, Trinken, Diskutieren und Chillen am Veranstaltungsort<br>(Food Truck, HULKs Beer und vieles mehr), open end |
+| 20:00  | **Pre conference party:** Essen, Trinken, Diskutieren und Chillen am Veranstaltungsort<br>(Food Truck, HULKs Beer und vieles mehr), open end |
 {: class="schedule"}
 
 ## Samstag (1. Dezember 2018)

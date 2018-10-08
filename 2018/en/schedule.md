@@ -9,7 +9,7 @@ layout: default-en-2018
 | :------  | :-------                           |
 | 05:00 pm | Setup for all teams                |
 | 07:00 pm | Welcoming in Auditorium maximum II |
-| 08:00 pm | Eating, drinking, discussing and chilling at the venue <br>(Food Truck, HULKs Beer and so on), open end |
+| 08:00 pm | **Pre conference party:** Eating, drinking, discussing and chilling at the venue <br>(Food Truck, HULKs Beer and so on), open end |
 {: class="schedule"}
 
 ## Saturday (1<sup>st</sup> December 2018)
