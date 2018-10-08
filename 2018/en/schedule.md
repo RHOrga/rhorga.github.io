@@ -30,7 +30,14 @@ TBA
 
 ### Ideas for workshops and discussions  
 
-TBA
+- Brainstorming on rule changes:
+  - Corner kick
+  - Kick-in
+  - Mixed team
+- Nao v6:
+  - Camera
+  - API changes
+  - GPU
 
 ## Sunday (2<sup>nd</sup> December 2018)
 
