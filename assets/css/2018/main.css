@@ -185,9 +185,14 @@ article ol
     overflow: hidden;
 }
 
-#wrapper > footer #sponsors > #basler
+#wrapper > footer #sponsors_small > #basler
 {
-    margin: 0px 0px 0px 0px;
+    margin: 0px 20px 0px 0px;
+}
+
+#wrapper > footer #sponsors_small > #imaginghub
+{
+    margin: 0px 20px 0px 0px;
 }
 
 #wrapper > footer #sponsors > #eppendorf
@@ -197,7 +202,7 @@ article ol
 
 #wrapper > footer #sponsors > #sick
 {
-    margin: 0px 20px 0px 0px;
+    margin: 0px 0px 0px 0px;
 }
 
 #wrapper > footer #sponsors_small > #alfon
@@ -205,7 +210,7 @@ article ol
     margin: 0px 10px 0px 0px;
 }
 
-#wrapper > footer #sponsors_small > #ibeo
+#wrapper > footer #sponsors > #ibeo
 {
     margin: 0px 20px 0px 0px;
 }
@@ -215,7 +220,7 @@ article ol
     margin: 0px 20px 0px 0px;
 }
 
-#wrapper > footer #sponsors_small > #freiheit
+#wrapper > footer #sponsors > #freiheit
 {
     margin: 0px 20px 0px 0px;
 }
