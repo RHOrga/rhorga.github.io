@@ -30,20 +30,6 @@ body
     width: 1000px;
 }
 
-#robots
-{
-    position: absolute;
-    top: 255px;
-    left: -75px;
-    padding: 35px 35px;
-    background-color: #FFF;
-    -webkit-border-radius: 1000px;
-    border-radius: 100%;
-    border: 2px solid #54C0D3;
-    height: 200px;
-    width: 200px
-}
-
 #wrapper > header
 {
     color: #fff;
@@ -125,7 +111,7 @@ nav a.active, nav a:hover, nav a:active
 
 article
 {
-    padding: 50px 50px 50px 250px;
+    padding: 50px 50px 50px 50px;
     background-color: #FFF;
     min-height: 300px;
 }
