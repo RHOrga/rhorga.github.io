@@ -5,7 +5,7 @@ layout: default-en-2018
 
 ## Workshop and talk schedule
 
-*The workshop and talk planning tool will be online soon.*
+Register your workshops and talks <a href="https://www.rohow.de/mopad">here</a>.
 
 ### Ideas for workshops and discussions  
 
