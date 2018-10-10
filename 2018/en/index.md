@@ -3,7 +3,7 @@ title: RoHOW
 layout: default-en-2018
 ---
 
-![Gruppenfoto]({{ site.baseurl }}/assets/img/teams2016.jpg){: width="700" height="192"}
+![group shot]({{ site.baseurl }}/assets/img/teams2016.jpg)
 
 From 30th November to 2nd December 2018 the fifth Robotic Hamburg Open Workshop (RoHOW)
 will be held at the Hamburg University of Technology (TUHH).

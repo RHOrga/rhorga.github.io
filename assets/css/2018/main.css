@@ -160,6 +160,10 @@ hr
     border: 0;
 }
 
+img {
+    max-width: 100%;
+}
+
 table
 {
     border-collapse: separate;
