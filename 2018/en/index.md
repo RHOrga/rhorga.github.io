@@ -1,6 +1,6 @@
 ---
 title: RoHOW
-layout: default-en-2018
+layout: default-en-only-2018
 redirect_from:
   - "/"
   - "/2018"

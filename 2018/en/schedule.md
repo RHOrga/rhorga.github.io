@@ -1,6 +1,6 @@
 ---
 title: Schedule
-layout: default-en-2018
+layout: default-en-only-2018
 ---
 
 ## Friday (30<sup>th</sup> November 2018)
