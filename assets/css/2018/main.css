@@ -42,6 +42,7 @@ body
 
 #wrapper > header
 {
+    background: #e7453d;
     color: #fff;
     text-align: center;
     padding: 1em;
@@ -76,7 +77,6 @@ body
 
 nav
 {
-    margin-top: 25px;
     text-align: center;
     overflow: hidden;
     font-size: 1.1em;
@@ -273,7 +273,7 @@ article ol
 
 nav, article, #wrapper > footer > #sponsors
 {
-    box-shadow: 0px 0px 6px #666;
+    box-shadow: 0px 0px 20px -10px #000;
 }
 
 #eurobotic_week
