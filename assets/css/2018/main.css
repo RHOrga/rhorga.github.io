@@ -112,19 +112,29 @@ nav a.active, nav a:hover, nav a:active
     color: #000;
 }
 
-.lang_switcher
-{
-    float: right;
-    margin-top: -32px;
-    margin-left: 16px;
-}
-
 article
 {
     background: #fafafa;
     padding: 50px 50px 50px 50px;
     background-color: #FFF;
     min-height: 300px;
+}
+
+article > header
+{
+    display: flex;
+    flex-direction: row;
+}
+
+article > header h1 {
+    flex-grow: 1;
+    margin: 0;
+}
+
+article > header .lang_switcher {
+    position: relative;
+    top: 4px;
+    margin-left: 1em;
 }
 
 h1

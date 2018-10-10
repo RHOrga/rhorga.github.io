@@ -15,9 +15,9 @@
         </nav>
         <article>
             <header>
-							<a class="lang_switcher" href="{{ page.url | replace:'en','de'}}"><img src="{{ site.baseurl }}/assets/img/de.svg" width="32" height="32" alt="Deutsche Version" /></a>
-							<a class="lang_switcher" href="{{ page.url | replace:'en','en'}}"><img src="{{ site.baseurl }}/assets/img/en.svg" width="32" height="32" alt="English version" /></a>
                 <h1>{{ page.title }}</h1>
+                <a class="lang_switcher" href="{{ page.url | replace:'de','de'}}"><img src="{{ site.baseurl }}/assets/img/de.svg" width="32" height="32" alt="Deutsche Version" /></a>
+                <a class="lang_switcher" href="{{ page.url | replace:'de','en'}}"><img src="{{ site.baseurl }}/assets/img/en.svg" width="32" height="32" alt="English version" /></a>
             </header>
             <section>
                 {{ content }}
