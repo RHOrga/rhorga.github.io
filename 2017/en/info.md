@@ -1,8 +1,6 @@
 ---
 title: Internal Info Site
 layout: default-en-only-2017
-redirect_from:
-  - "/info"
 ---
 
 ## mopad
