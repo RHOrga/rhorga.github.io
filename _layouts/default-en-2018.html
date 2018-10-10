@@ -6,7 +6,7 @@
         {% include 2018/header.html %}
         <nav>
             <ul>
-                {% for item in site.data.2018.menulist-en.menu %}
+                {% for item in site.data.2018.menulist.menu %}
                 <li>
                     <a href="{{ item.url }}" alt="{{ item.title }}" class="{% if item.url == page.url %}active{% endif %}">{{ item.title }}</a>
                 </li>
