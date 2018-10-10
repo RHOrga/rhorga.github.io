@@ -14,7 +14,9 @@
 
 body
 {
-    background-color: #54C0D3;
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAEElEQVQImWNgYGD4z0AZAABABAEAuUSdjgAAAABJRU5ErkJggg==), url(/assets/img/backdrop.jpg), #000;
+    background-position-y: 0%, 10%, 0%;
+    background-attachment: fixed, fixed, scroll;
     padding: 0px;
     margin: 0px;
     font-family: 'Open Sans', sans-serif;
