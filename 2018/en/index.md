@@ -1,6 +1,10 @@
 ---
 title: RoHOW
 layout: default-en-2018
+redirect_from:
+  - "/"
+  - "/2018"
+  - "/2018/"
 ---
 
 ![Gruppenfoto]({{ site.baseurl }}/assets/img/teams2016.jpg){: width="700" height="192"}
