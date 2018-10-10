@@ -210,16 +210,14 @@ article ol
 
 #wrapper > footer #sponsors
 {
-    padding: 10px 40px 10px 40px;
+    padding: 0 10% 50px 10%;
     background-color: #FFF;
     text-align: center;
 }
 
-#wrapper > footer #sponsors_small
-{
-    padding: 10px 40px 30px 40px;
-    background-color: #FFF;
-    text-align: center;
+#wrapper > footer #sponsors img {
+    height: 2em;
+    margin: 1em;
 }
 
 #wrapper > footer #university
@@ -232,6 +230,8 @@ article ol
 {
     overflow: hidden;
 }
+
+/*
 
 #wrapper > footer #sponsors_small > #basler
 {
@@ -277,6 +277,8 @@ article ol
 {
     margin: 0px 0px 0px 0px;
 }
+
+*/
 
 #wrapper > footer p
 {
