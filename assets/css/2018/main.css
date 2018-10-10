@@ -108,7 +108,7 @@ nav li
 
 nav a.active, nav a:hover, nav a:active
 {
-    background: #fff;
+    background: #fafafa;
     color: #000;
 }
 
@@ -121,6 +121,7 @@ nav a.active, nav a:hover, nav a:active
 
 article
 {
+    background: #fafafa;
     padding: 50px 50px 50px 50px;
     background-color: #FFF;
     min-height: 300px;
