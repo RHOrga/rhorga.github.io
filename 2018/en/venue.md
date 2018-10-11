@@ -1,6 +1,6 @@
 ---
 title: Venue
-layout: default-en-2018
+layout: default-en-only-2018
 ---
 
 TUHH  
