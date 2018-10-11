@@ -5,6 +5,7 @@ redirect_from:
   - "/"
   - "/2018"
   - "/2018/"
+  - "/2018/de"
 ---
 
 ![Gruppenfoto]({{ site.baseurl }}/assets/img/teams2016.jpg){: width="700" height="192"}
