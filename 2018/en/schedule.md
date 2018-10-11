@@ -3,50 +3,54 @@ title: Schedule
 layout: default-en-only-2018
 ---
 
+## Workshop and talk schedule
+
+*The workshop and talk planning tool will be online soon.*
+
+### Ideas for workshops and discussions  
+
+- Brainstorming on this years rule changes
+  - Corner kick
+  - Kick-in
+  - Mixed team
+
 ## Friday (30<sup>th</sup> November 2018)
 
 | Time     | Event                              |
 | :------  | :-------                           |
 | 05:00 pm | Setup for all teams                |
-| 07:00 pm | Welcoming in Auditorium maximum II |
-| 08:00 pm | **Pre conference party:** Eating, drinking, discussing and chilling at the venue <br>(Food Truck, HULKs Beer and so on), open end |
+| 07:00 pm | Welcoming in Auditorium Maximum II |
+| 08:00 pm | Pre conference party               |
 {: class="schedule"}
 
 ## Saturday (1<sup>st</sup> December 2018)
 
-| Time                   | Event                      |
-| :------                | :-------                   |
-| 08:00 am               | Venue opening              |
-| 10:00 am -<br>06:00 pm | Workshops                  |
-| TBA                    | talk 1                     |
-| TBA                    | talk 2                     |
-| TBA                    | talk 3                     |
-| 10:00 pm               | Venue closing              |
+| Time     | Event                         |
+| :------  | :-------                      |
+| 08:00 am | Venue opens                   |
+| 10:00 am | Workshop sessions             |
+| 01:00 pm | Lunch break                   |
+| 02:00 pm | Workshop sessions             |
+| 04:00 pm | Coffee break                  |
+| 04:30 pm | Workshop sessions             |
+| 08:00 pm | After converence get-together |
+| 11:00 pm | Venue closes                  |
+{: class="schedule"}
+
+## Sunday (2<sup>nd</sup> December 2018)
+
+| Time     | Event             |
+| :------  | :-------          |
+| 08:00 am | Venue opens       |
+| 10:00 am | Workshop sessions |
+| 01:00 pm | Lunch break       |
+| 02:00 pm | Workshop sessions |
+| 04:00 pm | Coffee break      |
+| 04:30 pm | Workshop sessions |
+| 06:00 pm | Converence end    |
 {: class="schedule"}
 
 ### Announced talks
 
-TBA
-
-### Ideas for workshops and discussions  
-
-- Brainstorming on rule changes:
-  - Corner kick
-  - Kick-in
-  - Mixed team
-
-## Sunday (2<sup>nd</sup> December 2018)
-
-There will be **no** public event this year.
-
-| Time     | Event                                    |
-| :-       | :-                                       |
-| 08:00 am | Venue opening                            |
-| 10:00 am -<br>04:00 pm | Workshops                  |
-| TBA                    | talk 1                     |
-| TBA                    | talk 2                     |
-| TBA                    | talk 3                     |
-| 06:00 pm | Deconstruction                                                               |
-{: class="schedule"}
-
-
+* **Michael Niesyto (Basler AG)**  
+[TBA] TBA
