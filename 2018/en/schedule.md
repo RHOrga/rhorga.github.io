@@ -34,10 +34,6 @@ TBA
   - Corner kick
   - Kick-in
   - Mixed team
-- Nao v6:
-  - Camera
-  - API changes
-  - GPU
 
 ## Sunday (2<sup>nd</sup> December 2018)
 
