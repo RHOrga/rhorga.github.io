@@ -14,6 +14,13 @@ layout: default-en-only-2018
   - Kick-in
   - Mixed team
 
+### Announced talks
+
+* **TBA (Ibeo Automotive Systems GmbH)**  
+[TBA] TBA
+* **TBA (freiheit.com technologies gmbh)**  
+[TBA] TBA
+
 ## Friday (30<sup>th</sup> November 2018)
 
 | Time     | Event                              |
@@ -37,6 +44,11 @@ layout: default-en-only-2018
 | 11:00 pm | Venue closes                  |
 {: class="schedule"}
 
+### Announced talks
+
+* **TBA (Eppendorf AG)**  
+[TBA] TBA
+
 ## Sunday (2<sup>nd</sup> December 2018)
 
 | Time     | Event             |
@@ -53,4 +65,4 @@ layout: default-en-only-2018
 ### Announced talks
 
 * **Michael Niesyto (Basler AG)**  
-[TBA] TBA
+[TBA] Bildkompression
