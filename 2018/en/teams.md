@@ -24,6 +24,7 @@ Please submit your registration as soon as possible to help us simplify planning
 | ![](/assets/img/teams/HULKs.svg){: height="32"} | [HULKs](https://hulks.de) | SPL | ![DE](/assets/img/de.svg){: height="32"} |
 | ![](/assets/img/teams/Nao-Team HTWK.svg){: height="32"} | [Nao-Team HTWK](http://www.htwk-robots.de) | SPL | ![DE](/assets/img/de.svg){: height="32"} |
 | ![](/assets/img/teams/spqr.jpg){: height="32"} | [SPQR Robot Soccer Team](http://spqr.diag.uniroma1.it/) | SPL | ![IT](/assets/img/it.svg){: height="32"} |
+| ![](/assets/img/teams/wolves.png){: height="32"} | [WF Wolves](http://www.wf-wolves.de) | HUM | ![DE](/assets/img/de.svg) |
 {: class="teams"}
 
 ## Participation Fees
