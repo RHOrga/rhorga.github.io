@@ -20,12 +20,17 @@ Wird noch veröffentlicht.
 
 ### 2. Kurzportrait
 
-Der Robotic Hamburg Open Workshop (RoHOW) ist geplant als Weiterbildungs- und
+Der Robotic Hamburg Open Workshop (RoHOW) ist eine Weiterbildungs- und
 Vernetzungsveranstaltung der Technischen Universität Hamburg (TUHH) mit
 Studierenden und Wissenschaftler/innen aus aller Welt, die auf dem Gebiet der
-Forschung an humanoiden Robotern tätig sind. Die Organisatoren/innen sind
-Studierende des [RoboCup Teams der TUHH](https://www.hulks.de).
+Forschung an humanoiden Robotern tätig sind. 
+Im Fokus der Veranstaltung stehen aktuellste Themen der Robotik, an denen
+international und branchenunabhängig geforscht wird. Um dabei direkte Eindrücke
+aus der Industrie zu gewinnen, stellen Unternehmen ihre Tätigkeitsbereiche und
+Interessengebiete in Gastbeiträgen vor.
 
+Die Organisatoren/innen sind
+Studierende des [RoboCup Teams der TUHH](https://www.hulks.de).
 Das Team arbeitet seit ihrer Gründung in der Forschung an humanoiden Robotern im
 Rahmen des internationalen Forschungsprojekts
 [RoboCup](https://www.robocup.org/). Der RoboCup hat zum Ziel den Fortschritt
@@ -35,6 +40,9 @@ den Universitäten und Forschungseinrichtungen zu fördern. Dies wird erreicht,
 indem auf Veranstaltungen, wie den deutschen Meisterschaften (German Open), den
 Iran Open oder auf den Weltmeisterschaften verschiedene Wettbewerbe zwischen den
 Teams stattfinden.
+
+Der RoHOW ist in dahingehend besonders, da die Aufmerksamkeit auf den
+unmittelbaren Wissensaustausch zwischen den Teams gelegt wird. 
 
 ### 3. Ablauf der Veranstaltung
 
