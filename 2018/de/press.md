@@ -29,17 +29,17 @@ international und branchenunabhängig geforscht wird. Um dabei direkte Eindrück
 aus der Industrie zu gewinnen, stellen Unternehmen ihre Tätigkeitsbereiche und
 Interessengebiete in Gastbeiträgen vor.
 
-Die Organisatoren/innen sind
-Studierende des [RoboCup Teams der TUHH](https://www.hulks.de).
-Das Team arbeitet seit ihrer Gründung in der Forschung an humanoiden Robotern im
-Rahmen des internationalen Forschungsprojekts
-[RoboCup](https://www.robocup.org/). Der RoboCup hat zum Ziel den Fortschritt
-und die verschiedenen Ansätze im Bereich der Robotikforschung durch
-Fußballspiele vergleichbar und erfahrbar zu machen und einen Austausch zwischen
-den Universitäten und Forschungseinrichtungen zu fördern. Dies wird erreicht,
-indem auf Veranstaltungen, wie den deutschen Meisterschaften (German Open), den
-Iran Open oder auf den Weltmeisterschaften verschiedene Wettbewerbe zwischen den
-Teams stattfinden.
+Die Organisatoren/innen sind Studierende des [RoboCup Teams der
+TUHH](https://www.hulks.de). Das Team arbeitet seit ihrer Gründung in der
+Forschung an humanoiden Robotern im Rahmen des internationalen
+Forschungsprojekts [RoboCup](https://www.robocup.org/). 
+Der RoboCup hat zum Ziel den Fortschritt und die verschiedenen Ansätze im
+Bereich der Robotikforschung durch Fußballspiele vergleichbar und erfahrbar zu
+machen und einen Austausch zwischen den Universitäten und
+Forschungseinrichtungen zu fördern. 
+Dies wird erreicht, indem auf Veranstaltungen, wie den deutschen Meisterschaften
+(German Open), den Iran Open oder auf den Weltmeisterschaften verschiedene
+Wettbewerbe zwischen den Teams stattfinden.
 
 Der RoHOW ist in dahingehend besonders, da die Aufmerksamkeit auf den
 unmittelbaren Wissensaustausch zwischen den Teams gelegt wird. 
