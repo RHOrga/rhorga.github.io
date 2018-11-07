@@ -51,15 +51,16 @@ layout: default-en-only-2018
 
 ## Sunday (2<sup>nd</sup> December 2018)
 
-| Time     | Event             |
-| :------  | :-------          |
-| 08:00 am | Venue opens       |
-| 10:00 am | Workshop sessions |
-| 01:00 pm | Lunch break       |
-| 02:00 pm | Workshop sessions |
-| 04:00 pm | Coffee break      |
-| 04:30 pm | Workshop sessions |
-| 06:00 pm | Converence end    |
+| Time     | Event                               |
+| :------  | :-------                            |
+| 08:00 am | Venue opens                         |
+| 10:00 am | Workshop sessions                   |
+| 12:00 am | Markus Robert (IAV GmbH), [TBA] TBA |
+| 01:00 pm | Lunch break                         |
+| 02:00 pm | Workshop sessions                   |
+| 04:00 pm | Coffee break                        |
+| 04:30 pm | Workshop sessions                   |
+| 06:00 pm | Converence end                      |
 {: class="schedule"}
 
 ### Announced talks
