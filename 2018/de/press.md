@@ -42,7 +42,11 @@ Dies wird erreicht, indem auf Veranstaltungen, wie den deutschen Meisterschaften
 Wettbewerbe zwischen den Teams stattfinden.
 
 Der RoHOW ist in dahingehend besonders, da die Aufmerksamkeit auf den
-unmittelbaren Wissensaustausch zwischen den Teams gelegt wird. 
+unmittelbaren Wissensaustausch zwischen den Teams gelegt wird.
+Im Gegensatz zu Wettbewerbssituationen haben die Teams explizit Zeit, ihre
+Forschungsergebnisse vorzustellen und Fragen zu diskutieren. 
+Das fördert nicht nur die Entwicklung und Motivation der einzelnen Teilnehmer,
+sondern führt auch zu einer qualitativen Steigerung des wissenschaftlichen Inhalts.
 
 ### 3. Ablauf der Veranstaltung
 
