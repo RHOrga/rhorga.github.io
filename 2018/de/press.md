@@ -30,7 +30,7 @@ aus der Industrie zu gewinnen, stellen Unternehmen ihre Tätigkeitsbereiche und
 Interessengebiete in Gastbeiträgen vor.
 
 Die Organisatoren/innen sind Studierende des [RoboCup Teams der
-TUHH](https://www.hulks.de). Das Team arbeitet seit ihrer Gründung in der
+TUHH](https://www.hulks.de). Das Team arbeitet seit seiner Gründung in der
 Forschung an humanoiden Robotern im Rahmen des internationalen
 Forschungsprojekts [RoboCup](https://www.robocup.org/). 
 Der RoboCup hat zum Ziel den Fortschritt und die verschiedenen Ansätze im
