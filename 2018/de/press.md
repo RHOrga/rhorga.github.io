@@ -20,21 +20,33 @@ Wird noch veröffentlicht.
 
 ### 2. Kurzportrait
 
-Der Robotic Hamburg Open Workshop (RoHOW) ist geplant als Weiterbildungs- und
+Der Robotic Hamburg Open Workshop (RoHOW) ist eine Weiterbildungs- und
 Vernetzungsveranstaltung der Technischen Universität Hamburg (TUHH) mit
 Studierenden und Wissenschaftler/innen aus aller Welt, die auf dem Gebiet der
-Forschung an humanoiden Robotern tätig sind. Die Organisatoren/innen sind
-Studierende des [RoboCup Teams der TUHH](https://www.hulks.de).
+Forschung an humanoiden Robotern tätig sind. 
+Im Fokus der Veranstaltung stehen aktuellste Themen der Robotik, an denen
+international und branchenunabhängig geforscht wird. Um dabei direkte Eindrücke
+aus der Industrie zu gewinnen, stellen Unternehmen ihre Tätigkeitsbereiche und
+Interessengebiete in Gastbeiträgen vor.
 
-Das Team arbeitet seit ihrer Gründung in der Forschung an humanoiden Robotern im
-Rahmen des internationalen Forschungsprojekts
-[RoboCup](https://www.robocup.org/). Der RoboCup hat zum Ziel den Fortschritt
-und die verschiedenen Ansätze im Bereich der Robotikforschung durch
-Fußballspiele vergleichbar und erfahrbar zu machen und einen Austausch zwischen
-den Universitäten und Forschungseinrichtungen zu fördern. Dies wird erreicht,
-indem auf Veranstaltungen, wie den deutschen Meisterschaften (German Open), den
-Iran Open oder auf den Weltmeisterschaften verschiedene Wettbewerbe zwischen den
-Teams stattfinden.
+Die Organisatoren/innen sind Studierende des [RoboCup Teams der
+TUHH](https://www.hulks.de). Das Team arbeitet seit seiner Gründung in der
+Forschung an humanoiden Robotern im Rahmen des internationalen
+Forschungsprojekts [RoboCup](https://www.robocup.org/). 
+Der RoboCup hat zum Ziel den Fortschritt und die verschiedenen Ansätze im
+Bereich der Robotikforschung durch Fußballspiele vergleichbar und erfahrbar zu
+machen und einen Austausch zwischen den Universitäten und
+Forschungseinrichtungen zu fördern. 
+Dies wird erreicht, indem auf Veranstaltungen, wie den deutschen Meisterschaften
+(German Open), den Iran Open oder auf den Weltmeisterschaften verschiedene
+Wettbewerbe zwischen den Teams stattfinden.
+
+Der RoHOW ist in dahingehend besonders, da die Aufmerksamkeit auf den
+unmittelbaren Wissensaustausch zwischen den Teams gelegt wird.
+Im Gegensatz zu Wettbewerbssituationen haben die Teams explizit Zeit, ihre
+Forschungsergebnisse vorzustellen und Fragen zu diskutieren. 
+Das fördert nicht nur die Entwicklung und Motivation der einzelnen Teilnehmer,
+sondern führt auch zu einer qualitativen Steigerung des wissenschaftlichen Inhalts.
 
 ### 3. Ablauf der Veranstaltung
 
