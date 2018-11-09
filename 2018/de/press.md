@@ -75,7 +75,22 @@ Hiermit können die vielen Workshops agil strukturiert werden, sodass die
 einzelnen Interessenten ein Minimum an Überschneigungen in ihrem individuellen
 Programm haben.
 
-### 4. Warum ein RoHOW in Hamburg?
+### 4. Aktuelles
+
+Diese Jahr nehmen Entwickler/innen von über 10 Universitäten am RoHOW teil,
+darunter Teams aus Italien und den Niederlanden.
+
+Bei dem letzten Event wurden Inhalte aus Abschlussrbeiten vorgestellt, die unter
+anderem die Balldetektion mit Hilfe eines bildverarbeitendem Neuronalen Netzes,
+oder die Lokalisierung des Roboters mit einem Unscented Kalman-Filter
+behandelten.
+Weiterhin wurden über selbst implementierte Tools und Stabilisierungsmethoden
+diskutiert.
+Neben den wissenschaftlichen Problemen wurden auch auf soziologisch geprägte
+Themen, wie die Aufgabe von Ingenieur/innen in gesellschaftlicher Hinsicht, ein
+kritisches Licht geworfen.
+
+### 5. Warum ein RoHOW in Hamburg?
 
 Die Stadt Hamburg bietet sich als "Tor zur Welt der Wissenschaft" besonders als
 Veranstaltungsort an. Insbesondere aufgrund der hohen Dichte an RoboCup Teams im
