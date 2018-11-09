@@ -69,11 +69,11 @@ Um einen reibungslosen Ablauf der Vorträge und Diskussionen organisieren zu
 können, wurde letztes Jahr eine Onlineplattform intern entwickelt und
 eingeführt.
 Dort werden Ideen zu Vorträgen und Diskussionen von allen Teammitgliedern
-eingereicht, in die sich Interessenten zum einen als Teilnahmer zum anderen aber
-auch als Vortragende eintragen können.
+eingereicht, in die sich Interessenten zum einen als Teilnehmer/innen, zum
+anderen aber auch als Vortragende eintragen können.
 Hiermit können die vielen Workshops agil strukturiert werden, sodass die
-einzelnen Interessenten ein Minimum an Überschneigungen in ihrem individuellen
-Programm haben.
+einzelnen Interessenten ein Minimum an Überschneigungen in ihren individuellen
+Programmen haben.
 
 ### 4. Aktuelles
 
@@ -86,7 +86,7 @@ oder die Lokalisierung des Roboters mit einem Unscented Kalman-Filter
 behandelten.
 Weiterhin wurden über selbst implementierte Tools und Stabilisierungsmethoden
 diskutiert.
-Neben den wissenschaftlichen Problemen wurden auch auf soziologisch geprägte
+Neben den technischen Problemen wurden auch auf soziologisch geprägte
 Themen, wie die Aufgabe von Ingenieur/innen in gesellschaftlicher Hinsicht, ein
 kritisches Licht geworfen.
 
