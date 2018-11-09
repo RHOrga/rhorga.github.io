@@ -99,7 +99,7 @@ vereinfachte Anreise für internationale Teams.
 Zudem haben viele technologische Unternehmen ihren Sitz in Hamburg und Umgebung,
 sodass eine Koorperation begünstigt wird. Wie auch schon in den letzten Jahren
 gehören die Sponsoren zu den Gästen und Teilhabenden des Events und haben somit
-die Gelegenheit, mit den aktiven Studenten ins Gespräch zu kommen. 
+die Gelegenheit, mit den Studierenden ins Gespräch zu kommen. 
 Nicht außer Acht zu lassen ist der Veranstaltungsort an sich mit den großzügigen
 Räumlichkeiten und dem Campus der TUHH. Es finden sowohl große Präsentationen
 als auch kleine Diskssionen geeignete Räume, ohne mit den Arbeitsplätzen in den
