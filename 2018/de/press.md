@@ -65,6 +65,16 @@ thematisch verwandte Fächer studieren. Dies soll einerseits das Interesse der
 Studierenden an dem Themenbereich der Robotik wecken, sowie einen größeren
 Austausch ermöglichen.
 
+Um einen reibungslosen Ablauf der Vorträge und Diskussionen organisieren zu
+können, wurde letztes Jahr eine Onlineplattform intern entwickelt und
+eingeführt.
+Dort werden Ideen zu Vorträgen und Diskussionen von allen Teammitgliedern
+eingereicht, in die sich Interessenten zum einen als Teilnahmer zum anderen aber
+auch als Vortragende eintragen können.
+Hiermit können die vielen Workshops agil strukturiert werden, sodass die
+einzelnen Interessenten ein Minimum an Überschneigungen in ihrem individuellen
+Programm haben.
+
 ### 4. Warum ein RoHOW in Hamburg?
 
 Die Stadt Hamburg bietet sich als "Tor zur Welt der Wissenschaft" besonders als
