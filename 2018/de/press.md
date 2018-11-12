@@ -15,7 +15,7 @@ Wird noch veröffentlicht.
 | **Titel:**                      | RoHOW                                                                                  |
 | **Teilnehmende RoboCup Teams:** | 30. November bis 2. Dezember 2018                                                      |
 | **Ort:**                        | Technische Universität Hamburg <br> Gebäude I <br> Denickestraße 22 <br> 21073 Hamburg |
-| **Zielgruppe:**                 | RoboCup Teams der Standard Plattform League                                            |
+| **Zielgruppe:**                 | RoboCup Teams                                                                          |
 | **Teilnahmegebühren:**          | keine                                                                                  |
 
 ### 2. Kurzportrait
@@ -23,84 +23,60 @@ Wird noch veröffentlicht.
 Der Robotic Hamburg Open Workshop (RoHOW) ist eine Weiterbildungs- und
 Vernetzungsveranstaltung der Technischen Universität Hamburg (TUHH) mit
 Studierenden und Wissenschaftler/innen aus aller Welt, die auf dem Gebiet der
-Forschung an humanoiden Robotern tätig sind. 
-Im Fokus der Veranstaltung stehen aktuellste Themen der Robotik, an denen
-international und branchenunabhängig geforscht wird. Um dabei direkte Eindrücke
-aus der Industrie zu gewinnen, stellen Unternehmen ihre Tätigkeitsbereiche und
-Interessengebiete in Gastbeiträgen vor.
+humanoiden Robotik tätig sind. Der RoHOW bietet den Raum aktuelle
+Forschungsergebnisse vorzustellen und zu diskutieren. Insbesondere erlaubt der
+Veranstaltungsrahmen den direkten Kontakt zu den Vortragenden, um weiterführende
+Diskussionen zu führen und direkt Fragen zu stellen.
 
-Die Organisatoren/innen sind Studierende des [RoboCup Teams der
-TUHH](https://www.hulks.de). Das Team arbeitet seit seiner Gründung in der
-Forschung an humanoiden Robotern im Rahmen des internationalen
-Forschungsprojekts [RoboCup](https://www.robocup.org/). 
-Der RoboCup hat zum Ziel den Fortschritt und die verschiedenen Ansätze im
-Bereich der Robotikforschung durch Fußballspiele vergleichbar und erfahrbar zu
-machen und einen Austausch zwischen den Universitäten und
-Forschungseinrichtungen zu fördern. 
-Dies wird erreicht, indem auf Veranstaltungen, wie den deutschen Meisterschaften
-(German Open), den Iran Open oder auf den Weltmeisterschaften verschiedene
-Wettbewerbe zwischen den Teams stattfinden.
-
-Der RoHOW ist in dahingehend besonders, da die Aufmerksamkeit auf den
-unmittelbaren Wissensaustausch zwischen den Teams gelegt wird.
-Im Gegensatz zu Wettbewerbssituationen haben die Teams explizit Zeit, ihre
-Forschungsergebnisse vorzustellen und Fragen zu diskutieren. 
-Das fördert nicht nur die Entwicklung und Motivation der einzelnen Teilnehmer,
-sondern führt auch zu einer qualitativen Steigerung des wissenschaftlichen Inhalts.
+Diese Jahr nehmen Entwicklerteams von über zehn Universitäten an dem RoHOW teil,
+darunter befinden sich Forschungsgruppen aus Italien, den Niederlanden und
+Deutschland. Der RoHOW fördert damit die Zusammenarbeit und den Austausch
+zwischen den Universitäten und schafft damit universitätsübergreifende
+Arbeitsgruppen.
 
 ### 3. Ablauf der Veranstaltung
 
-Der RoHOW ist als Wochenendveranstaltung vom 30. November bis zum 2. Dezember 2018 
-und somit zwischen den Meisterschaften geplant. Am Freitag findet neben der Anreise 
-eine allgemeine Begrüßung statt.
+Die zentralen Elemente der Veranstaltung sind die Workshops, Talks und
+Diskussionsrunden. Dabei stehen zumeist nicht alle Themen vor der Konferenz
+fest, sondern kristallisieren sich erst vor Ort, entsprechend der Interessenslage
+der Teilnehmer, heraus. Diese Methode ähnelt Open-Space-Konferenzen.
+Auch die Planung für die Workshops und Talks ist hochgradig agil und steht zu
+Beginn der Veranstaltung nicht fest. Eine eigens entwickelte Software nimmt
+Vorträge und Interessenten entgegen und plant anschließend einen möglichst
+überschneidungsfreien Ablaufplan für jeden Teilnehmer.
 
-Das zentrale Konzept der Veranstaltung sind die organisierten Workshops, die
-über den Samstag und Sonntag verteilt stattfinden. Es wird einerseits
-theoretische Workshops geben, die entweder als Vortrag oder gemeinsame
-inhaltliche Diskussion durchgeführt werden. Zum Anderen kann in praktischen
-Workshops an zentralen Problemen der Hardware sowie Software
-universitätsübergreifend gearbeitet werden. In die Durchführung der Workshops
-werden auch Studierende einbezogen, die an der Technischen Universität Hamburg
-thematisch verwandte Fächer studieren. Dies soll einerseits das Interesse der
-Studierenden an dem Themenbereich der Robotik wecken, sowie einen größeren
-Austausch ermöglichen.
+Außerdem wird Partnern aus der Industrie die Möglichkeit gegeben ihre Arbeit in
+Gastvorträgen zu präsentieren.
 
-Um einen reibungslosen Ablauf der Vorträge und Diskussionen organisieren zu
-können, wurde letztes Jahr eine Onlineplattform intern entwickelt und
-eingeführt.
-Dort werden Ideen zu Vorträgen und Diskussionen von allen Teammitgliedern
-eingereicht, in die sich Interessenten zum einen als Teilnehmer/innen, zum
-anderen aber auch als Vortragende eintragen können.
-Hiermit können die vielen Workshops agil strukturiert werden, sodass die
-einzelnen Interessenten ein Minimum an Überschneigungen in ihren individuellen
-Programmen haben.
+### 4. Hintergrund
 
-### 4. Aktuelles
+Die Organisatoren/innen sind Studierende des [RoboCup Teams der
+TUHH](https://www.hulks.de). Das Team forscht seit ihrer Gründung an der
+humanoiden Robotik und nimmt im Rahmen des internationalen Forschungsprojekts
+[RoboCup](https://www.robocup.org/) an den jährlichen Weltmeisterschaften teil.
 
-Diese Jahr nehmen Entwickler/innen von über 10 Universitäten am RoHOW teil,
-darunter Teams aus Italien und den Niederlanden.
-
-Bei dem letzten Event wurden Inhalte aus Abschlussrbeiten vorgestellt, die unter
-anderem die Balldetektion mit Hilfe eines bildverarbeitendem Neuronalen Netzes,
-oder die Lokalisierung des Roboters mit einem Unscented Kalman-Filter
-behandelten.
-Weiterhin wurden über selbst implementierte Tools und Stabilisierungsmethoden
-diskutiert.
-Neben den technischen Problemen wurden auch auf soziologisch geprägte
-Themen, wie die Aufgabe von Ingenieur/innen in gesellschaftlicher Hinsicht, ein
-kritisches Licht geworfen.
+Der RoboCup hat das Ziel die Forschung im Bereich der künstlichen Intelligenz
+und Robotik voran zu treiben. Fußballspiele, in denen Roboter mit- und
+gegeneinander spielen, stellen dabei den Forschungsschwerpunkt dar. Das
+Fußballspiel macht den Entwicklungsstand vergleichbar und gilt als ein Maß für
+die künstliche Intelligenz. Gleichzeitig macht es den aktuellen Stand der
+Technik für jeden Menschen erfahrbar und verständlich.
 
 ### 5. Warum ein RoHOW in Hamburg?
 
 Die Stadt Hamburg bietet sich als "Tor zur Welt der Wissenschaft" besonders als
-Veranstaltungsort an. Insbesondere aufgrund der hohen Dichte an RoboCup Teams im
-Norden von Deutschland. Der Flughafen unserer Stadt ermöglicht auch eine
-vereinfachte Anreise für internationale Teams.
-Zudem haben viele technologische Unternehmen ihren Sitz in Hamburg und Umgebung,
-sodass eine Koorperation begünstigt wird. Wie auch schon in den letzten Jahren
-gehören die Sponsoren zu den Gästen und Teilhabenden des Events und haben somit
-die Gelegenheit, mit den Studierenden ins Gespräch zu kommen. 
-Nicht außer Acht zu lassen ist der Veranstaltungsort an sich mit den großzügigen
-Räumlichkeiten und dem Campus der TUHH. Es finden sowohl große Präsentationen
-als auch kleine Diskssionen geeignete Räume, ohne mit den Arbeitsplätzen in den
-Teamzonen zu kollidieren.
+Veranstaltungsort an. 
+
+Die hohe Dichte an RoboCup Teams im Norden von Deutschland gestaltet die Anreise
+besonders angenehm. Der Flughafen unserer Stadt ermöglicht auch eine
+vereinfachte Anreise für internationale Teams. 
+
+Die Vielfalt der Technologiekonzerne mit Sitz in Hamburg und Umgebung
+begünstigen die Kooperation, sodass interessante Einblicke gewährt werden und
+Austausche stattfinden können.
+
+Die moderne Technische Universität bietet außerdem bestmögliche Räumlichkeiten
+für diese Form von Workshopveranstaltung. Größere Präsentationen können in in
+dem Auditorium Maximum stattfinden. Für Diskussionsrunden und Workshops stehen
+viele weitere ausgestattete Räume zur Verfügung.
+
