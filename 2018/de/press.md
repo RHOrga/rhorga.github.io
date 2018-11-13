@@ -27,7 +27,7 @@ Vernetzungsveranstaltung der Technischen Universität Hamburg (TUHH) mit
 Studierenden und Wissenschaftler/innen aus aller Welt, die auf dem Gebiet der
 humanoiden Robotik tätig sind. Der RoHOW bietet den Raum aktuelle
 Forschungsergebnisse vorzustellen und zu diskutieren. Insbesondere erlaubt der
-Veranstaltungsrahmen den direkten Kontakt zu den Vortragenden, um weiterführende
+Veranstaltungsrahmen den direkten Kontakt zu den Vortragenden, um umfangreiche
 Diskussionen zu führen und direkt Fragen zu stellen.
 
 Dieses Jahr nehmen Entwicklerteams von über zehn Universitäten an dem RoHOW teil,
