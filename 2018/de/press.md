@@ -1,6 +1,8 @@
 ---
 title: Presse
 layout: default-de-only-2018
+redirect_from:
+  - "/2018/press"
 ---
 
 ## Material
