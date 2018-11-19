@@ -46,7 +46,7 @@ layout: default-en-only-2018
 
 ### Announced talks
 
-* **TBA (Eppendorf AG)**  
+* **Alexander Pitzer (Eppendorf AG)**  
 [TBA] TBA
 
 ## Sunday (2<sup>nd</sup> December 2018)
