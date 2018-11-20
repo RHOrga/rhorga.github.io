@@ -37,25 +37,6 @@ Your participation will be free of charge.
 Please visit our leagues pages www.robocupgermanopen.de/major for a reference to the rules.
 If you have further questions or rules are missing please contact the chair of your league.
 
-## Accommodation
-
-Inexpensive hotels near by:
-
-B&B Hotel Hamburg-Harburg  
-Theodor-Yorck-Straße 1  
-21079 Hamburg  
-[www.hotelbb.de](https://www.hotelbb.de/de/hamburg-harburg)
-
-Hotel Harburger Hof  
-Küchgarten 17  
-21073 Hamburg  
-[www.hhhof.de](http://www.hhhof.de)
-
-Hotel Süderelbe  
-Großer Schippsee 29,  
-21073 Hamburg  
-[www.hotel-suederelbe.de](http://www.hotel-suederelbe.de)
-
 ## Delivery of Robots
 
 If your team wants to deliver robots by cargo, please use the following address:
