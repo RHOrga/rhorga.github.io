@@ -9,6 +9,9 @@ Register your workshops and talks <a href="https://www.rohow.de/mopad">here</a>.
 
 ### Ideas for workshops and discussions  
 
+- NAO v6
+  - Camera
+  - GPU
 - Brainstorming on this years rule changes
   - Corner kick
   - Kick-in
@@ -34,7 +37,7 @@ Register your workshops and talks <a href="https://www.rohow.de/mopad">here</a>.
 
 | Time     | Event                         |
 | :------  | :-------                      |
-| 08:00 am | Venue opens                   |
+| 09:00 am | Venue opens and breakfast     |
 | 10:00 am | Workshop sessions             |
 | 01:00 pm | Lunch break                   |
 | 02:00 pm | Workshop sessions             |
@@ -53,7 +56,7 @@ Register your workshops and talks <a href="https://www.rohow.de/mopad">here</a>.
 
 | Time     | Event                               |
 | :------  | :-------                            |
-| 08:00 am | Venue opens                         |
+| 09:00 am | Venue opens and breakfast           |
 | 10:00 am | Workshop sessions                   |
 | 12:00 am | Markus Robert (IAV GmbH), [TBA] TBA |
 | 01:00 pm | Lunch break                         |
