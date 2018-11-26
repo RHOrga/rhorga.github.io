@@ -5,25 +5,10 @@ redirect_from:
   - "/info"
 ---
 
-## mopad
-
-Workshop and talk online schedule and planning.
-
-<https://www.rohow.de/mopad>
-
 ## Workshop/Talk related information
 
 Contact us we can publish links or anything else within seconds for the RoHOW
 participants.
-
-## Contact
-
-For any concerns, just contact us.
-
-|   |   |
-| - | - |
-| René (main organization unit)| +49 176 84629075 |
-| Pascal | +49 176 63767951 |
 
 ## Ordering pizza, croque, ...
 
@@ -39,3 +24,50 @@ service written on it and we order the food for you.
 **Otherwise** use the following address:  
 Denickestraße 22  
 21073 Hamburg  
+
+## Overview of important information
+
+### Venue opening hours
+
+- Friday: 1700 to open end
+- Saturday: 0900 to ~0000
+- Sunday: 0900 to ~1800
+
+More details: [Schedule](https://www.rohow.de/2018/en/schedule.html)
+
+### Network & Power outlets
+
+- You may connect to any power outlet you find
+- You may connect to any Ethernet switch you find
+  - It may take some time to get a link on the big cisco-switches
+  - A list of non-blocked ports can be found here: [Network](https://www.tuhh.de/rzt/beratung/dvb/tuhhvn.html)
+
+### Workshops schedule
+
+The workshops and talks are organized online: [mopad](https://rohow.de/mopad)
+
+### Workshop/Talk related information
+
+Contact us we can publish links or anything else within seconds for the RoHOW participants.
+
+### Miscellaneous
+
+- Drinks are free
+- Breakfast on Saturday and Sunday is free (buns, coffee, ...)
+- Make use of the photo wall: https://rohow.de/wall
+
+### Photo and Video Disclaimer
+
+By participating in the RoHOW or by failing to notify it's organizers, in
+writing, your desire to not have your photograph used by RobotING@TUHH e.V., you
+are agreeing to release, defend, hold harmless and indemnify RobotING@TUHH e.V.
+from any and all claims involving the use of your picture or likeness.
+
+### Contact
+
+For any concerns, just contact us.
+
+|   |   |
+| - | - |
+| René Kost (main organization unit)| +49 176 84629075 |
+| Pascal Loth | +49 176 63767951 |
