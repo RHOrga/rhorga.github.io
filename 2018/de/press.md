@@ -5,10 +5,6 @@ redirect_from:
   - "/2018/press"
 ---
 
-## Material
-
-Wird noch veröffentlicht.
-
 ## Pressemitteilung
 ### 1. Überblick
 
