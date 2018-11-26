@@ -59,13 +59,9 @@ Register your workshops and talks <a href="https://www.rohow.de/mopad">here</a>.
 | 11:00 am | Workshop sessions                                                                                  |
 | 12:00 am | **Markus Robert (IAV GmbH)** <br> [TBA] TBA                                                        |
 | 01:00 pm | Lunch break                                                                                        |
-| 02:00 pm | Workshop sessions                                                                                  |
+| 02:00 pm | **Michael Niesyto (Basler AG)** <br> [DE] TBA                                                      | 
+| 03:00 pm | Workshop sessions                                                                                  |
 | 04:00 pm | Coffee break                                                                                       |
 | 04:30 pm | Workshop sessions                                                                                  |
 | 06:00 pm | Converence end                                                                                     |
 {: class="schedule"}
-
-### Announced talks for sunday
-
-* **Michael Niesyto (Basler AG)**  
-[TBA] Bildkompression
