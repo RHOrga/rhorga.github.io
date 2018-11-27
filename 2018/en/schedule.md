@@ -46,7 +46,7 @@ Register your workshops and talks <a href="https://www.rohow.de/mopad">here</a>.
 | 02:00 pm | Workshop sessions                                                                      |
 | 04:00 pm | Coffee break                                                                           |
 | 04:30 pm | Workshop sessions                                                                      |
-| 08:00 pm | After converence get-together                                                          |
+| 08:00 pm | After conference get-together                                                          |
 | 11:00 pm | Venue closes                                                                           |
 {: class="schedule"}
 
@@ -63,5 +63,5 @@ Register your workshops and talks <a href="https://www.rohow.de/mopad">here</a>.
 | 03:00 pm | Workshop sessions                                                                                  |
 | 04:00 pm | Coffee break                                                                                       |
 | 04:30 pm | Workshop sessions                                                                                  |
-| 06:00 pm | Converence end                                                                                     |
+| 06:00 pm | Conference end                                                                                     |
 {: class="schedule"}
