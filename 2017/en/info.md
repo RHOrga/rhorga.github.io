@@ -5,7 +5,7 @@ layout: default-en-only-2017
 
 ## mopad
 
-<https://www.rohow.de/mopad>
+<https://rohow.de/mopad>
 
 ## Contact
 

@@ -33,7 +33,7 @@ Denickestraße 22
 - Saturday: 0900 to ~0000
 - Sunday: 0900 to ~1800
 
-More details: [Schedule](https://www.rohow.de/2018/en/schedule.html)
+More details: [Schedule](https://rohow.de/2018/en/schedule.html)
 
 ### Network & Power outlets
 
