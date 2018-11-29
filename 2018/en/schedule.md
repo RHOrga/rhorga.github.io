@@ -7,6 +7,9 @@ layout: default-en-only-2018
 
 Register your workshops and talks <a href="https://rohow.de/mopad">here</a>.
 
+A **caldav** feed of the schedule including all talks and workshops can be subscribed using [this link](https://hulks.dual.tuhh.de/nextcloud/remote.php/dav/calendars/rkost/rohow-2019/).  
+The **web view** of this calendar is available [here](https://hulks.dual.tuhh.de/nextcloud/index.php/apps/calendar/p/jmCyA4Z8MPr8tnkZ/RoHOW-2018).
+
 ### Ideas for workshops and discussions  
 
 - NAO v6
