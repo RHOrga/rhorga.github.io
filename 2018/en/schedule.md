@@ -39,13 +39,13 @@ The **web view** of this calendar is available [here](https://hulks.dual.tuhh.de
 | :------  | :-------                                                                               |
 | 09:00 am | Venue opens and breakfast                                                              |
 | 10:00 am | Workshop sessions                                                                      |
-| 12:00 am | **Alexander Pitzer (Eppendorf AG)** <br> [EN] Making embedded devices innovative again |
+| 12:00 pm | **Alexander Pitzer (Eppendorf AG)** <br> [EN] Making embedded devices innovative again |
 | 01:00 pm | Lunch break                                                                            |
 | 02:00 pm | Workshop sessions                                                                      |
 | 04:00 pm | Coffee break                                                                           |
 | 04:30 pm | Workshop sessions                                                                      |
 | 08:00 pm | After conference get-together                                                          |
-| 11:00 pm | Venue closes                                                                           |
+| 12:00 am | Venue closes                                                                           |
 {: class="schedule"}
 
 ## Sunday (2<sup>nd</sup> December 2018)
