@@ -44,7 +44,7 @@ More details: [Schedule](https://rohow.de/2018/en/schedule.html)
 
 ### Workshops schedule
 
-The workshops and talks are organized online: [mopad](https://rohow.de/mopad)
+The workshops and talks are organized online: [mopad](https://mopad.rohow.de)
 
 ### Workshop/Talk related information
 
@@ -54,7 +54,7 @@ Contact us we can publish links or anything else within seconds for the RoHOW pa
 
 - Drinks are free
 - Breakfast on Saturday and Sunday is free (buns, coffee, ...)
-- Make use of the photo wall: https://rohow.de/wall
+- Make use of the photo wall: https://wall.rohow.de
 
 ### Photo and Video Disclaimer
 
