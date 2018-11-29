@@ -21,11 +21,6 @@ Register your workshops and talks <a href="https://rohow.de/mopad">here</a>.
 
 - Introduction to reinforcement learning using codingame
 
-### Announced talks
-
-* **TBA (freiheit.com technologies gmbh)**  
-[TBA] TBA
-
 ## Friday (30<sup>th</sup> November 2018)
 
 | Time     | Event                              |

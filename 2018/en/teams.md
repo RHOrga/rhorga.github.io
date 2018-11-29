@@ -30,12 +30,11 @@ Please submit your registration as soon as possible to help us simplify planning
 
 ## Participation Fees
 
-Your participation will be free of charge.
+Your participation is free of charge.
 
 ## Rules
 
-Please visit our leagues pages www.robocupgermanopen.de/major for a reference to the rules.
-If you have further questions or rules are missing please contact the chair of your league.
+Please visit the [SPL website](http://spl.robocup.org/downloads/) for a reference to the rules.
 
 ## Delivery of Robots
 
