@@ -1,15 +1,16 @@
 ---
 title: RoHOW
-layout: default-en-only-2018
+layout: default-en-only-2019
 redirect_from:
-  - "/2018"
-  - "/2018/"
-  - "/2018/de"
+  - "/"
+  - "/2019"
+  - "/2019/"
+  - "/2019/de"
 ---
 
 ![Gruppenfoto]({{ site.baseurl }}/assets/img/teams2016.jpg){: width="700" height="192"}
 
-From 30th November to 2nd December 2018 the fifth Robotic Hamburg Open Workshop (RoHOW)
+From the 29th of November to the 1st of December 2019 the sixth Robotic Hamburg Open Workshop (RoHOW)
 will be held at the Hamburg University of Technology (TUHH).
 
 The RoHOW is an educational and networking event of the Hamburg University of
