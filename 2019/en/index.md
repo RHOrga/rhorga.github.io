@@ -1,10 +1,11 @@
 ---
 title: RoHOW
-layout: default-en-only-2018
+layout: default-en-only-2019
 redirect_from:
-  - "/2018"
-  - "/2018/"
-  - "/2018/de"
+  - "/"
+  - "/2019"
+  - "/2019/"
+  - "/2019/de"
 ---
 
 ![Gruppenfoto]({{ site.baseurl }}/assets/img/teams2016.jpg){: width="700" height="192"}

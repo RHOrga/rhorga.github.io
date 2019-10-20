@@ -1,0 +1,36 @@
+---
+title: Information for teams
+layout: default-en-only-2019
+---
+
+## Registration
+
+To register your team and team members, please send an email to
+<a href="mailto:hulks@tuhh.de">hulks@tuhh.de</a> including your team name, a
+contact person and the number of participants including their names. This
+needs to be done by **8<sup>th</sup> November 2018**.
+
+Please submit your registration as soon as possible to help us simplify planning.
+
+## Registered Teams
+
+|   | Team | Liga | Land |
+|---|------|------|------|
+| ![](/assets/img/teams/HULKs.svg){: height="32"} | [HULKs](https://hulks.de) | SPL | ![DE](/assets/img/de.svg){: height="32"} |
+{: class="teams"}
+
+## Participation Fees
+
+Your participation is free of charge.
+
+## Rules
+
+Please visit the [SPL website](http://spl.robocup.org/downloads/) for a reference to the rules.
+
+## Delivery of Robots
+
+If your team wants to deliver robots by cargo, please use the following address:
+
+RobotING@TUHH (YourTeamName)
+Denickestraße 22
+21073 Hamburg
