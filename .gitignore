@@ -1,3 +1,4 @@
 *.ps1
 serve
 _site
+/**/.jekyll-cache/*
