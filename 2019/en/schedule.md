@@ -11,9 +11,10 @@ Register your workshops and talks <a href="https://rohow.de/mopad">here</a>.
 
 TBA
 
-### Announced workshops
+### Announced Talks & Workshops
 
-TBA
+* **B.Sc. Lukas Post**  
+[TBA] Automatische Differenzierung von Extended Kalman Filtern auf Mannigfaltigkeiten
 
 ## Friday (29<sup>th</sup> November 2019)
 
