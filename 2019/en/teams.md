@@ -14,10 +14,11 @@ Please submit your registration as soon as possible to help us simplify planning
 
 ## Registered Teams
 
-|                                                               | Team                                         | Division | Country                                  |
-|---------------------------------------------------------------|----------------------------------------------|----------|------------------------------------------|
-| ![](/assets/img/teams/HULKs.svg){: height="32"}               | [HULKs](https://hulks.de)                    | SPL      | ![DE](/assets/img/de.svg){: height="32"} |
-| ![](/assets/img/teams/Nao Devils Dortmund.png){: height="32"} | [Nao Devils Dortmund](https://naodevils.de/) | SPL      | ![DE](/assets/img/de.svg){: height="32"} |
+|                                                                 | Team                                                 | Division | Country                                  |
+|-----------------------------------------------------------------|------------------------------------------------------|----------|------------------------------------------|
+| ![](/assets/img/teams/Berlin United - NaoTH.png){: height="32"} | [Berlin United - Nao Team Humboldt](http://naoth.de) | SPL      | ![DE](/assets/img/de.svg){: height="32"} |
+| ![](/assets/img/teams/Nao Devils Dortmund.png){: height="32"}   | [Nao Devils Dortmund](https://naodevils.de/)         | SPL      | ![DE](/assets/img/de.svg){: height="32"} |
+| ![](/assets/img/teams/HULKs.svg){: height="32"}                 | [HULKs](https://hulks.de)                            | SPL      | ![DE](/assets/img/de.svg){: height="32"} |
 {: class="teams"}
 
 ## Participation Fees
