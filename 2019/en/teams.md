@@ -17,6 +17,7 @@ Please submit your registration as soon as possible to help us simplify planning
 |                                                                 | Team                                                 | Division | Country                                  |
 |-----------------------------------------------------------------|------------------------------------------------------|----------|------------------------------------------|
 | ![](/assets/img/teams/Berlin United - NaoTH.png){: height="32"} | [Berlin United - Nao Team Humboldt](http://naoth.de) | SPL      | ![DE](/assets/img/de.svg){: height="32"} |
+| ![](/assets/img/teams/B-Human.png){: height="32"}               | [B-Human](https://www.b-human.de)                    | SPL      | ![DE](/assets/img/de.svg){: height="32"} |
 | ![](/assets/img/teams/Nao Devils Dortmund.png){: height="32"}   | [Nao Devils Dortmund](https://naodevils.de/)         | SPL      | ![DE](/assets/img/de.svg){: height="32"} |
 | ![](/assets/img/teams/HULKs.svg){: height="32"}                 | [HULKs](https://hulks.de)                            | SPL      | ![DE](/assets/img/de.svg){: height="32"} |
 {: class="teams"}
