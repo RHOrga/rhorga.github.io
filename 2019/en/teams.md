@@ -22,6 +22,7 @@ Please submit your registration as soon as possible to help us simplify planning
 | ![](/assets/img/teams/Hamburg Bit-Bots.svg){: height="32"}      | [Hamburg Bit-Bots](http://bit-bots.de)                        | HUM      | ![DE](/assets/img/de.svg){: height="32"} |
 | ![](/assets/img/teams/DNT_logo.png){: height="32"}              | [Dutch Nao Team](http://www.dutchnaoteam.nl)                  | SPL      | ![NL](/assets/img/nl.svg){: height="32"} |
 | ![](/assets/img/teams/Nao Devils Dortmund.png){: height="32"}   | [Nao Devils Dortmund](https://naodevils.de/)                  | SPL      | ![DE](/assets/img/de.svg){: height="32"} |
+| ![](/assets/img/teams/Nao-Team HTWK.svg){: height="32"}         | [Nao-Team HTWK](http://www.htwk-robots.de)                    | SPL      | ![DE](/assets/img/de.svg){: height="32"} |
 | ![](/assets/img/teams/rhoban.png){: height="32"}                | [Rhoban Football Club](http://rhoban.com)                     | HUM      | ![FR](/assets/img/fr.svg){: height="32"} |
 | ![](/assets/img/teams/HULKs.svg){: height="32"}                 | [HULKs](https://hulks.de)                                     | SPL      | ![DE](/assets/img/de.svg){: height="32"} |
 | ![](/assets/img/teams/spqr.jpg){: height="32"}                  | [SPQR Robot Soccer Team](http://spqr.diag.uniroma1.it/)       | SPL      | ![IT](/assets/img/it.svg){: height="32"} |
