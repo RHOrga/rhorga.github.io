@@ -8,7 +8,7 @@ layout: default-en-only-2019
 To register your team and team members, please send an email to
 <a href="mailto:hulks@tuhh.de">hulks@tuhh.de</a> including your team name, a
 contact person and the number of participants including their names. This
-needs to be done by **10<sup>th</sup> of November 2019**.
+needs to be done by **15<sup>th</sup> of November 2019**.
 
 Please submit your registration as soon as possible to help us simplify planning.
 
