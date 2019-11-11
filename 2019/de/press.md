@@ -27,7 +27,7 @@ Veranstaltungsrahmen den direkten Kontakt zu den Vortragenden, um umfangreiche
 Diskussionen zu führen und direkt Fragen zu stellen.
 
 Dieses Jahr nehmen Entwicklerteams von über zehn Universitäten an dem RoHOW teil,
-darunter befinden sich Forschungsgruppen aus Italien, den Niederlanden und
+darunter befinden sich Forschungsgruppen aus Italien, den Niederlanden, Frankreich und
 Deutschland. Der RoHOW fördert damit die Zusammenarbeit und den Austausch
 zwischen den Universitäten und schafft damit universitätsübergreifende
 Arbeitsgruppen.
