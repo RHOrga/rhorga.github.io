@@ -67,7 +67,6 @@ from any and all claims involving the use of your picture or likeness.
 
 For any concerns, just contact us.
 
-|   |   |
-| - | - |
-| René Kost (main organization unit)| +49 176 84629075 |
-| Pascal Loth | +49 176 63767951 |
+|                                    |                  |
+| -                                  | -                |
+| René Kost (main organization unit) | +49 176 84629075 |
