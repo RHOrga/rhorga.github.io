@@ -7,6 +7,8 @@ layout: default-en-only-2019
 
 Register your workshops and talks <a href="https://rohow.de/mopad" target="_blank">here</a>.
 
+You can subscribe to a webcal containing all workshops using [this link](webcal://hulks.dual.tuhh.de/nextcloud/remote.php/dav/public-calendars/EaC4ifWy3TAkD2bK?export).
+
 ### Ideas for workshops and discussions
 
 TBA
