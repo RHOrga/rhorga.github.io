@@ -11,8 +11,8 @@ redirect_from:
 |                                 |                                                                                        |
 | ----------:                     | :------                                                                                |
 | **Titel:**                      | RoHOW                                                                                  |
-| **Teilnehmende RoboCup Teams:** | 29. November bis 1. Dezember 2019                                                      |
-| **Ort:**                        | Technische Universität Hamburg <br> Gebäude I <br> Denickestraße 22 <br> 21073 Hamburg |
+| **Datum:**                      | 04. bis 06. Dezember 2020                                                                |
+| **Ort:**                        | Discord                                                                                |
 | **Zielgruppe:**                 | RoboCup Teams                                                                          |
 | **Teilnahmegebühren:**          | keine                                                                                  |
 
