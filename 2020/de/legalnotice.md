@@ -5,8 +5,8 @@ layout: default-de-only-2020
 
 ## Ansprechpartner
 
-René Kost
-Telefon: +49 (0) 40 - 42878 - 4723
+Maximilian Schmidt  
+Telefon: +49 (0) 40 - 42878 - 4723  
 [roboting@tuhh.de](mailto:roboting@tuhh.de)
 
 ## Anschrift
