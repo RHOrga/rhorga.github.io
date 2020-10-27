@@ -18,7 +18,7 @@ The RoHOW is an educational and networking event of the Hamburg University of
 Technology (TUHH) with students and scientists from all over the world that are
 active in research on humanoid robots.
 
-**Teams** of the Standard Platform League are invited to present their work in
+Teams of the Standard Platform League are invited to present their work in
 lectures, lightning talks or workshops. The RoHOW is organized by students from
 the RoboCup team <a href="https://www.hulks.de/">HULKs</a> of the TUHH.
 

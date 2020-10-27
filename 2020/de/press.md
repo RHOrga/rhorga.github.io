@@ -1,8 +1,8 @@
 ---
 title: Presse
-layout: default-de-only-2019
+layout: default-de-only-2020
 redirect_from:
-  - "/2019/press"
+  - "/2020/press"
 ---
 
 ## Pressemitteilung
