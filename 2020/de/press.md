@@ -1,6 +1,6 @@
 ---
 title: Presse
-layout: default-de-only-2020
+layout: default-en-only-2020
 redirect_from:
   - "/2020/press"
 ---

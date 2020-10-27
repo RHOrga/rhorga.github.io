@@ -1,6 +1,6 @@
 ---
 title: Impressum
-layout: default-de-only-2020
+layout: default-en-only-2020
 ---
 
 ## Ansprechpartner
