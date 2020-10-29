@@ -8,7 +8,7 @@ redirect_from:
   - "/2020/de"
 ---
 
-![Gruppenfoto]({{ site.baseurl }}/assets/img/teams2016.jpg){: width="700" height="192"}
+![Gruppenfoto]({{ site.baseurl }}/assets/img/vRoHOW.jpg){: width="700" height="464"}
 
 From the 4th to the 6th of December 2020 the seventh Robotic Hamburg Open Workshop (RoHOW)
 will be held by team HULKs. This year, the RoHOW will be entirely virtual.
