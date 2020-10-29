@@ -11,8 +11,8 @@ Telefon: +49 (0) 40 - 42878 - 4723
 
 ## Anschrift
 
-RobotING@TUHH e.V.
-Am Schwarzenberg-Campus 3
+RobotING@TUHH e.V.  
+Am Schwarzenberg-Campus 3  
 21073 Hamburg
 
 ## Haftungsausschluss
