@@ -168,12 +168,12 @@ möglich.
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website
 ist:
 
-RobotING\@TUHH e.V.\
+RobotING@TUHH e.V.\
 Am Schwarzberg-Campus 3\
 21073 Hamburg
 
 Telefon: +49 40 42878 4723\
-E-Mail: roboting\@tuhh.de
+E-Mail: roboting@tuhh.de
 
 Verantwortliche Stelle ist die natürliche oder juristische Person, die
 allein oder gemeinsam mit anderen über die Zwecke und Mittel der
