@@ -24,7 +24,7 @@ If you did not get this e-mail, you can register at [hulks@tuhh.de](mailto:hulks
 | ![](/assets/img/teams/Nao Devils Dortmund.png){: height="32"}   | [Nao Devils Dortmund](https://naodevils.de/)                  | SPL      | Germany |
 |                                                                 | NomadZ                                                        | SPL      | Switzerland |
 |                                                                 | Rinobot                                                       | SPL      | Brazil |
-|                                                                 | RoboEirann                                                    | SPL      | Ireland |
+|                                                                 | RoboEireann                                                   | SPL      | Ireland |
 |                                                                 | rUNSWift                                                      | SPL      | Australia |
 | ![](/assets/img/teams/spqr.jpg){: height="32"}                  | [SPQR Robot Soccer Team](http://spqr.diag.uniroma1.it/)       | SPL      | Italy |
 |                                                                 | UnBeatables                                                   | SPL      | Brazil |
