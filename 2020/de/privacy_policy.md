@@ -3,9 +3,6 @@ title: Datenschutzerklärung
 layout: default-en-only-2020
 ---
 
-Datenschutz­erklärung
-=====================
-
 ## 1. Datenschutz auf einen Blick
 ------------------------------
 
