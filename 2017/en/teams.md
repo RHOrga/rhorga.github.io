@@ -13,13 +13,13 @@ Please submit your registration as soon as possible to help us simplify planning
 
 |   | Team | Liga | Land |
 |---|------|------|------|
-| ![](/assets/img/teams/Bembelbots.png){: height="32"} | [Bembelbots](https://www.jrl.cs.uni-frankfurt.de/web/robocup) | SPL | ![DE](/assets/img/de.svg) |
-| ![](/assets/img/teams/Berlin United - NaoTH.png){: height="32"} | [Berlin United - Nao Team Humboldt](http://naoth.de) | SPL | ![DE](/assets/img/de.svg) |
-| ![](/assets/img/teams/B-Human.png){: height="32"} | [B-Human](https://www.b-human.de) | SPL | ![DE](/assets/img/de.svg) |
-| ![](/assets/img/teams/DNT_logo.png){: height="32"} | [Dutch Nao Team](http://www.dutchnaoteam.nl) | SPL | ![NL](/assets/img/nl.svg){: height="32"} |
-| ![](/assets/img/teams/HULKs.svg){: height="32"} | [HULKs](http://hulks.de) | SPL | ![DE](/assets/img/de.svg) |
-| ![](/assets/img/teams/Nao Devils Dortmund.png){: height="32"} | [Nao Devils Dortmund](http://www.irf.tu-dortmund.de/cms/de/IT/Forschung/Robotics/RoboCup/index.html) | SPL | ![DE](/assets/img/de.svg) |
-| ![](/assets/img/teams/Nao-Team HTWK.svg){: height="32"} | [Nao-Team HTWK](http://www.htwk-robots.de) | SPL | ![DE](/assets/img/de.svg) |
+| ![](/assets/img/teams/Bembelbots.png){: height="32"} | [Bembelbots](https://www.jrl.cs.uni-frankfurt.de/web/robocup) | SPL | ![DE](/assets/img/flags/de.svg) |
+| ![](/assets/img/teams/Berlin United - NaoTH.png){: height="32"} | [Berlin United - Nao Team Humboldt](http://naoth.de) | SPL | ![DE](/assets/img/flags/de.svg) |
+| ![](/assets/img/teams/B-Human.png){: height="32"} | [B-Human](https://www.b-human.de) | SPL | ![DE](/assets/img/flags/de.svg) |
+| ![](/assets/img/teams/DNT_logo.png){: height="32"} | [Dutch Nao Team](http://www.dutchnaoteam.nl) | SPL | ![NL](/assets/img/flags/nl.svg){: height="32"} |
+| ![](/assets/img/teams/HULKs.svg){: height="32"} | [HULKs](http://hulks.de) | SPL | ![DE](/assets/img/flags/de.svg) |
+| ![](/assets/img/teams/Nao Devils Dortmund.png){: height="32"} | [Nao Devils Dortmund](http://www.irf.tu-dortmund.de/cms/de/IT/Forschung/Robotics/RoboCup/index.html) | SPL | ![DE](/assets/img/flags/de.svg) |
+| ![](/assets/img/teams/Nao-Team HTWK.svg){: height="32"} | [Nao-Team HTWK](http://www.htwk-robots.de) | SPL | ![DE](/assets/img/flags/de.svg) |
 {: class="teams"}
 
 ## Important Dates

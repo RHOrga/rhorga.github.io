@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="630"
+   height="360"
+   version="1.1"
+   id="svg4043"
+   sodipodi:docname="IR.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata4049">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4047">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4614">
+      <circle
+         style="fill:#000000;fill-opacity:0;stroke:#ff00ff;stroke-width:1.90011;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.999301"
+         id="circle4616"
+         cx="306.60001"
+         cy="79.599998"
+         r="179.7934" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4618">
+      <circle
+         style="fill:#000000;fill-opacity:0;stroke:#ff00ff;stroke-width:1.90011;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.999301"
+         id="circle4620"
+         cx="315"
+         cy="180"
+         r="179.7934" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4622">
+      <circle
+         style="fill:#000000;fill-opacity:0;stroke:#ff00ff;stroke-width:1.90011;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.999301"
+         id="circle4624"
+         cx="315"
+         cy="180"
+         r="179.7934" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4626">
+      <circle
+         style="fill:#000000;fill-opacity:0;stroke:#ff00ff;stroke-width:1.90011;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.999301"
+         id="circle4628"
+         cx="315"
+         cy="180"
+         r="179.7934" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3836"
+     inkscape:window-height="2123"
+     id="namedview4045"
+     showgrid="false"
+     inkscape:zoom="2.8"
+     inkscape:cx="315"
+     inkscape:cy="180"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4043" />
+  <rect
+     width="630"
+     height="360"
+     fill="#da0000"
+     id="rect4003"
+     clip-path="url(#clipPath4626)" />
+  <rect
+     width="630"
+     height="240"
+     fill="#fff"
+     id="rect4005"
+     clip-path="url(#clipPath4622)" />
+  <rect
+     width="630"
+     height="120"
+     fill="#239f40"
+     id="rect4007"
+     clip-path="url(#clipPath4618)" />
+  <g
+     transform="translate(8.4,100.4)"
+     id="g4028"
+     clip-path="url(#clipPath4614)">
+    <g
+       id="tb4">
+      <g
+         id="tb1"
+         fill="none"
+         stroke="#fff"
+         stroke-width="2">
+        <path
+           id="tbp1"
+           d="M0,1H26M1,10V5H9V9H17V5H12M4,9H6M26,9H21V5H29M29,0V9H37V0M33,0V9"
+           transform="scale(1.4)" />
+        <path
+           id="tbp2"
+           d="M0,7H9M10,7H19"
+           transform="scale(2.8)" />
+        <use
+           xlink:href="#tbp2"
+           y="120"
+           id="use4011" />
+        <use
+           xlink:href="#tbp1"
+           y="145.2"
+           id="use4013" />
+      </g>
+      <g
+         id="tb3">
+        <use
+           xlink:href="#tb1"
+           x="56"
+           id="use4016" />
+        <use
+           xlink:href="#tb1"
+           x="112"
+           id="use4018" />
+        <use
+           xlink:href="#tb1"
+           x="168"
+           id="use4020" />
+      </g>
+    </g>
+    <use
+       xlink:href="#tb3"
+       x="168"
+       id="use4024" />
+    <use
+       xlink:href="#tb4"
+       x="392"
+       id="use4026" />
+  </g>
+  <g
+     fill="#da0000"
+     transform="matrix(45,0,0,45,315,180)"
+     id="g4041">
+    <g
+       id="emblem_half">
+      <path
+         d="M-0.54815,0.83638A0.912046,0.912046 0 0,0 0.328544,-0.722384A1,1 0 0,1 -0.54815,0.83638"
+         id="path4030" />
+      <path
+         d="M0.618339,0.661409A0.763932,0.763932 0 0,0 0.421644,-0.741049A1,1 0 0,1 0.618339,0.661409"
+         id="path4032" />
+      <path
+         d="M0,1 -0.05,0 0,-0.787278A0.309995,0.309995 0 0,0 0.118034,-0.688191V-0.100406L0.077809,0.892905z"
+         id="path4034" />
+      <path
+         d="M-0.02,-0.85 0,-0.831217A0.14431,0.14431 0 0,0 0.252075,-0.967708A0.136408,0.136408 0 0,1 0,-0.924634"
+         id="path4036" />
+    </g>
+    <use
+       xlink:href="#emblem_half"
+       transform="scale(-1,1)"
+       id="use4039" />
+  </g>
+</svg>
