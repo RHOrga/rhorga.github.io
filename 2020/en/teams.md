@@ -16,6 +16,7 @@ If you did not get this e-mail, you can register at [hulks@tuhh.de](mailto:hulks
 | ![](/assets/img/teams/Berlin United - NaoTH.png){: height="32"} | [Berlin United - Nao Team Humboldt](http://naoth.de)          | SPL      | ![DE](/assets/img/flags/de.svg){: height="32"} |
 | ![](/assets/img/teams/Hamburg Bit-Bots.svg){: height="32"}      | [Hamburg Bit-Bots](http://bit-bots.de)                        | HUM      | ![DE](/assets/img/flags/de.svg){: height="32"} |
 |                                                                 | BlueWave                                                      | SPL      | ![IR](/assets/img/flags/ir.svg){: height="32"} |
+| ![](/assets/img/teams/bold_hearts.png){: height="32"}           | [Bold Hearts](http://robocup.herts.ac.uk/)                    | HUM      | ![EN](/assets/img/flags/en.svg){: height="32"} |
 | ![](/assets/img/teams/B-Human.png){: height="32"}               | [B-Human](https://www.b-human.de)                             | SPL      | ![DE](/assets/img/flags/de.svg){: height="32"} |
 | ![](/assets/img/teams/cit-brains.png){: height="32"}            | [CIT Brains](https://sites.google.com/a/p.chibakoudai.jp/cit-brains/home_en)  | HUM      | ![JP](/assets/img/flags/jp.svg){: height="32"} |
 |                                                                 | DinoBytes                                                     | SPL      | ![CA](/assets/img/flags/ca.svg){: height="32"} |
