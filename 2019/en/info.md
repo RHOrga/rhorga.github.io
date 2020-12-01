@@ -1,8 +1,6 @@
 ---
 title: Internal Info Site
 layout: default-en-only-2019
-redirect_from:
-  - "/info"
 ---
 
 ## Workshop/Talk related information

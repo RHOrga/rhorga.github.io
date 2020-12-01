@@ -5,4 +5,4 @@ redirect_from:
   - "/info"
 ---
 
-More information will be added soon.
+All information regarding this year's RoHOW is available on our Discord server. Please use the help channel if you need #help.

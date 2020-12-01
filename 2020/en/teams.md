@@ -1,6 +1,8 @@
 ---
 title: Information for teams
 layout: default-en-only-2020
+redirect_from:
+  - "/teams"
 ---
 
 ## Registration
