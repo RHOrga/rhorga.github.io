@@ -14,6 +14,7 @@ If you did not get this e-mail, you can register at [hulks@tuhh.de](mailto:hulks
 
 |                                                                 | Team                                                          | Division | Country                                  |
 |-----------------------------------------------------------------|---------------------------------------------------------------|----------|------------------------------------------|
+| ![](/assets/img/teams/01rfc_berlin.png){: height="32"}          | [01.RFC Berlin](https://01.rfc-berlin.de/)                    | HUM      | ![DE](/assets/img/flags/de.svg){: height="32"} |
 | ![](/assets/img/teams/Bembelbots.png){: height="32"}            | [Bembelbots](https://www.jrl.cs.uni-frankfurt.de/web/robocup) | SPL      | ![DE](/assets/img/flags/de.svg){: height="32"} |
 | ![](/assets/img/teams/Berlin United - NaoTH.png){: height="32"} | [Berlin United - Nao Team Humboldt](http://naoth.de)          | SPL      | ![DE](/assets/img/flags/de.svg){: height="32"} |
 | ![](/assets/img/teams/Hamburg Bit-Bots.svg){: height="32"}      | [Hamburg Bit-Bots](http://bit-bots.de)                        | HUM      | ![DE](/assets/img/flags/de.svg){: height="32"} |
