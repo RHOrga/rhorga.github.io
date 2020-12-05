@@ -27,7 +27,7 @@ If you did not get this e-mail, you can register at [hulks@tuhh.de](mailto:hulks
 | ![](/assets/img/teams/electric-sheep.gif){: height="32"}        | [Electric Sheep](https://humanoid.science/)                   | HUM      | ![NZ](/assets/img/flags/nz.svg){: height="32"} |
 |                                                                 | HS-KL Kaiserslautern                                          | SPL      | ![DE](/assets/img/flags/de.svg){: height="32"} |
 | ![](/assets/img/teams/HULKs.svg){: height="32"}                 | [HULKs](https://hulks.de)                                     | SPL      | ![DE](/assets/img/flags/de.svg){: height="32"} |
-|                                                                 | [MiPal](http://mipal.net.au/)                                 | SPL      | ![SP](/assets/img/flags/sp.svg){: height="32"} |
+|                                                                 | [MiPal](http://mipal.net.au/)                                 | SPL      | ![AU](/assets/img/flags/au.svg){: height="32"} |
 | ![](/assets/img/teams/Nao Devils Dortmund.png){: height="32"}   | [Nao Devils Dortmund](https://naodevils.de/)                  | SPL      | ![DE](/assets/img/flags/de.svg){: height="32"} |
 | ![](/assets/img/teams/nomadz.png){: height="32"}                | [NomadZ](https://robocup.ethz.ch/)                            | SPL      | ![CH](/assets/img/flags/ch.svg){: height="32"} |
 | ![](/assets/img/teams/rinobot_red.png){: height="32"}           | [Rinobot](https://www.facebook.com/rinobot/)                  | SPL      | ![BR](/assets/img/flags/br.svg){: height="32"} |
