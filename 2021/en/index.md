@@ -1,15 +1,15 @@
 ---
 title: RoHOW
-layout: default-en-only-2020
+layout: default-en-only-2021
 redirect_from:
-  - "/2020"
-  - "/2020/"
-  - "/2020/de"
+  - "/2021"
+  - "/2021/"
+  - "/2021/de"
 ---
 
 ![Gruppenfoto]({{ site.baseurl }}/assets/img/vRoHOW.jpg){: width="700" height="464"}
 
-From the 4th to the 6th of December 2020 the seventh Robotic Hamburg Open Workshop (RoHOW)
+From the 3th to the 5th of December 2021 the seventh Robotic Hamburg Open Workshop (RoHOW)
 will be held by team HULKs. This year, the event will be entirely virtual.
 
 The RoHOW is an educational and networking event of the Hamburg University of
