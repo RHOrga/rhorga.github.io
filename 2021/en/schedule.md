@@ -22,7 +22,7 @@ Discord setup before joining the opening ceremony on Friday.
 | 08:00 pm | Pre conference party                |
 {: class="schedule"}
 
-## Saturday (4<sup>th</sup> December 2020)
+## Saturday (4<sup>th</sup> December 2021)
 
 | Time (UTC+1) | Event                     |
 | :------  | :-------                      |
@@ -32,7 +32,7 @@ Discord setup before joining the opening ceremony on Friday.
 | 12:00 am | Venue 'closes'                |
 {: class="schedule"}
 
-## Sunday (5<sup>st</sup> December 2020)
+## Sunday (5<sup>st</sup> December 2021)
 
 | Time (UTC+1) | Event                 |
 | :------  | :-------                  |
