@@ -2,6 +2,7 @@
 title: RoHOW
 layout: default-en-only-2021
 redirect_from:
+  - "/"
   - "/2021"
   - "/2021/"
   - "/2021/de"
