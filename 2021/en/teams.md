@@ -23,6 +23,7 @@ If you did not get this e-mail, you can register at [hulks@tuhh.de](mailto:hulks
 |                                                                 | R-ZWEI KICKERS                                                | SPL      | ![DE](/assets/img/flags/de.svg){: height="32"} |
 | ![](/assets/img/teams/HULKs.svg){: height="32"}                 | [HULKs](https://hulks.de)                                     | SPL      | ![DE](/assets/img/flags/de.svg){: height="32"} |
 | ![](/assets/img/teams/Nao Devils Dortmund.png){: height="32"}   | [Nao Devils Dortmund](https://naodevils.de/)                  | SPL      | ![DE](/assets/img/flags/de.svg){: height="32"} |
+| ![](/assets/img/teams/nomadz.png){: height="32"}                | [NomadZ](https://robocup.ethz.ch/)                            | SPL      | ![CH](/assets/img/flags/ch.svg){: height="32"} |
 |                                                                 | RoboDucks                                                     | SPL      | ![AUT](/assets/img/flags/aut.svg){: height="32"} |
 | ![](/assets/img/teams/spqr.jpg){: height="32"}                  | [SPQR Robot Soccer Team](http://spqr.diag.uniroma1.it/)       | SPL      | ![IT](/assets/img/flags/it.svg){: height="32"} |
 | ![](/assets/img/teams/UnBeatables.bmp){: height="32"}           | [UnBeatables](https://www.facebook.com/unbeatablesbr)         | SPL      | ![BR](/assets/img/flags/br.svg){: height="32"} |
