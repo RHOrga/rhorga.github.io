@@ -27,4 +27,5 @@ If you did not get this e-mail, you can register at [hulks@tuhh.de](mailto:hulks
 |                                                                 | RoboDucks                                                     | SPL      | ![AUT](/assets/img/flags/aut.svg){: height="32"} |
 | ![](/assets/img/teams/spqr.jpg){: height="32"}                  | [SPQR Robot Soccer Team](http://spqr.diag.uniroma1.it/)       | SPL      | ![IT](/assets/img/flags/it.svg){: height="32"} |
 | ![](/assets/img/teams/UnBeatables.bmp){: height="32"}           | [UnBeatables](https://www.facebook.com/unbeatablesbr)         | SPL      | ![BR](/assets/img/flags/br.svg){: height="32"} |
+| ![](/assets/img/teams/roboeireann.png){: height="32"}           | [RoboEireann](http://www.eeng.nuim.ie/robocup/)               | SPL      | ![IE](/assets/img/flags/ie.svg){: height="32"} |
 {: class="teams"}
