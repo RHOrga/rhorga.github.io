@@ -28,4 +28,6 @@ If you did not get this e-mail, you can register at [hulks@tuhh.de](mailto:hulks
 | ![](/assets/img/teams/spqr.jpg){: height="32"}                  | [SPQR Robot Soccer Team](http://spqr.diag.uniroma1.it/)       | SPL      | ![IT](/assets/img/flags/it.svg){: height="32"} |
 | ![](/assets/img/teams/UnBeatables.bmp){: height="32"}           | [UnBeatables](https://www.facebook.com/unbeatablesbr)         | SPL      | ![BR](/assets/img/flags/br.svg){: height="32"} |
 | ![](/assets/img/teams/roboeireann.png){: height="32"}           | [RoboEireann](http://www.eeng.nuim.ie/robocup/)               | SPL      | ![IE](/assets/img/flags/ie.svg){: height="32"} |
+| ![](/assets/img/teams/rUNSWift.png){: height="32"}              | [rUNSWift](https://www.engineering.unsw.edu.au/computer-science-engineering/student-life/student-projects/robocup)  | SPL      | ![AU](/assets/img/flags/au.svg){: height="32"} |
+| ![](/assets/img/teams/cit-brains.png){: height="32"}            | [CIT Brains](https://sites.google.com/a/p.chibakoudai.jp/cit-brains/home_en)  | HUM      | ![JP](/assets/img/flags/jp.svg){: height="32"} |
 {: class="teams"}
