@@ -30,4 +30,6 @@ If you did not get this e-mail, you can register at [hulks@tuhh.de](mailto:hulks
 | ![](/assets/img/teams/roboeireann.png){: height="32"}           | [RoboEireann](http://www.eeng.nuim.ie/robocup/)               | SPL      | ![IE](/assets/img/flags/ie.svg){: height="32"} |
 | ![](/assets/img/teams/rUNSWift.png){: height="32"}              | [rUNSWift](https://www.engineering.unsw.edu.au/computer-science-engineering/student-life/student-projects/robocup)  | SPL      | ![AU](/assets/img/flags/au.svg){: height="32"} |
 | ![](/assets/img/teams/cit-brains.png){: height="32"}            | [CIT Brains](https://sites.google.com/a/p.chibakoudai.jp/cit-brains/home_en)  | HUM      | ![JP](/assets/img/flags/jp.svg){: height="32"} |
+| ![](/assets/img/teams/Berlin United - NaoTH.png){: height="32"} | [Berlin United - Nao Team Humboldt](http://naoth.de)          | SPL      | ![DE](/assets/img/flags/de.svg){: height="32"} |
+| ![](/assets/img/teams/Nao-Team HTWK.svg){: height="32"}         | [Nao-Team HTWK](http://www.htwk-robots.de)                    | SPL      | ![DE](/assets/img/flags/de.svg){: height="32"} |
 {: class="teams"}
