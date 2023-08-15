@@ -1,6 +1,8 @@
 ---
 title: Information for teams
-layout: default-en-only-2022
+layout: default-en-only-2023
+redirect_from:
+  - "/teams"
 ---
 
 ## Registration

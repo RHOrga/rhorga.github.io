@@ -2,7 +2,6 @@
 title: RoHOW
 layout: default-en-only-2022
 redirect_from:
-  - "/"
   - "/2022"
   - "/2022/"
   - "/2022/de"
