@@ -6,4 +6,5 @@ services:
       - .:/srv/jekyll
     ports:
       - "127.0.0.1:4000:4000"
-    command: jekyll serve
+      - "127.0.0.1:35729:35729"
+    command: jekyll serve -l
