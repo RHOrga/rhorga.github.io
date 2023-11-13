@@ -5,27 +5,28 @@ layout: default-en-only-2018
 
 ## Registration
 
-To register your team and team members, please send an email to 
-<a href="mailto:hulks@tuhh.de">hulks@tuhh.de</a> including your team name, a 
-contact person and the number of participants including their names. This 
+To register your team and team members, please send an email to
+<a href="mailto:hulks@tuhh.de">hulks@tuhh.de</a> including your team name, a
+contact person and the number of participants including their names. This
 needs to be done by **8<sup>th</sup> November 2018**.
 
 Please submit your registration as soon as possible to help us simplify planning.
 
 ## Registered Teams
 
-|   | Team | Liga | Land |
-|---|------|------|------|
-| ![](/assets/img/teams/Bembelbots.png){: height="32"} | [Bembelbots](https://www.jrl.cs.uni-frankfurt.de/web/robocup) | SPL | ![DE](/assets/img/flags/de.svg){: height="32"} |
-| ![](/assets/img/teams/Berlin United - NaoTH.png){: height="32"} | [Berlin United - Nao Team Humboldt](http://naoth.de) | SPL | ![DE](/assets/img/flags/de.svg){: height="32"} |
-| ![](/assets/img/teams/B-Human.png){: height="32"} | [B-Human](https://www.b-human.de) | SPL | ![DE](/assets/img/flags/de.svg){: height="32"} |
-| ![](/assets/img/teams/DNT_logo.png){: height="32"} | [Dutch Nao Team](http://www.dutchnaoteam.nl) | SPL | ![NL](/assets/img/flags/nl.svg){: height="32"} |
-| ![](/assets/img/teams/Hamburg Bit-Bots.svg){: height="32"} | [Hamburg Bit-Bots](http://bit-bots.de) | HUM | ![DE](/assets/img/flags/de.svg) |
-| ![](/assets/img/teams/Nao Devils Dortmund.png){: height="32"} | [Nao Devils Dortmund](https://naodevils.de/) | SPL | ![DE](/assets/img/flags/de.svg){: height="32"} |
-| ![](/assets/img/teams/HULKs.svg){: height="32"} | [HULKs](https://hulks.de) | SPL | ![DE](/assets/img/flags/de.svg){: height="32"} |
-| ![](/assets/img/teams/Nao-Team HTWK.svg){: height="32"} | [Nao-Team HTWK](http://www.htwk-robots.de) | SPL | ![DE](/assets/img/flags/de.svg){: height="32"} |
-| ![](/assets/img/teams/spqr.jpg){: height="32"} | [SPQR Robot Soccer Team](http://spqr.diag.uniroma1.it/) | SPL | ![IT](/assets/img/flags/it.svg){: height="32"} |
-| ![](/assets/img/teams/wolves.png){: height="32"} | [WF Wolves](http://www.wf-wolves.de) | HUM | ![DE](/assets/img/flags/de.svg) |
+|                                                                 | Team                                                          | Liga | Land                                           |
+| --------------------------------------------------------------- | ------------------------------------------------------------- | ---- | ---------------------------------------------- |
+| ![](/assets/img/teams/Bembelbots.png){: height="32"}            | [Bembelbots](https://www.jrl.cs.uni-frankfurt.de/web/robocup) | SPL  | ![DE](/assets/img/flags/de.svg){: height="32"} |
+| ![](/assets/img/teams/Berlin United - NaoTH.png){: height="32"} | [Berlin United - Nao Team Humboldt](http://naoth.de)          | SPL  | ![DE](/assets/img/flags/de.svg){: height="32"} |
+| ![](/assets/img/teams/B-Human.png){: height="32"}               | [B-Human](https://www.b-human.de)                             | SPL  | ![DE](/assets/img/flags/de.svg){: height="32"} |
+| ![](/assets/img/teams/DNT_logo.png){: height="32"}              | [Dutch Nao Team](http://www.dutchnaoteam.nl)                  | SPL  | ![NL](/assets/img/flags/nl.svg){: height="32"} |
+| ![](/assets/img/teams/Hamburg Bit-Bots.svg){: height="32"}      | [Hamburg Bit-Bots](http://bit-bots.de)                        | HUM  | ![DE](/assets/img/flags/de.svg)                |
+| ![](/assets/img/teams/Nao Devils Dortmund.png){: height="32"}   | [Nao Devils Dortmund](https://naodevils.de/)                  | SPL  | ![DE](/assets/img/flags/de.svg){: height="32"} |
+| ![](/assets/img/teams/HULKs.svg){: height="32"}                 | [HULKs](https://hulks.de)                                     | SPL  | ![DE](/assets/img/flags/de.svg){: height="32"} |
+| ![](/assets/img/teams/Nao-Team HTWK.svg){: height="32"}         | [Nao-Team HTWK](http://www.htwk-robots.de)                    | SPL  | ![DE](/assets/img/flags/de.svg){: height="32"} |
+| ![](/assets/img/teams/spqr.jpg){: height="32"}                  | [SPQR Robot Soccer Team](http://spqr.diag.uniroma1.it/)       | SPL  | ![IT](/assets/img/flags/it.svg){: height="32"} |
+| ![](/assets/img/teams/wolves.png){: height="32"}                | [WF Wolves](http://www.wf-wolves.de)                          | HUM  | ![DE](/assets/img/flags/de.svg)                |
+
 {: class="teams"}
 
 ## Participation Fees
