@@ -222,9 +222,19 @@ article ol
     margin: 0px 50px 0px 0px;
 }
 
+#wrapper > footer #sponsors > #airbus
+{
+    margin: 0px 50px 15px 0px;
+}
+
+#wrapper > footer #sponsors > #draeger
+{
+    margin: 0px 40px 15px 0px;
+}
+
 #wrapper > footer #sponsors > #ccsystems
 {
-    margin: 0px 50px 0px 0px;
+    margin: 0px 40px 0px 0px;
 }
 
 #wrapper > footer #sponsors_small> #iav
@@ -237,9 +247,9 @@ article ol
     margin: 0px 50px 0px 0px;
 }
 
-#wrapper > footer #university_small > #tuhh
+#wrapper > footer #sponsors > #tuhh
 {
-    margin: 0px 0px 0px 0px;
+    margin: 0px 0px 15px 0px;
 }
 
 #wrapper > footer p
