@@ -5,19 +5,12 @@ redirect_from:
   - "/"
   - "/2023"
   - "/2023/"
-  - "/2023/de"
 ---
 
 ![Gruppenfoto]({{ site.baseurl }}/assets/img/teams2016.jpg){: width="700" height="192"}
 
-From the 1st to the 3rd of December 2023, the tenth Robotic Hamburg Open Workshop (RoHOW)
-will be held at the Hamburg University of Technology (TUHH).
+The <a href="https://www.hulks.de/">HULKs</a>, the robot soccer team from TU Hamburg, are hosting the 10th Robotic Hamburg Open Workshop (RoHOW) at TUHH from December 1, 2023, to December 3, 2023. This networking and educational event provides an opportunity for <a href="https://www.robocup.org/">RoboCup</a> teams in the field of humanoid robotics to share their insights and advancements, particularly in the context of robot soccer. The RoHOW creates an environment for in-depth discussions, workshops, and informative lectures, fostering an intense exchange among experts and promoting a deeper understanding of current research results in robotics.
 
-The RoHOW is an educational and networking event of the Hamburg University of
-Technology (TUHH) with students and scientists from all over the world that are
-active in research on humanoid robots.
+The program, including the talks, is agile and flexible, aiming to cater to the individual interests of all participants and follows the concept of an Open Space Conference. While featuring talks on deep learning in computer vision and the analysis of robot walking metrics, the RoHOW offers a diverse range of program points. Participants can engage in discussions about various aspects of robotics, exchange ideas on the evolution of the league, and explore other cutting-edge topics.
 
-**Teams** of the Standard Platform League are invited to present their work in
-lectures, lightning talks, or workshops. The RoHOW is organized by students from
-the RoboCup team <a href="https://www.hulks.de/">HULKs</a> of the TUHH.
-
+In addition to professional exchange, industry partners and sponsors have the opportunity to showcase their robotics projects. The HULKs are excited to welcome a total of 10 teams and wish all participants an engaging and exciting event.
