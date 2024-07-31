@@ -2,7 +2,6 @@
 title: RoHOW
 layout: default-en-only-2023
 redirect_from:
-  - "/"
   - "/2023"
   - "/2023/"
 ---

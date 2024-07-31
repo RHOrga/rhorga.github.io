@@ -1,8 +1,6 @@
 ---
 title: Internal Info Site
 layout: default-en-only-2023
-redirect_from:
-  - "/info"
 ---
 
 ## Ordering pizza, croque, ...
