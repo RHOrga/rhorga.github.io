@@ -47,12 +47,6 @@ The workshops and talks are organized online: [mopad](https://mopad.rohow.de)
 If you want to provide large files to other participants, contact us.
 We can host it locally to conserve bandwidth.
 
-### Miscellaneous
-
-- Drinks cost 1 Euro
-- Food is donation based (buns, coffee, ...)
-- Make use of the new photo wall: [moments](https://moments.rohow.de)
-
 ### Photo and Video Disclaimer
 
 By participating in the RoHOW or by failing to notify it's organizers, in
@@ -63,4 +57,3 @@ from any and all claims involving the use of your picture or likeness.
 ### Contact
 
 In case of any concerns, just contact us.
-

@@ -78,4 +78,3 @@ Die moderne Technische Universität bietet außerdem bestmögliche Räumlichkeit
 für diese Form von Workshopveranstaltung. Größere Präsentationen können in in
 dem Auditorium Maximum stattfinden. Für Diskussionsrunden und Workshops stehen
 viele weitere ausgestattete Räume zur Verfügung.
-
