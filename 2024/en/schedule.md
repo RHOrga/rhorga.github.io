@@ -11,3 +11,5 @@ Register your workshops and talks <a href="https://rohow.de/mopad" target="_blan
 
 Schedule will follow soon.
 To see an example of the schedule from the previous year click <a href="https://rohow.de/2023/en/schedule.html" target="_blank">here</a>.
+
+
