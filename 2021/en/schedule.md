@@ -1,8 +1,6 @@
 ---
 title: Schedule
 layout: default-en-only-2021
-redirect_from:
-  - "/schedule"
 ---
 
 ## Workshop and talk schedule
