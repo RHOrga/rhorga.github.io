@@ -34,7 +34,7 @@ Register your workshops and talks <a href="https://rohow.de/mopad" target="_blan
 
 {: class="schedule"}
 
-## Sunday (24<sup>th</sup> December 2024)
+## Sunday (24<sup>th</sup> November 2024)
 
 | Time  | Event                     |
 | :---- | :------------------------ |
