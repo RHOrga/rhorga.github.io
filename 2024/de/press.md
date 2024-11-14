@@ -12,10 +12,10 @@ redirect_from:
 |                                 |                                                                                        |
 | ----------:                     | :------                                                                                |
 | **Titel:**                      | RoHOW                                                                                  |
-| **Teilnehmende RoboCup Teams:** | 22. bis 24. November 2024                                                                |
+| **Teilnehmende RoboCup Teams:** | 22. bis 24. November 2024                                                              |
 | **Ort:**                        | Technische Universität Hamburg <br> Gebäude I <br> Denickestraße 22 <br> 21073 Hamburg |
 | **Zielgruppe:**                 | RoboCup Teams                                                                          |
-| **Teilnahmegebühren:**          | keine                                                                                  |
+| **Teilnahmegebühren:**          | 50€ pro Person                                                                         |
 
 ### 2. Kurzportrait
 
