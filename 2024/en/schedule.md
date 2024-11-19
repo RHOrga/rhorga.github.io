@@ -21,19 +21,19 @@ Register your workshops and talks <a href="https://rohow.de/mopad" target="_blan
 
 ## Saturday (23<sup>rd</sup> November 2024)
 
-| Time  | Event                         |
-| :---- | :---------------------------- |
-| 09:00 | Venue opens and breakfast     |
-| 10:00 | Workshop sessions             |
-| 13:00 | Lunch break                   |
-| 13:00 | Guests and show match         |
-| 14:00 | Workshop sessions             |
-| 14:30 | KDAB Talk                     |
-| 16:00 | Coffee break                  |
-| 16:30 | Workshop sessions             |
-| 16:30 | Techniker Krankenkasse Talk   |
-| 20:00 | After conference get-together |
-| 00:00 | Venue closes                  |
+| Time  | Event                          |
+| :---- | :----------------------------- |
+| 09:00 | Venue opens and breakfast      |
+| 10:00 | Workshop sessions              |
+| 13:00 | Lunch break                    |
+| 13:00 | Guests and show match          |
+| 14:00 | Workshop sessions              |
+| 14:30 | Talk by KDAB                   |
+| 16:00 | Coffee break                   |
+| 16:30 | Workshop sessions              |
+| 16:00 | Talk by Techniker Krankenkasse |
+| 20:00 | After conference get-together  |
+| 00:00 | Venue closes                   |
 
 {: class="schedule"}
 
