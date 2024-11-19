@@ -26,9 +26,12 @@ Register your workshops and talks <a href="https://rohow.de/mopad" target="_blan
 | 09:00 | Venue opens and breakfast     |
 | 10:00 | Workshop sessions             |
 | 13:00 | Lunch break                   |
+| 13:00 | Guests and show match         |
 | 14:00 | Workshop sessions             |
+| 14:30 | KDAB Talk                     |
 | 16:00 | Coffee break                  |
 | 16:30 | Workshop sessions             |
+| 16:30 | Techniker Krankenkasse Talk   |
 | 20:00 | After conference get-together |
 | 00:00 | Venue closes                  |
 
@@ -39,11 +42,11 @@ Register your workshops and talks <a href="https://rohow.de/mopad" target="_blan
 | Time  | Event                     |
 | :---- | :------------------------ |
 | 09:00 | Venue opens and breakfast |
-| 11:00 | Workshop sessions         |
+| 10:00 | Workshop sessions         |
 | 13:00 | Lunch break               |
 | 15:00 | Workshop sessions         |
 | 16:00 | Coffee break              |
 | 16:30 | Workshop sessions         |
-| 18:00 | Conference end            |
+| 17:30 | Conference end            |
 
 {: class="schedule"}
