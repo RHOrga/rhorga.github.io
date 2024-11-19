@@ -22,6 +22,6 @@ If you did not get this e-mail, you can register at [hulks@tuhh.de](mailto:hulks
 | ![](/assets/img/teams/spqr.png){: height="32"}                  | [SPQR Robot Soccer Team](http://spqr.diag.uniroma1.it/)                                            | SPL      | ![IT](/assets/img/flags/it.svg){: height="32"} |
 | ![](/assets/img/teams/Berlin United - NaoTH.png){: height="32"} | [Berlin United - Nao Team Humboldt](http://naoth.de)                                               | SPL      | ![DE](/assets/img/flags/de.svg){: height="32"} |
 | ![](/assets/img/teams/Bembelbots.png){: height="32"}            | [Bembelbots](https://www.jrl.cs.uni-frankfurt.de/web/robocup)                                      | SPL      | ![DE](/assets/img/flags/de.svg){: height="32"} |
-|                                                                 | [Tilburg-CoDeRs](https://www.tilburguniversity.edu/about/schools/tshd/departments/dca/lab/air-lab) | SPL      | ![DE](/assets/img/flags/nl.svg){: height="32"} |
+| ![](/assets/img/teams/tilburg-coders.png){: height="32"}        | [Tilburg-CoDeRs](https://www.tilburg-coders.eu/)                                                   | SPL      | ![DE](/assets/img/flags/nl.svg){: height="32"} |
 
 {: class="teams"}
