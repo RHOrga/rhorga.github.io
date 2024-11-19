@@ -21,6 +21,7 @@ A Call for Participation containing more information will be sent to you via e-m
 | ![](/assets/img/teams/HTWK.svg){: height="32"}                  | [HTWK Robots](http://www.htwk-robots.de)                                                           | SPL      | ![DE](/assets/img/flags/de.svg){: height="32"} |
 | ![](/assets/img/teams/Hamburg Bit-Bots.svg){: height="32"}      | [Hamburg Bit-Bots](http://bit-bots.de)                                                             | HUM      | ![DE](/assets/img/flags/de.svg){: height="32"} |
 | ![](/assets/img/teams/wolves.png){: height="32"}                | [WF Wolves](http://www.wf-wolves.de)                                                               | HUM      | ![DE](/assets/img/flags/de.svg){: height="32"} |
+| ![](/assets/img/teams/spqr.png){: height="32"}                  | [SPQR Robot Soccer Team](http://spqr.diag.uniroma1.it/)                                            | SPL      | ![IT](/assets/img/flags/it.svg){: height="32"} |
 | ![](/assets/img/teams/tilburg-coders.png){: height="32"}        | [Tilburg-CoDeRs](https://www.tilburg-coders.eu/)                                                   | SPL      | ![DE](/assets/img/flags/nl.svg){: height="32"} |
 
 {: class="teams"}
