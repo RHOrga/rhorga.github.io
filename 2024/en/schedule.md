@@ -43,6 +43,7 @@ Register your workshops and talks <a href="https://rohow.de/mopad" target="_blan
 | :---- | :------------------------ |
 | 09:00 | Venue opens and breakfast |
 | 10:00 | Workshop sessions         |
+| 11:00 | Talk by Airbus            |
 | 13:00 | Lunch break               |
 | 15:00 | Workshop sessions         |
 | 16:00 | Coffee break              |
