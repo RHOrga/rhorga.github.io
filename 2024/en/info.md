@@ -7,19 +7,20 @@ redirect_from:
 
 ## Ordering pizza, croque, ...
 
-If you don't know where or how to order fast food to the venue just come to the
-info point and we will help out.
+If you don't know where or how to order food to the venue just come to the
+info desk and we will help out.
 
 Ideas for places to order from:
 
-* [Pizza](https://www.pizzamax.de/)
-* [Croque](http://www.lieferprofi.de/shops/croquemaster/common/03_speisen-uebersicht.php)
+- [Pizza](https://www.pizzamax.de/)
+- [Pizza](https://la-patina.de/)
+- [Croque](http://www.lieferprofi.de/shops/croquemaster/)
+- [Indian](https://www.curry-naan.de/)
+- [Sushi](https://www.top-fresh-sushi.de/)
+- [Burger](https://burger-im-glueck.simplywebshop.de/storedata/listStore)
 
-**Best practice:** Give us the money and your order list with the name of the delivery
-service written on it and we order the food for you.
-We can merge orders or coordinate pickup.
+Use the following address for delivery:
 
-**Otherwise:** use the following address for delivery:
 > Denickestraße 22
 > 21073 Hamburg
 
@@ -29,18 +30,18 @@ We can merge orders or coordinate pickup.
 
 - Friday: 1700 to open end
 - Saturday: 0900 to ~0000
-- Sunday: 0900 to ~1800
+- Sunday: 0900 to ~1730
 
 More details: [Schedule](https://rohow.de/schedule)
 
 ### Network & Power outlets
 
-- You may connect to any power outlet you find
-- You may connect to any Ethernet switch you find
+- You may connect to any power outlet on the desks, avoid using the ones on the walls
+- You may connect to any ethernet switch you find
 
 ### Workshops schedule
 
-The workshops and talks are organized online: [mopad](https://mopad.rohow.de)
+The workshops and talks are organized online: [MOPAD](https://mopad.rohow.de)
 
 ### File hosting
 
@@ -49,11 +50,17 @@ We can host it locally to conserve bandwidth.
 
 ### Photo and Video Disclaimer
 
-By participating in the RoHOW or by failing to notify it's organizers, in
-writing, your desire to not have your photograph used by HULKs e.V., you
-are agreeing to release, defend, hold harmless and indemnify HULKs e.V.
-from any and all claims involving the use of your picture or likeness.
+When you attend the RoHOW event, HULKs e.V. might take photos that include you.
+If you do not want your photo to be used by HULKs e.V., please let the
+organizers know in writing before or during the event. If you choose not to
+notify us, you are giving your permission for your photo or likeness to be
+used, and you agree not to make any claims against HULKs e.V. related to the
+use of these images.
 
 ### Contact
 
 In case of any concerns, just contact us.
+
+- Maximilian: +49 152 341 639 72
+- Lars: +49 152 336 491 10
+- Konrad: +49 176 848 036 32
