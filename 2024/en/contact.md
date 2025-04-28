@@ -1,6 +1,6 @@
 ---
 title: Contact
-layout: default-en-only-2024
+layout: default-en-2024
 redirect_from:
   - "/contact"
 ---

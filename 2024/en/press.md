@@ -1,6 +1,6 @@
 ---
 title: Presse
-layout: default-de-2024
+layout: default-en-2024
 redirect_from:
   - "/2024/press"
 ---

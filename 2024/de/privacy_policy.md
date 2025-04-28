@@ -1,10 +1,11 @@
 ---
 title: Datenschutzerklärung
-layout: default-en-only-2024
+layout: default-de-2024
 ---
 
 ## 1. Datenschutz auf einen Blick
-------------------------------
+
+---
 
 ### Allgemeine Hinweise
 
@@ -66,7 +67,8 @@ Detaillierte Informationen zu diesen Analyseprogrammen finden Sie in der
 folgenden Datenschutzerklärung.
 
 ## 2. Hosting und Content Delivery Networks (CDN)
-----------------------------------------------
+
+---
 
 ### Externes Hosting
 
@@ -143,7 +145,8 @@ Weitere Informationen zu Google Cloud CDN finden Sie hier:
 <https://cloud.google.com/cdn/docs/overview?hl=de>.
 
 ## 3. Allgemeine Hinweise und Pflicht­informationen
-------------------------------------------------
+
+---
 
 ### Datenschutz
 
@@ -283,24 +286,24 @@ personenbezogenen Daten zu verlangen. Hierzu können Sie sich jederzeit
 an uns wenden. Das Recht auf Einschränkung der Verarbeitung besteht in
 folgenden Fällen:
 
--   Wenn Sie die Richtigkeit Ihrer bei uns gespeicherten
-    personenbezogenen Daten bestreiten, benötigen wir in der Regel Zeit,
-    um dies zu überprüfen. Für die Dauer der Prüfung haben Sie das
-    Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen
-    Daten zu verlangen.
--   Wenn die Verarbeitung Ihrer personenbezogenen Daten unrechtmäßig
-    geschah/geschieht, können Sie statt der Löschung die Einschränkung
-    der Datenverarbeitung verlangen.
--   Wenn wir Ihre personenbezogenen Daten nicht mehr benötigen, Sie sie
-    jedoch zur Ausübung, Verteidigung oder Geltendmachung von
-    Rechtsansprüchen benötigen, haben Sie das Recht, statt der Löschung
-    die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu
-    verlangen.
--   Wenn Sie einen Widerspruch nach Art. 21 Abs. 1 DSGVO eingelegt
-    haben, muss eine Abwägung zwischen Ihren und unseren Interessen
-    vorgenommen werden. Solange noch nicht feststeht, wessen Interessen
-    überwiegen, haben Sie das Recht, die Einschränkung der Verarbeitung
-    Ihrer personenbezogenen Daten zu verlangen.
+- Wenn Sie die Richtigkeit Ihrer bei uns gespeicherten
+  personenbezogenen Daten bestreiten, benötigen wir in der Regel Zeit,
+  um dies zu überprüfen. Für die Dauer der Prüfung haben Sie das
+  Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen
+  Daten zu verlangen.
+- Wenn die Verarbeitung Ihrer personenbezogenen Daten unrechtmäßig
+  geschah/geschieht, können Sie statt der Löschung die Einschränkung
+  der Datenverarbeitung verlangen.
+- Wenn wir Ihre personenbezogenen Daten nicht mehr benötigen, Sie sie
+  jedoch zur Ausübung, Verteidigung oder Geltendmachung von
+  Rechtsansprüchen benötigen, haben Sie das Recht, statt der Löschung
+  die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu
+  verlangen.
+- Wenn Sie einen Widerspruch nach Art. 21 Abs. 1 DSGVO eingelegt
+  haben, muss eine Abwägung zwischen Ihren und unseren Interessen
+  vorgenommen werden. Solange noch nicht feststeht, wessen Interessen
+  überwiegen, haben Sie das Recht, die Einschränkung der Verarbeitung
+  Ihrer personenbezogenen Daten zu verlangen.
 
 Wenn Sie die Verarbeitung Ihrer personenbezogenen Daten eingeschränkt
 haben, dürfen diese Daten -- von ihrer Speicherung abgesehen -- nur mit
@@ -311,7 +314,8 @@ natürlichen oder juristischen Person oder aus Gründen eines wichtigen
 verarbeitet werden.
 
 ## 4. Datenerfassung auf dieser Website
-------------------------------------
+
+---
 
 ### Anfrage per E-Mail, Telefon oder Telefax
 
@@ -337,7 +341,8 @@ gesetzliche Bestimmungen -- insbesondere gesetzliche
 Aufbewahrungsfristen -- bleiben unberührt.
 
 ## 5. Plugins und Tools
---------------------
+
+---
 
 ### YouTube
 
@@ -423,7 +428,8 @@ Datenschutzerklärung von Google Firebase:
 <https://firebase.google.com/support/privacy>.
 
 ## 6. Audio- und Videokonferenzen
-------------------------------
+
+---
 
 #### Datenverarbeitung
 
@@ -500,6 +506,5 @@ Discord: <https://discord.com/privacy>.
 Die Datenübertragung in die USA wird auf die Standardvertragsklauseln
 der EU-Kommission gestützt. Details finden Sie hier:
 <https://discord.com/privacy>.
-
 
 _Quellverweis:_ [eRecht24](http://www.e-recht24.de/muster-datenschutzerklaerung.html)

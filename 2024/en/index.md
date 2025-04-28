@@ -1,6 +1,6 @@
 ---
 title: RoHOW
-layout: default-en-only-2024
+layout: default-en-2024
 redirect_from:
   - "/"
   - "/2024"
