@@ -14,9 +14,9 @@ layout: default-de-only-2017
 |                                 |                                                                                        |
 | ----------:                     | :------                                                                                |
 | **Titel:**                      | RoHOW                                                                                  |
-| **Tag für Besucher:**         | 3. Dezember 2017                                                                       |
+| **Tag für Besucher:**           | 3. Dezember 2017                                                                       |
 | **Workshop für Kinder:**        | 3. Dezember 2017
-| **Teilnehmende RoboCup Teams:** | 1. bis 3. Dezember 2017                                                                |
+| **Datum:**                      | 1. bis 3. Dezember 2017                                                                |
 | **Ort:**                        | Technische Universität Hamburg <br> Gebäude I <br> Denickestraße 22 <br> 21073 Hamburg |
 | **Zielgruppe:**                 | RoboCup Teams der Standard Plattform League und Interessierte jeden Alters             |
 | **Eintritt:**                   | frei                                                                                   |
