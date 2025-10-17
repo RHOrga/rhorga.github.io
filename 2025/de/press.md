@@ -12,7 +12,7 @@ redirect_from:
 |                                 |                                                                                        |
 | ------------------------------: | :------------------------------------------------------------------------------------- |
 |                      **Titel:** | RoHOW                                                                                  |
-| **Teilnehmende RoboCup Teams:** | 28. bis 30. November 2025                                                              |
+|                      **Datum:** | 28. bis 30. November 2025                                                              |
 |                        **Ort:** | Technische Universität Hamburg <br> Gebäude I <br> Denickestraße 22 <br> 21073 Hamburg |
 |                 **Zielgruppe:** | RoboCup Teams                                                                          |
 

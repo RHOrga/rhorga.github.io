@@ -12,7 +12,7 @@ redirect_from:
 |                                 |                                                                                        |
 | ----------:                     | :------                                                                                |
 | **Titel:**                      | RoHOW                                                                                  |
-| **Teilnehmende RoboCup Teams:** | 1. bis 3. Dezember 2023                                                                |
+| **Datum:**                      | 1. bis 3. Dezember 2023                                                                |
 | **Ort:**                        | Technische Universität Hamburg <br> Gebäude I <br> Denickestraße 22 <br> 21073 Hamburg |
 | **Zielgruppe:**                 | RoboCup Teams                                                                          |
 | **Teilnahmegebühren:**          | keine                                                                                  |

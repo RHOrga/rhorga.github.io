@@ -11,7 +11,7 @@ redirect_from:
 |                                 |                                                                                        |
 | ----------:                     | :------                                                                                |
 | **Titel:**                      | RoHOW                                                                                  |
-| **Teilnehmende RoboCup Teams:** | 30. November bis 2. Dezember 2018                                                      |
+| **Datum:**                      | 30. November bis 2. Dezember 2018                                                      |
 | **Ort:**                        | Technische Universität Hamburg <br> Gebäude I <br> Denickestraße 22 <br> 21073 Hamburg |
 | **Zielgruppe:**                 | RoboCup Teams                                                                          |
 | **Teilnahmegebühren:**          | keine                                                                                  |
