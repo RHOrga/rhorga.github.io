@@ -1,7 +1,12 @@
 +++
 title = "Teams"
 description = "Meet the teams participating this year."
+slugs = ["de/teams"]
 template = "teams.html"
 +++
 
-Here you can find information for registration and a list of participating teams.
+## Registration
+
+A Call for Participation containing more information will be sent to you via e-mail.
+
+<!-- If you did not get this e-mail, you can register at [hulks@tuhh.de](mailto:hulks@tuhh.de). -->

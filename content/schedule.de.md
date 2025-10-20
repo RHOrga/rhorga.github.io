@@ -1,8 +1,8 @@
 +++
-title = "Schedule"
+title = "Ablauf"
 +++
 
-## Workshop and talk schedule
+## Workshop und Talkablauf
 
 <!--Register your workshops and talks <a href="https://rohow.de/mopad" target="_blank">here</a>.-->
 

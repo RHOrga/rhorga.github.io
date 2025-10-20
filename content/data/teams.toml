@@ -1,16 +1,16 @@
 [[team]]
 name = "B-Human"
-country = "Germany"
-league = "Humanoid League"
-# You could even add an optional logo path
-# logo = "/teams/b-human.png"
+country = "de"
+league = "SPL"
 
 [[team]]
 name = "Nao-Devils Dortmund"
-country = "Germany"
-league = "Humanoid League"
+country = "de"
+league = "SPL"
 
 [[team]]
 name = "Dutch Nao Team"
-country = "Netherlands"
-league = "Humanoid League"
+country = "nl"
+league = "SPL"
+logo = "teams/dnt.svg"
+

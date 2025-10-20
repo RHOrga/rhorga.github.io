@@ -31,13 +31,13 @@
                         {% endfor %}
                     </ul>
                 </nav>
-                <div class="lang-switcher">
-                    {% set translations = [] %} {% if page %} {% set
-                    translations = page.translations %} {% elif section %} {%
-                    set translations = section.translations %} {% endif %} {%
-                    for t in translations %}
-                    <a href="{{ t.permalink }}">{{ t.lang | upper }}</a>
-                    {% endfor %}
+                <div class="lang-switcher">                    
+                    <a href="{{ get_url(path=current_path, lang='en') }}">
+                        <img src="https://flagcdn.com/gb.svg" alt="English">
+                    </a>
+                    <a href="{{ get_url(path=current_path, lang='de') }}">
+                        <img src="https://flagcdn.com/de.svg" alt="Deutsch">
+                    </a>
                 </div>
             </div>
         </header>
@@ -61,15 +61,13 @@
                 >
                     {% if sponsor.logo is ending_with(".svg") %}
                     <img
-                        class="sponsor-logo"
                         src="{{ get_url(path='sponsors/' ~ sponsor.logo) }}"
                         alt="{{ sponsor.name }} Logo"
                     />
                     {% else %} {% set image_path = "sponsors/" ~ sponsor.logo %}
                     {% set resized_image = resize_image(path=image_path,
-                    height=50, op="fit_height", format="webp") %}
+                    height=64, op="fit_height", format="webp") %}
                     <img
-                        class="sponsor-logo"
                         src="{{ resized_image.url }}"
                         alt="{{ sponsor.name }} Logo"
                     />
@@ -83,12 +81,12 @@
             <div class="container">
                 <p>© {{ now() | date(format="%Y") }} RoHOW</p>
                 <nav class="footer-nav">
-                    <a href="{{ get_url(path='/imprint.md', lang=lang) }}"
+                    <a href="{{ get_url(path='/imprint', lang='de') }}"
                         >Legal Notice</a
                     >
                     |
                     <a
-                        href="{{ get_url(path='/privacy-policy.md', lang=lang) }}"
+                        href="{{ get_url(path='privacy-policy', lang='de') }}"
                         >Privacy Policy</a
                     >
                 </nav>

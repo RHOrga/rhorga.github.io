@@ -15,7 +15,7 @@ body {
 .container {
     max-width: 960px;
     margin: 0 auto;
-    padding: 0 20px;
+    padding: 0 20px
 }
 
 // Header & Navigation
@@ -85,13 +85,43 @@ h3 {
         gap: 40px; // Adds space between logos
     }
 
-    .sponsor-logo {
+    img {
         height: 50px; // Set a uniform height for ALL logos
         width: auto; // Allow width to adjust automatically to maintain aspect ratio
         max-width: 150px; // Prevent very wide logos from being too dominant
     }
 }
 
+// Team Table
+.team-table-container {
+    // Select all tables inside this container
+    table {
+        border-collapse: separate;
+        border-spacing: 0 10px;
+        width: 100%;
+
+        
+        td, th {
+            height: 64px;
+            border-bottom: 1px solid #aaa;
+            padding: 2px;
+            text-align: left;            
+        }
+    }
+    
+    img {
+        height: 100%;
+        object-fit: cover;
+    }
+}
+
+// Language Selector
+.lang-switcher {
+    img {
+        height: 20px;
+        width: auto;
+    }
+}
 // Footer
 .site-footer {
     padding: 2rem 0;

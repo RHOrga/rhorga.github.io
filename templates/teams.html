@@ -14,18 +14,29 @@
     <table>
         <thead>
             <tr>
+                <th />
                 <th>Team Name</th>
+                <th>Division</th>
                 <th>Country</th>
-                <th>League</th>
             </tr>
         </thead>
         <tbody>
             {% set teams_data = load_data(path="data/teams.toml") %} {% for team
             in teams_data.team %}
+
             <tr>
+                {% if team.logo and team.logo is ending_with(".svg") %}
+                <td><img src="{{ get_url(path=team.logo) }}" alt="{{ team.name }} Logo" /></td>
+                {% elif team.logo %}
+                {% set resized_image = resize_image(path=team.logo,
+                height=256, op="fit_height", format="webp") %}
+                <td><img src="{{ resized_image.url }}" alt="{{ team.name }} Logo" /></td>
+                {% else %}
+                <td></td>
+                {% endif %}
                 <td>{{ team.name }}</td>
-                <td>{{ team.country }}</td>
                 <td>{{ team.league }}</td>
+                <td><img src="https://flagcdn.com/{{ team.country }}.svg" alt="{{ team.country }} Flag"></td>
             </tr>
             {% endfor %}
         </tbody>

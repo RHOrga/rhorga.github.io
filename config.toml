@@ -11,10 +11,10 @@ build_search_index = false
 default_language = "en"
 
 [languages.de]
-title = "RoHOW – Robotic Hamburg Open Workshop"
+title = "RoHOW - Robotic Hamburg Open Workshop"
 
 [languages.en]
-title = "RoHOW – Robotic Hamburg Open Workshop"
+title = "RoHOW - Robotic Hamburg Open Workshop"
 
 [markdown]
 # Whether to do syntax highlighting
