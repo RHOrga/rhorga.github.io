@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="{{ lang }}">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+        <link rel="stylesheet" href="{{ get_url(path='main.css') }}" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap"
+            rel="stylesheet"
+        />
+    </head>
+    <body>
+        <header class="site-header">
+            <div class="container">
+                <div class="site-title">
+                    <a href="{{ get_url(path='@/_index.md', lang=lang) }}"
+                        >RoHOW</a
+                    >
+                </div>
+                <nav class="main-nav">
+                    <ul>
+                        {% for item in config.extra.menu_items %}
+                        <li>
+                            <a href="{{ get_url(path=item.url, lang=lang) }}"
+                                >{{ item.name }}</a
+                            >
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </nav>
+                <div class="lang-switcher">
+                    {% set translations = [] %} {% if page %} {% set
+                    translations = page.translations %} {% elif section %} {%
+                    set translations = section.translations %} {% endif %} {%
+                    for t in translations %}
+                    <a href="{{ t.permalink }}">{{ t.lang | upper }}</a>
+                    {% endfor %}
+                </div>
+            </div>
+        </header>
+
+        <main>
+            {% block hero %}{% endblock hero %}
+
+            <div class="main-content container">
+                {% block content %}{% endblock content %}
+            </div>
+        </main>
+
+        <section class="sponsor-strip">
+            <div class="container">
+                {% set sponsor_data = load_data(path="data/sponsors.toml") %} {%
+                for sponsor in sponsor_data.sponsor %}
+                <a
+                    href="{{ sponsor.url }}"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    {% if sponsor.logo is ending_with(".svg") %}
+                    <img
+                        class="sponsor-logo"
+                        src="{{ get_url(path='sponsors/' ~ sponsor.logo) }}"
+                        alt="{{ sponsor.name }} Logo"
+                    />
+                    {% else %} {% set image_path = "sponsors/" ~ sponsor.logo %}
+                    {% set resized_image = resize_image(path=image_path,
+                    height=50, op="fit_height", format="webp") %}
+                    <img
+                        class="sponsor-logo"
+                        src="{{ resized_image.url }}"
+                        alt="{{ sponsor.name }} Logo"
+                    />
+                    {% endif %}
+                </a>
+                {% endfor %}
+            </div>
+        </section>
+
+        <footer class="site-footer">
+            <div class="container">
+                <p>© {{ now() | date(format="%Y") }} RoHOW</p>
+                <nav class="footer-nav">
+                    <a href="{{ get_url(path='/imprint.md', lang=lang) }}"
+                        >Legal Notice</a
+                    >
+                    |
+                    <a
+                        href="{{ get_url(path='/privacy-policy.md', lang=lang) }}"
+                        >Privacy Policy</a
+                    >
+                </nav>
+            </div>
+        </footer>
+    </body>
+</html>

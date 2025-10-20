@@ -1,0 +1,101 @@
+$primary-color: #004c97;
+$secondary-color: #e6e6e6;
+$text-color: #222222;
+$link-color: #007acc;
+$font-family: "Open Sans", sans-serif;
+
+// General body styling
+body {
+    font-family: $font-family;
+    color: $text-color;
+    margin: 0;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+// Header & Navigation
+.site-header {
+    background: #fff;
+    border-bottom: 1px solid $secondary-color;
+    padding: 1rem 0;
+
+    .container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .site-title a {
+        font-weight: bold;
+        text-decoration: none;
+        color: $text-color;
+        font-size: 1.5rem;
+    }
+
+    .main-nav ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        display: flex;
+        gap: 20px;
+    }
+
+    .main-nav a {
+        text-decoration: none;
+        color: $text-color;
+        font-weight: bold;
+        text-transform: uppercase;
+        font-size: 0.9rem;
+        &:hover {
+            color: $primary-color;
+        }
+    }
+}
+
+// Hero Section
+.hero {
+    background-color: $primary-color;
+    color: white;
+    padding: 4rem 0;
+    text-align: center;
+}
+
+h1,
+h2,
+h3 {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+/// Sponsor Strip
+.sponsor-strip {
+    background-color: #e6e6e6; // Your light gray
+    padding: 2rem 0;
+
+    .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap; // Allows logos to wrap on smaller screens
+        gap: 40px; // Adds space between logos
+    }
+
+    .sponsor-logo {
+        height: 50px; // Set a uniform height for ALL logos
+        width: auto; // Allow width to adjust automatically to maintain aspect ratio
+        max-width: 150px; // Prevent very wide logos from being too dominant
+    }
+}
+
+// Footer
+.site-footer {
+    padding: 2rem 0;
+    text-align: center;
+    font-size: 0.9rem;
+    color: #666;
+}

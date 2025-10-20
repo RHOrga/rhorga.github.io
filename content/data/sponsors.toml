@@ -1,0 +1,14 @@
+[[sponsor]]
+name = "TUHH"
+logo = "TUHH.svg"
+url = "https://sponsor-a.com"
+
+[[sponsor]]
+name = "KDAB"
+logo = "KDAB.svg"
+url = "https://sponsor-b.com"
+
+[[sponsor]]
+name = "TK"
+logo = "TK.svg"
+url = "https://partner-c.org"
