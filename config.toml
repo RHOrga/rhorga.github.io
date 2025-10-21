@@ -7,18 +7,9 @@ compile_sass = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
-# Default language
-default_language = "en"
-
-[languages.de]
-title = "RoHOW - Robotic Hamburg Open Workshop"
-
-[languages.en]
 title = "RoHOW - Robotic Hamburg Open Workshop"
 
 [markdown]
-# Whether to do syntax highlighting
-# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = true
 
 [extra]
@@ -29,4 +20,8 @@ menu_items = [
     { name = "Venue", url = "/venue" },
     { name = "Press", url = "/press" },
     { name = "Contact", url = "/contact" },
+]
+footer_links = [
+    { name = "Imprint", url = "/imprint" },
+    { name = "Privacy Policy", url = "/privacy-policy" },
 ]

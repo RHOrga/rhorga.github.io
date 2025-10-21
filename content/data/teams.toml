@@ -1,16 +1,11 @@
 [[team]]
-name = "B-Human"
+name = "HULKs"
 country = "de"
 league = "SPL"
-
-[[team]]
-name = "Nao-Devils Dortmund"
-country = "de"
-league = "SPL"
+logo = "teams/hulks.svg"
 
 [[team]]
 name = "Dutch Nao Team"
 country = "nl"
 league = "SPL"
 logo = "teams/dnt.svg"
-

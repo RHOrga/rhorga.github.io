@@ -1,12 +1,14 @@
 {% extends "base.html" %} {% block title %}{{ section.title }}{% endblock title
-%} {% block hero %}
-<section class="hero">
-    <div class="container">
+%} {% block content %}
+<div class="homepage-wrapper">
+    <aside class="side-image">
+        {% set resized_image = resize_image(path='rohow/logo-new.png',
+        height=500, op="fit_height", format="webp") %}
+        <img src="{{ resized_image.url }}" alt="RoHOW Logo" />
+    </aside>
+    <div class="main-column">
         <h1>{{ section.title }}</h1>
-        {% if section.description %}
-        <p>{{ section.description }}</p>
-        {% endif %}
+        {{ section.content | safe }}
     </div>
-</section>
-{% endblock hero %} {% block content %} {{ section.content | safe }} {% endblock
-content %}
+</div>
+{% endblock content %}

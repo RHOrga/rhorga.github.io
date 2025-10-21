@@ -1,6 +1,5 @@
 +++
 title = "Venue"
-description = "How to find us."
 +++
 
 TUHH

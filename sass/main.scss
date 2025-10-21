@@ -1,131 +1,271 @@
-$primary-color: #004c97;
-$secondary-color: #e6e6e6;
-$text-color: #222222;
-$link-color: #007acc;
+// Color Palette & Fonts
+$red: #e52f26;
+$blue-light: #00a9e0;
+$blue-dark: #005c97;
+$white: #ffffff;
+$text-color: #333;
 $font-family: "Open Sans", sans-serif;
 
-// General body styling
+// General Styling
 body {
     font-family: $font-family;
     color: $text-color;
     margin: 0;
-    line-height: 1.6;
-}
-
-.container {
-    max-width: 960px;
-    margin: 0 auto;
-    padding: 0 20px
-}
-
-// Header & Navigation
-.site-header {
-    background: #fff;
-    border-bottom: 1px solid $secondary-color;
-    padding: 1rem 0;
-
-    .container {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-    }
-
-    .site-title a {
-        font-weight: bold;
-        text-decoration: none;
-        color: $text-color;
-        font-size: 1.5rem;
-    }
-
-    .main-nav ul {
-        margin: 0;
-        padding: 0;
-        list-style: none;
-        display: flex;
-        gap: 20px;
-    }
-
-    .main-nav a {
-        text-decoration: none;
-        color: $text-color;
-        font-weight: bold;
-        text-transform: uppercase;
-        font-size: 0.9rem;
-        &:hover {
-            color: $primary-color;
-        }
-    }
-}
-
-// Hero Section
-.hero {
-    background-color: $primary-color;
-    color: white;
-    padding: 4rem 0;
-    text-align: center;
+    padding: 2rem 1rem;
+    background: $blue-light;
 }
 
 h1,
 h2,
 h3 {
-    text-transform: uppercase;
     font-weight: bold;
 }
 
-/// Sponsor Strip
-.sponsor-strip {
-    background-color: #e6e6e6; // Your light gray
-    padding: 2rem 0;
+// The main white content box
+.content-wrapper {
+    background-color: $white;
+    max-width: 960px;
+    margin: 0 auto;
+    border-radius: 8px;
+    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.2);
+}
 
-    .container {
+// Logo container
+.logo-container {
+    padding-bottom: 2rem;
+    text-align: center;
+    img {
+        max-width: 300px;
+        height: auto;
+    }
+}
+
+// Header and Navigation (inside the white box)
+.site-header {
+    .main-nav ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        background-color: $red;
+
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+    }
+
+    .main-nav a {
+        display: block;
+        padding: 0.9rem 1.5rem;
+        color: $white;
+        text-decoration: none;
+        font-weight: bold;
+        text-transform: uppercase;
+        font-size: 0.9rem;
+        transition: background-color 0.2s ease-in-out;
+
+        &.current,
+        &:hover {
+            background-color: $white;
+            color: $red;
+        }
+    }
+}
+
+// Main Content Area
+.main-content {
+    padding: 2rem 2.5rem;
+}
+
+.homepage-wrapper {
+    display: flex;
+    gap: 1rem;
+    align-items: flex-start;
+
+    .side-image {
+        flex: 0 0 200px;
+        position: relative;
+        left: -100px;
+
+        img {
+            max-width: 100%;
+            border-radius: 50%;
+            background-color: $white;
+            padding: 10px;
+            border: 2px solid $blue-light;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+    }
+
+    .main-column {
+        flex: 1;
+        h1 {
+            color: $red;
+            margin-top: 0;
+            font-size: 2.5rem;
+        }
+    }
+}
+
+// Generic Page Styling
+.page-content {
+    h1 {
+        color: $red;
+        margin-top: 0;
+    }
+}
+
+// Sponsor Strip (inside the white box)
+.sponsor-strip {
+    padding: 2rem 2.5rem;
+    border-top: 1px solid #e0e0e0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 40px;
+
+    img {
+        height: 50px;
+        width: auto;
+        max-width: 150px;
+        transition: scale 0.2s;
+        &:hover {
+            scale: 1.1;
+        }
+    }
+}
+
+// Footer (inside the white box)
+.site-footer {
+    padding: 1rem 2.5rem;
+    text-align: center;
+    font-size: 0.9rem;
+    color: #666;
+    border-top: 1px solid #e0e0e0;
+
+    .footer-nav {
         display: flex;
         justify-content: center;
         align-items: center;
-        flex-wrap: wrap; // Allows logos to wrap on smaller screens
-        gap: 40px; // Adds space between logos
+        gap: 10px;
     }
-
-    img {
-        height: 50px; // Set a uniform height for ALL logos
-        width: auto; // Allow width to adjust automatically to maintain aspect ratio
-        max-width: 150px; // Prevent very wide logos from being too dominant
+    a {
+        color: #333;
+        text-decoration: none;
+        &:hover {
+            text-decoration: underline;
+        }
     }
 }
 
 // Team Table
-.team-table-container {
-    // Select all tables inside this container
-    table {
-        border-collapse: separate;
-        border-spacing: 0 10px;
-        width: 100%;
+.team-table-container table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 2rem;
+    font-size: 1rem;
 
-        
-        td, th {
-            height: 64px;
-            border-bottom: 1px solid #aaa;
-            padding: 2px;
-            text-align: left;            
+    // Modern table header
+    thead {
+        th {
+            border-bottom: 2px solid #555555;
+            padding: 1rem;
+            text-align: left;
+            text-transform: uppercase;
+            font-size: 0.85rem;
+            letter-spacing: 0.5px;
         }
     }
-    
-    img {
-        height: 100%;
-        object-fit: cover;
+
+    // Table body with hover effect and clean rows
+    tbody tr {
+        border-bottom: 1px solid #555555;
+        transition: background-color 0.2s;
+        &:hover {
+            background-color: #f2f2f2; // A very light blue
+        }
+    }
+
+    td {
+        padding: 1rem;
+        vertical-align: middle;
+        max-height: 75px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    // Set fixed widths for logo and country columns
+    .logo-col {
+        width: 120px;
+        text-align: center;
+    }
+    .country-col {
+        width: 100px;
+        text-align: center;
+    }
+
+    // Style for team logos
+    .team-logo {
+        max-height: 70px; // Set a consistent max height
+        object-fit: contain; // Ensures logos aren't stretched
+        vertical-align: middle;
+    }
+
+    // Style for country flags
+    .country-flag {
+        height: 24px; // Set a consistent height
+        width: auto;
+        vertical-align: middle;
+        border-radius: 2px;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
     }
 }
 
-// Language Selector
-.lang-switcher {
-    img {
-        height: 20px;
-        width: auto;
+// Responsive Design
+@media (max-width: 768px) {
+    body {
+        padding: 1rem 0.5rem;
+    }
+
+    .site-header .main-nav ul {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .main-content {
+        padding: 1.5rem;
+    }
+
+    .homepage-wrapper {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+
+        .side-image {
+            margin-bottom: 1rem;
+        }
     }
 }
-// Footer
-.site-footer {
-    padding: 2rem 0;
+
+.content-image {
+    margin: 2rem auto;
+    padding: 0;
+    max-width: 100%;
     text-align: center;
-    font-size: 0.9rem;
-    color: #666;
+
+    img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 8px;
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    }
+
+    figcaption {
+        margin-top: 0.75rem;
+        font-size: 0.9rem;
+        color: #666;
+        font-style: italic;
+    }
 }

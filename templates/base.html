@@ -1,57 +1,47 @@
 <!doctype html>
-<html lang="{{ lang }}">
+<html lang="en">
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>{% block title %}{{ config.title }}{% endblock title %}</title>
-        <link rel="stylesheet" href="{{ get_url(path='main.css') }}" />
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
         <link
-            href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap"
-            rel="stylesheet"
+            rel="icon"
+            href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚽</text></svg>"
         />
+        <link rel="stylesheet" href="{{ get_url(path='main.css') }}" />
     </head>
     <body>
-        <header class="site-header">
-            <div class="container">
-                <div class="site-title">
-                    <a href="{{ get_url(path='@/_index.md', lang=lang) }}"
-                        >RoHOW</a
-                    >
-                </div>
+        <div class="logo-container">
+            <a href="{{ get_url(path='/') }}">
+                <img
+                    src="{{ get_url(path='rohow/logo.svg') }}"
+                    alt="RoHOW Logo"
+                />
+            </a>
+        </div>
+        <div class="content-wrapper">
+            <header class="site-header">
                 <nav class="main-nav">
                     <ul>
                         {% for item in config.extra.menu_items %}
                         <li>
-                            <a href="{{ get_url(path=item.url, lang=lang) }}"
-                                >{{ item.name }}</a
+                            <a
+                                href="{{ get_url(path=item.url) }}"
+                                class="{% if get_url(path=current_path) == get_url(path=item.url) %}current{% endif %}"
                             >
+                                {{ item.name }}
+                            </a>
                         </li>
                         {% endfor %}
                     </ul>
                 </nav>
-                <div class="lang-switcher">                    
-                    <a href="{{ get_url(path=current_path, lang='en') }}">
-                        <img src="https://flagcdn.com/gb.svg" alt="English">
-                    </a>
-                    <a href="{{ get_url(path=current_path, lang='de') }}">
-                        <img src="https://flagcdn.com/de.svg" alt="Deutsch">
-                    </a>
-                </div>
-            </div>
-        </header>
+            </header>
 
-        <main>
-            {% block hero %}{% endblock hero %}
-
-            <div class="main-content container">
+            <main class="main-content">
                 {% block content %}{% endblock content %}
-            </div>
-        </main>
+            </main>
 
-        <section class="sponsor-strip">
-            <div class="container">
+            <section class="sponsor-strip">
                 {% set sponsor_data = load_data(path="data/sponsors.toml") %} {%
                 for sponsor in sponsor_data.sponsor %}
                 <a
@@ -66,7 +56,7 @@
                     />
                     {% else %} {% set image_path = "sponsors/" ~ sponsor.logo %}
                     {% set resized_image = resize_image(path=image_path,
-                    height=64, op="fit_height", format="webp") %}
+                    height=100, op="fit_height", format="webp") %}
                     <img
                         src="{{ resized_image.url }}"
                         alt="{{ sponsor.name }} Logo"
@@ -74,23 +64,17 @@
                     {% endif %}
                 </a>
                 {% endfor %}
-            </div>
-        </section>
+            </section>
 
-        <footer class="site-footer">
-            <div class="container">
-                <p>© {{ now() | date(format="%Y") }} RoHOW</p>
+            <footer class="site-footer">
                 <nav class="footer-nav">
-                    <a href="{{ get_url(path='/imprint', lang='de') }}"
-                        >Legal Notice</a
-                    >
-                    |
-                    <a
-                        href="{{ get_url(path='privacy-policy', lang='de') }}"
-                        >Privacy Policy</a
-                    >
+                    <span>© {{ now() | date(format="%Y") }} HULKs e.V.</span>
+                    <span>|</span>
+                    {% for link in config.extra.footer_links %}
+                    <a href="{{ get_url(path=link.url) }}">{{ link.name }}</a>
+                    {% if not loop.last %}<span>|</span>{% endif %} {% endfor %}
                 </nav>
-            </div>
-        </footer>
+            </footer>
+        </div>
     </body>
 </html>

@@ -1,6 +1,5 @@
 +++
 title = "Press"
-slugs = ["de//press"]
 +++
 
 ## Pressemitteilung

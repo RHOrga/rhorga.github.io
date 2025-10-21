@@ -1,7 +1,5 @@
 +++
 title = "Teams"
-description = "Meet the teams participating this year."
-slugs = ["de/teams"]
 template = "teams.html"
 +++
 
