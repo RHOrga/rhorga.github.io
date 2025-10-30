@@ -1,80 +1,66 @@
 <!doctype html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>{% block title %}{{ config.title }}{% endblock title %}</title>
-        <link
-            rel="icon"
-            href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚽</text></svg>"
-        />
-        <link rel="stylesheet" href="{{ get_url(path='main.css') }}" />
-    </head>
-    <body>
-        <div class="logo-container">
-            <a href="{{ get_url(path='/') }}">
-                <img
-                    src="{{ get_url(path='rohow/logo.svg') }}"
-                    alt="RoHOW Logo"
-                />
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+    <link rel="icon"
+        href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚽</text></svg>" />
+    <link rel="stylesheet" href="{{ get_url(path='main.css') }}" />
+</head>
+
+<body>
+    <div class="logo-container">
+        <a href="{{ get_url(path='/') }}">
+            <img src="{{ get_url(path='rohow/logo-wordmark.svg') }}" alt="RoHOW Logo" />
+        </a>
+    </div>
+    <div class="content-wrapper">
+        <header class="site-header">
+            <nav class="main-nav">
+                <ul>
+                    {% for item in config.extra.menu_items %}
+                    <li>
+                        <a href="{{ get_url(path=item.url) }}"
+                            class="{% if get_url(path=current_path) == get_url(path=item.url) %}current{% endif %}">
+                            {{ item.name }}
+                        </a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </nav>
+        </header>
+
+        <main class="main-content">
+            {% block content %}{% endblock content %}
+        </main>
+
+        <section class="sponsor-strip">
+            {% set sponsor_data = load_data(path="data/sponsors.toml") %} {%
+            for sponsor in sponsor_data.sponsor %}
+            <a href="{{ sponsor.url }}" target="_blank" rel="noopener noreferrer">
+                {% if sponsor.logo is ending_with(".svg") %}
+                <img src="{{ get_url(path='sponsors/' ~ sponsor.logo) }}" alt="{{ sponsor.name }} Logo" />
+                {% else %} {% set image_path = "sponsors/" ~ sponsor.logo %}
+                {% set resized_image = resize_image(path=image_path,
+                height=100, op="fit_height", format="webp") %}
+                <img src="{{ resized_image.url }}" alt="{{ sponsor.name }} Logo" />
+                {% endif %}
             </a>
-        </div>
-        <div class="content-wrapper">
-            <header class="site-header">
-                <nav class="main-nav">
-                    <ul>
-                        {% for item in config.extra.menu_items %}
-                        <li>
-                            <a
-                                href="{{ get_url(path=item.url) }}"
-                                class="{% if get_url(path=current_path) == get_url(path=item.url) %}current{% endif %}"
-                            >
-                                {{ item.name }}
-                            </a>
-                        </li>
-                        {% endfor %}
-                    </ul>
-                </nav>
-            </header>
+            {% endfor %}
+        </section>
 
-            <main class="main-content">
-                {% block content %}{% endblock content %}
-            </main>
+        <footer class="site-footer">
+            <nav class="footer-nav">
+                <span>© {{ now() | date(format="%Y") }} HULKs e.V.</span>
+                <span>|</span>
+                {% for link in config.extra.footer_links %}
+                <a href="{{ get_url(path=link.url) }}">{{ link.name }}</a>
+                {% if not loop.last %}<span>|</span>{% endif %} {% endfor %}
+            </nav>
+        </footer>
+    </div>
+</body>
 
-            <section class="sponsor-strip">
-                {% set sponsor_data = load_data(path="data/sponsors.toml") %} {%
-                for sponsor in sponsor_data.sponsor %}
-                <a
-                    href="{{ sponsor.url }}"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    {% if sponsor.logo is ending_with(".svg") %}
-                    <img
-                        src="{{ get_url(path='sponsors/' ~ sponsor.logo) }}"
-                        alt="{{ sponsor.name }} Logo"
-                    />
-                    {% else %} {% set image_path = "sponsors/" ~ sponsor.logo %}
-                    {% set resized_image = resize_image(path=image_path,
-                    height=100, op="fit_height", format="webp") %}
-                    <img
-                        src="{{ resized_image.url }}"
-                        alt="{{ sponsor.name }} Logo"
-                    />
-                    {% endif %}
-                </a>
-                {% endfor %}
-            </section>
-
-            <footer class="site-footer">
-                <nav class="footer-nav">
-                    <span>© {{ now() | date(format="%Y") }} HULKs e.V.</span>
-                    <span>|</span>
-                    {% for link in config.extra.footer_links %}
-                    <a href="{{ get_url(path=link.url) }}">{{ link.name }}</a>
-                    {% if not loop.last %}<span>|</span>{% endif %} {% endfor %}
-                </nav>
-            </footer>
-        </div>
-    </body>
 </html>
