@@ -8,6 +8,6 @@ title = "Schedule"
 
 ## Friday (28<sup>th</sup> November 2025)
 
-## Saturday (29<sup>th</sup> November 2024)
+## Saturday (29<sup>th</sup> November 2025)
 
-## Sunday (30<sup>th</sup> November 2024)
+## Sunday (30<sup>th</sup> November 2025)
