@@ -2,9 +2,7 @@
 %} {% block content %}
 <div class="homepage-wrapper">
     <aside class="side-image">
-        {% set resized_image = resize_image(path='rohow/logo-new.png',
-        height=500, op="fit_height", format="webp") %}
-        <img src="{{ resized_image.url }}" alt="RoHOW Logo" />
+        <img src="rohow/logo-new.svg" alt="RoHOW Logo" />
     </aside>
     <div class="main-column">
         <h1>{{ section.title }}</h1>

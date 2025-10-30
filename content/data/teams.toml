@@ -4,8 +4,8 @@ country = "de"
 league = "SPL"
 logo = "teams/hulks.svg"
 
-[[team]]
-name = "Dutch Nao Team"
-country = "nl"
-league = "SPL"
-logo = "teams/dnt.svg"
+# [[team]]
+# name = "Dutch Nao Team"
+# country = "nl"
+# league = "SPL"
+# logo = "teams/dnt.svg"
