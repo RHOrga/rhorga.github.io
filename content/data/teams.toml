@@ -3,6 +3,8 @@ name = "HULKs"
 country = "de"
 league = "SPL"
 logo = "teams/hulks.svg"
+link = "https://hulks.de"
+
 
 # [[team]]
 # name = "Dutch Nao Team"
