@@ -27,6 +27,11 @@ body {
     width: 200px;
 }
 
+#robots img {
+    transform: scale(1.25);
+    transform-origin: center;
+}
+
 #wrapper > header {
     text-align: center;
 }
