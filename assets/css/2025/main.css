@@ -122,7 +122,7 @@ th {
 table.teams td:nth-child(1),
 table.teams td:nth-child(3),
 table.teams td:nth-child(4) {
-    text-align: center;
+    text-align: left;
 }
 
 table.schedule th:first-child,
