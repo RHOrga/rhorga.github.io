@@ -7,7 +7,7 @@ redirect_from:
   - "/2025/"
 ---
 
-![Gruppenfoto]({{ site.baseurl }}/assets/img/teams2016.jpg){: width="700" height="192"}
+![Gruppenfoto]({{ site.baseurl }}/assets/img/teams2024.avif){: width="700" height="212"}
 
 The <a href="https://www.hulks.de/">HULKs</a>, the robot soccer team from Hamburg University of Technology, are hosting the 12th Robotic Hamburg Open Workshop (RoHOW) at TUHH from November 28, 2025, to November 30, 2025. This networking and educational event provides an opportunity for <a href="https://www.robocup.org/">RoboCup</a> teams in the field of humanoid robotics to share their insights and advancements, particularly in the context of robot soccer. The RoHOW creates an environment for in-depth discussions, workshops, and informative lectures, fostering an intense exchange among experts and promoting a deeper understanding of current research results in robotics.
 
