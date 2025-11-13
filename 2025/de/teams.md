@@ -24,12 +24,12 @@ Die Teilnehmergebühr für das Event beträgt 55€.
 | ![](/assets/img/teams/Berlin United - NaoTH.png){: height="32"} | [Berlin United - Nao Team Humboldt](https://naoth.de)                     | SPL  | ![DE](/assets/img/flags/de.svg){: height="32"} |
 | ![](/assets/img/teams/Hamburg Bit-Bots.svg){: height="32"}      | [Hamburg Bit-Bots](https://bit-bots.de)                                   | HUM  | ![DE](/assets/img/flags/de.svg){: height="32"} |
 | ![](/assets/img/teams/er-force.jpg){: height="32"}              | [ER-Force](https://www.robotics-erlangen.de/)                             | SSL  | ![DE](/assets/img/flags/de.svg){: height="32"} |
+| ![](/assets/img/teams/wolves.png){: height="32"}                | [WF Wolves](http://www.wf-wolves.de)                                      | HUM  | ![DE](/assets/img/flags/de.svg){: height="32"} |
 {: class="teams"}
 
 
 <!--
 | ![](/assets/img/teams/B-Human.png){: height="32"}               | [B-Human](https://www.b-human.de)                                         | SPL  | ![DE](/assets/img/flags/de.svg){: height="32"} |
 | ![](/assets/img/teams/HTWK.svg){: height="32"}                  | [HTWK Robots](http://www.htwk-robots.de)                                  | SPL  | ![DE](/assets/img/flags/de.svg){: height="32"} |
-| ![](/assets/img/teams/wolves.png){: height="32"}                | [WF Wolves](http://www.wf-wolves.de)                                      | HUM  | ![DE](/assets/img/flags/de.svg){: height="32"} |
 | ![](/assets/img/teams/spqr.png){: height="32"}                  | [SPQR Robot Soccer Team](http://spqr.diag.uniroma1.it/)                   | SPL  | ![IT](/assets/img/flags/it.svg){: height="32"} |
 | ![](/assets/img/teams/tilburg-coders.png){: height="32"}        | [Tilburg-CoDeRs](https://www.tilburg-coders.eu/)                          | SPL  | ![DE](/assets/img/flags/nl.svg){: height="32"} | -->
