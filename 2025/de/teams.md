@@ -10,6 +10,8 @@ redirect_from:
 Eine Aufforderung zur Teilnahme mit weiteren Informationen wird Ihnen per E-Mail zugesandt.
 
 Sollten Sie diese E-Mail nicht erhalten haben, können Sie sich unter [hulks@tuhh.de](mailto:hulks@tuhh.de) anmelden.
+Die Teilnehmergebühr für das Event beträgt 55€.
+
 
 ## Angemeldete Teams
 
