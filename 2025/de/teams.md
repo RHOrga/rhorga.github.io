@@ -26,11 +26,14 @@ Die Teilnehmergebühr für das Event beträgt 55€.
 | ![](/assets/img/teams/er-force.jpg){: height="32"}              | [ER-Force](https://www.robotics-erlangen.de/)                             | SSL  | ![DE](/assets/img/flags/de.svg){: height="32"} |
 | ![](/assets/img/teams/wolves.png){: height="32"}                | [WF Wolves](http://www.wf-wolves.de)                                      | HUM  | ![DE](/assets/img/flags/de.svg){: height="32"} |
 | ![](/assets/img/teams/B-Human.png){: height="32"}               | [B-Human](https://www.b-human.de)                                         | SPL  | ![DE](/assets/img/flags/de.svg){: height="32"} |
+| ![](/assets/img/teams/Bembelbots.png){: height="32"}            | [Bembelbots](https://www.jrl.cs.uni-frankfurt.de/web/robocup)             | SPL  | ![DE](/assets/img/flags/de.svg){: height="32"} |
+| ![](/assets/img/teams/spqr.png){: height="32"}                  | [SPQR Robot Soccer Team](http://spqr.diag.uniroma1.it/)                   | SPL  | ![IT](/assets/img/flags/it.svg){: height="32"} |
+| ![](/assets/img/teams/robocup_germany.png){: height="32"}       | [RoboCup Komitee Deutschland](https://robocup.de/)                        |      | ![DE](/assets/img/flags/de.svg){: height="32"} |
+| ![](/assets/img/teams/HTWK.svg){: height="32"}                  | [HTWK Robots](http://www.htwk-robots.de)                                  | SPL  | ![DE](/assets/img/flags/de.svg){: height="32"} |
 | ![](/assets/img/teams/bold_hearts.png){: height="32"}           | [Bold Hearts](https://boldhearts.gitlab.io/) (online)                     | HUM  | ![EN](/assets/img/flags/en.svg){: height="32"} |
+| ![](/assets/img/teams/roboeireann.png){: height="32"}           | [RoboEireann](http://www.eeng.nuim.ie/robocup/) (online)                  | SPL  | ![IE](/assets/img/flags/ie.svg){: height="32"} |
 {: class="teams"}
 
 
 <!--
-| ![](/assets/img/teams/HTWK.svg){: height="32"}                  | [HTWK Robots](http://www.htwk-robots.de)                                  | SPL  | ![DE](/assets/img/flags/de.svg){: height="32"} |
-| ![](/assets/img/teams/spqr.png){: height="32"}                  | [SPQR Robot Soccer Team](http://spqr.diag.uniroma1.it/)                   | SPL  | ![IT](/assets/img/flags/it.svg){: height="32"} |
 | ![](/assets/img/teams/tilburg-coders.png){: height="32"}        | [Tilburg-CoDeRs](https://www.tilburg-coders.eu/)                          | SPL  | ![DE](/assets/img/flags/nl.svg){: height="32"} | -->
