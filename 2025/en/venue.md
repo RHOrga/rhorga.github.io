@@ -3,8 +3,8 @@ title: Venue
 layout: default-en-2025
 ---
 
-TUHH
-Gebäude I
+Hamburg University of Technology (TUHH)
+Building I
 Denickestraße 22
 21073 Hamburg
 Germany
@@ -14,5 +14,5 @@ Germany
 
 ## Building plan (Building I)
 
-![Gebäude I - Erdgeschoss](/assets/img/I-groundfloor.png){: width="600" height="491"}
-![Gebäude I - Keller](/assets/img/I-basement_2017.png){: width="600" height="667"}
+![Building I - Ground Floor](/assets/img/I-groundfloor.png){: width="600" height="491"}
+![Building I - Basement](/assets/img/I-basement_2017.png){: width="600" height="667"}

@@ -1,79 +1,60 @@
 ---
-title: Presse
+title: Press
 layout: default-en-2025
 redirect_from:
   - "/2025/press"
 ---
 
-## Pressemitteilung
+## Press Release
 
-### 1. Überblick
+### 1. Overview
 
-|                                 |                                                                                        |
-| ------------------------------: | :------------------------------------------------------------------------------------- |
-|                      **Titel:** | RoHOW                                                                                  |
-|                      **Datum:** | 28. bis 30. November 2025                                                              |
-|                        **Ort:** | Technische Universität Hamburg <br> Gebäude I <br> Denickestraße 22 <br> 21073 Hamburg |
-|                 **Zielgruppe:** | RoboCup Teams                                                                          |
+|                      |                                                                                           |
+| -------------------: | :---------------------------------------------------------------------------------------- |
+|           **Title:** | RoHOW                                                                                     |
+|            **Date:** | 28. bis 30. November 2025                                                                 |
+|        **Location:** | Hamburg University of Technology <br> Building I <br> Denickestraße 22 <br> 21073 Hamburg |
+| **Target Audience:** | RoboCup Teams                                                                             |
 
-### 2. Kurzportrait
+### 2. Brief profile
 
-Der Robotic Hamburg Open Workshop (RoHOW) ist eine Weiterbildungs- und
-Vernetzungsveranstaltung der Technischen Universität Hamburg (TUHH) mit
-Studierenden und Wissenschaftler/innen aus aller Welt, die auf dem Gebiet der
-humanoiden Robotik tätig sind. Der RoHOW bietet den Raum aktuelle
-Forschungsergebnisse vorzustellen und zu diskutieren. Insbesondere erlaubt der
-Veranstaltungsrahmen den direkten Kontakt zu den Vortragenden, um umfangreiche
-Diskussionen zu führen und direkt Fragen zu stellen.
+The Robotic Hamburg Open Workshop (RoHOW) is a continuing education and networking event organized by the Hamburg University of Technology (TUHH) with
+students and scientists from all over the world who are active in the field of humanoid robotics.
+RoHOW provides a space to present and discuss current research results.
+In particular, the event framework allows direct contact with the speakers in order to hold extensive discussions and ask questions directly.
 
-Dieses Jahr nehmen Entwicklerteams von über zehn Universitäten an dem RoHOW teil,
-darunter befinden sich Forschungsgruppen aus Italien, den Niederlanden, Frankreich und
-Deutschland. Der RoHOW fördert damit die Zusammenarbeit und den Austausch
-zwischen den Universitäten und schafft damit universitätsübergreifende
-Arbeitsgruppen.
+This year, development teams from over ten universities are participating in RoHOW, including research groups from Italy, the Netherlands, UK, Ireland, and Germany.
+RoHOW thus promotes cooperation and exchange between universities, creating inter-university working groups.
 
-### 3. Ablauf der Veranstaltung
+### 3. Event schedule
 
-Die zentralen Elemente der Veranstaltung sind die Workshops, Talks und
-Diskussionsrunden. Dabei stehen zumeist nicht alle Themen vor der Konferenz
-fest, sondern kristallisieren sich erst vor Ort, entsprechend der Interessenslage
-der Teilnehmer, heraus. Diese Methode ähnelt Open-Space-Konferenzen.
-Auch die Planung für die Workshops und Talks ist hochgradig agil und steht zu
-Beginn der Veranstaltung nicht fest. Eine eigens entwickelte Software nimmt
-Vorträge und Interessenten entgegen und plant anschließend einen möglichst
-überschneidungsfreien Ablaufplan für jeden Teilnehmer.
+The central elements of the event are the workshops, talks, and discussion rounds.
+In most cases, not all topics are determined before the conference but rather emerge on site, depending on the interests of the participants.
+This method is similar to open space conferences.
+The planning for the workshops and talks is also highly agile and is not fixed at the beginning of the event.
+Specially developed software collects presentations and interested parties and then plans a schedule for each participant that is as free of overlaps as possible.
 
-Außerdem wird Partnern aus der Industrie die Möglichkeit gegeben ihre Arbeit in
-Gastvorträgen zu präsentieren.
+In addition, partners from industry are given the opportunity to present their work in guest lectures.
 
-### 4. Hintergrund
+### 4. Background
 
-Die Organisatoren/innen sind Studierende des [RoboCup Teams der
-TUHH](https://www.hulks.de). Das Team forscht seit ihrer Gründung an der
-humanoiden Robotik und nimmt im Rahmen des internationalen Forschungsprojekts
-[RoboCup](https://www.robocup.org/) an den jährlichen Weltmeisterschaften teil.
+The organizers are students from the [RoboCup Team at the TUHH](https://www.hulks.de).
+Since its founding, the team has been conducting research into humanoid robotics and participates in the annual world championships as part of the international research project [RoboCup](https://www.robocup.org/).
 
-Der RoboCup hat das Ziel die Forschung im Bereich der künstlichen Intelligenz
-und Robotik voran zu treiben. Fußballspiele, in denen Roboter mit- und
-gegeneinander spielen, stellen dabei den Forschungsschwerpunkt dar. Das
-Fußballspiel macht den Entwicklungsstand vergleichbar und gilt als ein Maß für
-die künstliche Intelligenz. Gleichzeitig macht es den aktuellen Stand der
-Technik für jeden Menschen erfahrbar und verständlich.
+The RoboCup aims to advance research in the field of artificial intelligence and robotics.
+Soccer games in which robots play with and against each other are the focus of this research.
+The soccer game makes it possible to compare the state of development and is considered a measure of artificial intelligence.
+At the same time, it makes the current state of the art tangible and understandable for everyone.
 
-### 5. Warum ein RoHOW in Hamburg?
+### 5. Why hold RoHOW in Hamburg?
 
-Die Stadt Hamburg bietet sich als "Tor zur Welt der Wissenschaft" besonders als
-Veranstaltungsort an.
+The city of Hamburg is ideal as a “gateway to the world of science” and therefore a particularly suitable venue.
 
-Die hohe Dichte an RoboCup Teams im Norden von Deutschland gestaltet die Anreise
-besonders angenehm. Der Flughafen unserer Stadt ermöglicht auch eine
-vereinfachte Anreise für internationale Teams.
+The high density of RoboCup teams in northern Germany makes travel to the event particularly convenient.
+Our city's airport also makes it easy for international teams to reach us.
 
-Die Vielfalt der Technologiekonzerne mit Sitz in Hamburg und Umgebung
-begünstigen die Kooperation, sodass interessante Einblicke gewährt werden und
-Austausche stattfinden können.
+The diversity of technology companies based in Hamburg and the surrounding area promotes cooperation, providing interesting insights and facilitating exchanges.
 
-Die moderne Technische Universität bietet außerdem bestmögliche Räumlichkeiten
-für diese Form von Workshopveranstaltung. Größere Präsentationen können in in
-dem Auditorium Maximum stattfinden. Für Diskussionsrunden und Workshops stehen
-viele weitere ausgestattete Räume zur Verfügung.
+The modern Technical University also offers the best possible facilities for this type of workshop event.
+Larger presentations can be held in the Auditorium Maximum.
+Many other equipped rooms are available for discussion groups and workshops.
