@@ -13,4 +13,4 @@ The <a href="https://www.hulks.de/">HULKs</a>, the robot soccer team from Hambur
 
 The program, including the talks, is agile and flexible, aiming to cater to the individual interests of all participants and follows the concept of an Open Space Conference. While featuring talks on deep learning in computer vision and the analysis of robot walking metrics, the RoHOW offers a diverse range of program points. Participants can engage in discussions about various aspects of robotics, exchange ideas on the evolution of the league, and explore other cutting-edge topics.
 
-In addition to professional exchange, industry partners and sponsors have the opportunity to showcase their robotics projects. An invitation will be sent out to all teams soon!
+In addition to professional exchange, industry partners and sponsors have the opportunity to showcase their robotics projects.

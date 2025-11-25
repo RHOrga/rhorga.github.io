@@ -11,4 +11,4 @@ Die <a href="https://www.hulks.de/">HULKs</a>, das Roboterfußballteam der Techn
 
 Das Programm, einschließlich der Talks, ist agil und flexibel, um den individuellen Interessen aller Teilnehmer\*innen gerecht zu werden und orientiert sich an dem Konzept einer Open-Space-Konferenz. Neben Talks zu Deep Learning in der Computer Vision und der Analyse von Gehmetriken der Roboter bietet der RoHOW eine vielfältige Auswahl an Programmpunkten. Teilnehmer\*innen können sich in Diskussionen über verschiedene Aspekte der Robotik engagieren, Ideen zum Fortschritt der Liga austauschen und andere wegweisende Themen erkunden.
 
-Neben dem fachlichen Austausch haben Industriepartner\*innen und Sponsor\*innen die Möglichkeit, ihre Robotikprojekte zu präsentieren. Eine offizielle Einladung an alle Teams kommt demnächst!.
+Neben dem fachlichen Austausch haben Industriepartner\*innen und Sponsor\*innen die Möglichkeit, ihre Robotikprojekte zu präsentieren.
