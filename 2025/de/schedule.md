@@ -23,6 +23,7 @@ redirect_from:
 | 08:00 | Venue öffnet |
 | 09:00 | Frühstück |
 | 10:00 | Talks |
+| 13:15 | Öffentliches Testspiel |
 
 {: class=„schedule“}
 
