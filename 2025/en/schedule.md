@@ -14,7 +14,7 @@ redirect_from:
 | 15:30 | Event setup |
 | 17:00 | Teamzone setup |
 | 19:00 | Opening Ceremony |
-| 19:30 | Dinner |
+| 20:00 | Dinner |
 
 {: class="schedule"}
 

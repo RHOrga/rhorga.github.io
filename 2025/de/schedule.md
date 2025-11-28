@@ -14,7 +14,7 @@ redirect_from:
 | 15:30 | Eventaufbau |
 | 17:00 | Teamzoneeinrichtung |
 | 19:00 | Eröffnungsrede |
-| 19:30 | Abendessen |
+| 20:00 | Abendessen |
 
 {: class=„schedule“}
 
