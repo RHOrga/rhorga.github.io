@@ -23,7 +23,8 @@ redirect_from:
 | 08:00 | Venue opens |
 | 09:00 | Breakfast |
 | 10:00 | Talks |
-| 13:15 | Public friendly match |
+| 13:00 | Visitor Welcome & Introduction |
+| 13:15 | Public Friendly Match |
 
 {: class="schedule"}
 
