@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://oleflb.github.io/rohow.github.io/"
+base_url = "https://rohow.de/"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -13,15 +13,40 @@ title = "RoHOW - Robotic Hamburg Open Workshop"
 highlight_code = true
 
 [extra]
-menu_items = [
-    { name = "RoHOW", url = "/" },
-    { name = "Teams", url = "/teams" },
-    { name = "Schedule", url = "/schedule" },
-    { name = "Venue", url = "/venue" },
-    { name = "Press", url = "/press" },
-    { name = "Contact", url = "/contact" },
+# Latest year for redirect
+latest_year = 2026
+
+# List of all years (for year selector)
+years = [2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016]
+
+# English menu items
+menu_items_en = [
+    { name = "Home", url = "/{year}/en/" },
+    { name = "Teams", url = "/{year}/en/teams/" },
+    { name = "Schedule", url = "/{year}/en/schedule/" },
+    { name = "Venue", url = "/{year}/en/venue/" },
+    { name = "Press", url = "/{year}/en/press/" },
+    { name = "Contact", url = "/{year}/en/contact/" },
 ]
-footer_links = [
-    { name = "Imprint", url = "/imprint" },
-    { name = "Privacy Policy", url = "/privacy-policy" },
+
+# German menu items
+menu_items_de = [
+    { name = "Startseite", url = "/{year}/de/" },
+    { name = "Teams", url = "/{year}/de/teams/" },
+    { name = "Zeitplan", url = "/{year}/de/schedule/" },
+    { name = "Veranstaltungsort", url = "/{year}/de/venue/" },
+    { name = "Presse", url = "/{year}/de/press/" },
+    { name = "Kontakt", url = "/{year}/de/contact/" },
+]
+
+# English footer links
+footer_links_en = [
+    { name = "Imprint", url = "/{year}/en/imprint/" },
+    { name = "Privacy Policy", url = "/{year}/en/privacy-policy/" },
+]
+
+# German footer links
+footer_links_de = [
+    { name = "Impressum", url = "/{year}/de/imprint/" },
+    { name = "Datenschutzerklärung", url = "/{year}/de/privacy-policy/" },
 ]

@@ -1,0 +1,69 @@
+[[team]]
+name = "Bembelbots"
+country = "DE"
+league = "SPL"
+logo = "assets/img/teams/Bembelbots.png"
+link = "https://www.jrl.cs.uni-frankfurt.de/web/robocup"
+
+[[team]]
+name = "Berlin United - Nao Team Humboldt"
+country = "DE"
+league = "SPL"
+logo = "assets/img/teams/Berlin United - NaoTH.png"
+link = "http://naoth.de"
+
+[[team]]
+name = "B-Human"
+country = "DE"
+league = "SPL"
+logo = "assets/img/teams/B-Human.png"
+link = "https://www.b-human.de"
+
+[[team]]
+name = "Hamburg Bit-Bots"
+country = "DE"
+league = "HUM"
+logo = "assets/img/teams/Hamburg Bit-Bots.svg"
+link = "http://bit-bots.de"
+
+[[team]]
+name = "Dutch Nao Team"
+country = "NL"
+league = "SPL"
+logo = "assets/img/teams/DNT_logo.png"
+link = "http://www.dutchnaoteam.nl"
+
+[[team]]
+name = "Nao Devils Dortmund"
+country = "DE"
+league = "SPL"
+logo = "assets/img/teams/Nao Devils Dortmund.png"
+link = "https://naodevils.de/"
+
+[[team]]
+name = "Nao-Team HTWK"
+country = "DE"
+league = "SPL"
+logo = "assets/img/teams/Nao-Team HTWK.svg"
+link = "http://www.htwk-robots.de"
+
+[[team]]
+name = "Rhoban Football Club"
+country = "FR"
+league = "HUM"
+logo = "assets/img/teams/rhoban.png"
+link = "http://rhoban.com"
+
+[[team]]
+name = "HULKs"
+country = "DE"
+league = "SPL"
+logo = "assets/img/teams/HULKs.svg"
+link = "https://hulks.de"
+
+[[team]]
+name = "SPQR Robot Soccer Team"
+country = "IT"
+league = "SPL"
+logo = "assets/img/teams/spqr.jpg"
+link = "http://spqr.diag.uniroma1.it/"

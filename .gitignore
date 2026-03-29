@@ -1,2 +1,28 @@
+# Zola build output
 public/
+
+# Zola cache/build artifacts
+.zola-cache/
+static/processed_images/
+
+# Local environment/config
+.env
+.env.*
+!.env.example
+
+# Logs and runtime files
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors/IDEs
 .vscode/
+.idea/
+*.swp
+*.swo
+*~

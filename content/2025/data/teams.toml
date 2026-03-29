@@ -1,0 +1,111 @@
+[[team]]
+name = "HULKs"
+country = "DE"
+league = "SPL"
+logo = "assets/img/teams/HULKs.svg"
+link = "https://hulks.de"
+
+[[team]]
+name = "Dutch Nao Team"
+country = "NL"
+league = "SPL"
+logo = "assets/img/teams/DNT_logo.png"
+link = "https://www.dutchnaoteam.nl"
+
+[[team]]
+name = "R-ZWEI KICKERS"
+country = "DE"
+league = "SPL"
+logo = "assets/img/teams/r2kickers.png"
+link = "https://smart-machines.hs-kl.de/projekte/hs-kl-robocup/"
+
+[[team]]
+name = "Nao Devils Dortmund"
+country = "DE"
+league = "SPL"
+logo = "assets/img/teams/Nao Devils Dortmund.png"
+link = "https://naodevils.de/"
+
+[[team]]
+name = "Berlin United - Nao Team Humboldt"
+country = "DE"
+league = "SPL"
+logo = "assets/img/teams/Berlin United - NaoTH.png"
+link = "https://naoth.de"
+
+[[team]]
+name = "Hamburg Bit-Bots"
+country = "DE"
+league = "HUM"
+logo = "assets/img/teams/Hamburg Bit-Bots.svg"
+link = "https://bit-bots.de"
+
+[[team]]
+name = "ER-Force"
+country = "DE"
+league = "SSL"
+logo = "assets/img/teams/er-force.jpg"
+link = "https://www.robotics-erlangen.de/"
+
+[[team]]
+name = "WF Wolves"
+country = "DE"
+league = "HUM"
+logo = "assets/img/teams/wolves.png"
+link = "http://www.wf-wolves.de"
+
+[[team]]
+name = "B-Human"
+country = "DE"
+league = "SPL"
+logo = "assets/img/teams/B-Human.png"
+link = "https://www.b-human.de"
+
+[[team]]
+name = "Bembelbots"
+country = "DE"
+league = "SPL"
+logo = "assets/img/teams/Bembelbots.png"
+link = "https://www.jrl.cs.uni-frankfurt.de/web/robocup"
+
+[[team]]
+name = "SPQR Robot Soccer Team"
+country = "IT"
+league = "SPL"
+logo = "assets/img/teams/spqr.png"
+link = "http://spqr.diag.uniroma1.it/"
+
+[[team]]
+name = "RoboCup Committee Germany"
+country = "DE"
+league = ""
+logo = "assets/img/teams/robocup_germany.png"
+link = "https://robocup.de/"
+
+[[team]]
+name = "HTWK Robots"
+country = "DE"
+league = "SPL"
+logo = "assets/img/teams/HTWK.svg"
+link = "http://www.htwk-robots.de"
+
+[[team]]
+name = "Bold Hearts"
+country = "EN"
+league = "HUM"
+logo = "assets/img/teams/bold_hearts.png"
+link = "https://boldhearts.gitlab.io/"
+
+[[team]]
+name = "RoboEireann"
+country = "IE"
+league = "SPL"
+logo = "assets/img/teams/roboeireann.png"
+link = "http://www.eeng.nuim.ie/robocup/"
+
+[[team]]
+name = "Tilburg-CoDeRs"
+country = "DE"
+league = "SPL"
+logo = "assets/img/teams/tilburg-coders.png"
+link = "https://www.tilburg-coders.eu/"

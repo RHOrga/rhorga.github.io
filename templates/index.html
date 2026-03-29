@@ -1,8 +1,14 @@
-{% extends "base.html" %} {% block title %}{{ section.title }}{% endblock title
-%} {% block content %}
+{% extends "base.html" %} {% block title %}{{ section.title }} | {{ config.title
+}}{% endblock title %} {% block content %}
 <div class="homepage-wrapper">
     <aside class="side-image">
-        <img src="rohow/logo-robot.svg" alt="RoHOW Logo" />
+        <img
+            src="{{ get_url(path='rohow/logo-robot.svg') }}"
+            alt=""
+            aria-hidden="true"
+            width="200"
+            height="200"
+        />
     </aside>
     <div class="main-column">
         <h1>{{ section.title }}</h1>

@@ -1,0 +1,34 @@
+[[sponsor]]
+name = "airbus.com"
+logo = "AIRBUS_Blue_height_reduced.png"
+url = "https://www.airbus.com/en"
+
+[[sponsor]]
+name = "draeger.com"
+logo = "Draeger_L_Standard_RGB_Dark-Blue.svg"
+url = "https://www.draeger.com/en_uk/Home"
+
+[[sponsor]]
+name = "kdab.com"
+logo = "KDAB.svg"
+url = "https://www.kdab.com/"
+
+[[sponsor]]
+name = "cc.systems"
+logo = "cc_logo_blue.png"
+url = "https://cc.systems/en"
+
+[[sponsor]]
+name = "gea.com"
+logo = "GEA_Logo_w_Claim_sRGB_VibrantBlue.svg"
+url = "https://www.gea.com/en/"
+
+[[sponsor]]
+name = "tk.de"
+logo = "TK_logo_Sonderform.svg"
+url = "https://www.tk.de/en"
+
+[[sponsor]]
+name = "Technische Universität Hamburg"
+logo = "TUHH_logo_rgb_2023.svg"
+url = "https://www.tuhh.de/tuhh/en/startpage"

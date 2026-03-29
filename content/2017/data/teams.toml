@@ -1,0 +1,48 @@
+[[team]]
+name = "Bembelbots"
+country = "DE"
+league = "SPL"
+logo = "assets/img/teams/Bembelbots.png"
+link = "https://www.jrl.cs.uni-frankfurt.de/web/robocup"
+
+[[team]]
+name = "Berlin United - Nao Team Humboldt"
+country = "DE"
+league = "SPL"
+logo = "assets/img/teams/Berlin United - NaoTH.png"
+link = "http://naoth.de"
+
+[[team]]
+name = "B-Human"
+country = "DE"
+league = "SPL"
+logo = "assets/img/teams/B-Human.png"
+link = "https://www.b-human.de"
+
+[[team]]
+name = "Dutch Nao Team"
+country = "NL"
+league = "SPL"
+logo = "assets/img/teams/DNT_logo.png"
+link = "http://www.dutchnaoteam.nl"
+
+[[team]]
+name = "HULKs"
+country = "DE"
+league = "SPL"
+logo = "assets/img/teams/HULKs.svg"
+link = "http://hulks.de"
+
+[[team]]
+name = "Nao Devils Dortmund"
+country = "DE"
+league = "SPL"
+logo = "assets/img/teams/Nao Devils Dortmund.png"
+link = "http://www.irf.tu-dortmund.de/cms/de/IT/Forschung/Robotics/RoboCup/index.html"
+
+[[team]]
+name = "Nao-Team HTWK"
+country = "DE"
+league = "SPL"
+logo = "assets/img/teams/Nao-Team HTWK.svg"
+link = "http://www.htwk-robots.de"

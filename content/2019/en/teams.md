@@ -1,0 +1,43 @@
++++
+title = "Information for teams"
++++
+
+
+## Registration
+
+To register your team and team members, please send an email to
+<a href="mailto:hulks@tuhh.de">hulks@tuhh.de</a> including your team name, a
+contact person and the number of participants including their names. This
+needs to be done by **15<sup>th</sup> of November 2019**.
+
+Please submit your registration as soon as possible to help us simplify planning.
+
+## Registered Teams
+
+|                                                                 | Team                                                          | Division | Country                                  |
+|-----------------------------------------------------------------|---------------------------------------------------------------|----------|------------------------------------------|
+| <img src="/assets/img/teams/Bembelbots.png" alt="" height="32" />            | [Bembelbots](https://www.jrl.cs.uni-frankfurt.de/web/robocup) | SPL      | <img src="/assets/img/flags/de.svg" alt="DE" height="32" /> |
+| <img src="/assets/img/teams/Berlin United - NaoTH.png" alt="" height="32" /> | [Berlin United - Nao Team Humboldt](http://naoth.de)          | SPL      | <img src="/assets/img/flags/de.svg" alt="DE" height="32" /> |
+| <img src="/assets/img/teams/B-Human.png" alt="" height="32" />               | [B-Human](https://www.b-human.de)                             | SPL      | <img src="/assets/img/flags/de.svg" alt="DE" height="32" /> |
+| <img src="/assets/img/teams/Hamburg Bit-Bots.svg" alt="" height="32" />      | [Hamburg Bit-Bots](http://bit-bots.de)                        | HUM      | <img src="/assets/img/flags/de.svg" alt="DE" height="32" /> |
+| <img src="/assets/img/teams/DNT_logo.png" alt="" height="32" />              | [Dutch Nao Team](http://www.dutchnaoteam.nl)                  | SPL      | <img src="/assets/img/flags/nl.svg" alt="NL" height="32" /> |
+| <img src="/assets/img/teams/Nao Devils Dortmund.png" alt="" height="32" />   | [Nao Devils Dortmund](https://naodevils.de/)                  | SPL      | <img src="/assets/img/flags/de.svg" alt="DE" height="32" /> |
+| <img src="/assets/img/teams/Nao-Team HTWK.svg" alt="" height="32" />         | [Nao-Team HTWK](http://www.htwk-robots.de)                    | SPL      | <img src="/assets/img/flags/de.svg" alt="DE" height="32" /> |
+| <img src="/assets/img/teams/rhoban.png" alt="" height="32" />                | [Rhoban Football Club](http://rhoban.com)                     | HUM      | <img src="/assets/img/flags/fr.svg" alt="FR" height="32" /> |
+| <img src="/assets/img/teams/HULKs.svg" alt="" height="32" />                 | [HULKs](https://hulks.de)                                     | SPL      | <img src="/assets/img/flags/de.svg" alt="DE" height="32" /> |
+| <img src="/assets/img/teams/spqr.jpg" alt="" height="32" />                  | [SPQR Robot Soccer Team](http://spqr.diag.uniroma1.it/)       | SPL      | <img src="/assets/img/flags/it.svg" alt="IT" height="32" /> |
+## Participation Fees
+
+Your participation is free of charge.
+
+## Rules
+
+Please visit the [SPL website](http://spl.robocup.org/downloads/) for a reference to the rules.
+
+## Delivery of Robots
+
+If your team wants to deliver robots by cargo, please use the following address:
+
+RobotING@TUHH (YourTeamName)  
+Denickestraße 22  
+21073 Hamburg
