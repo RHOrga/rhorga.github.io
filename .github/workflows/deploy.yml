@@ -1,10 +1,14 @@
 on:
-    push:
-        branches: [ main ]
-
-    workflow_dispatch:
+  push:
+    branches: [master]
+  workflow_dispatch:
 
 name: Build and deploy GH Pages
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -14,24 +18,24 @@ jobs:
         with:
           lfs: true
 
-      - name: Install Zola
-        run: |
-            curl -L https://github.com/getzola/zola/releases/download/v0.21.0/zola-v0.21.0-x86_64-unknown-linux-gnu.tar.gz -o zola.tar.gz
-            tar -xzf zola.tar.gz
-            sudo mv zola /usr/local/bin/
-
       - name: Build Zola site
-        run: zola build
+        run: |
+          docker run --rm \
+            --user "$(id -u):$(id -g)" \
+            -v "$GITHUB_WORKSPACE:/work" \
+            -w /work \
+            ghcr.io/getzola/zola:v0.19.1 \
+            build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
 
-
   deploy:
     needs: build
     runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/master'
 
     permissions:
       pages: write
