@@ -1,0 +1,90 @@
+{% extends "base.html" %} {% block title %}{{ page.title }} | {{ config.title
+}}{% endblock title %} {% block content %}
+<div class="page-content">
+    <h1>{{ page.title }}</h1>
+
+    {% if page.description %}
+    <p class="page-description">{{ page.description }}</p>
+    {% endif %} {{ page.content | safe }}
+
+    <div class="team-table-container">
+        <table class="team-table">
+            <thead>
+                <tr>
+                    <th class="logo-col">Logo</th>
+                    <th class="team-col">Team</th>
+                    <th class="division-col">Division</th>
+                    <th class="country-col">Country</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% set current_url = current_path | default(value="/") %}
+                {% set path_without_slash = current_url | trim_start_matches(pat="/") | trim_end_matches(pat="/") %}
+                {% set path_parts = path_without_slash | split(pat="/") %}
+                {% set current_year = config.extra.latest_year %}
+                {% if path_parts | length >= 1 %}
+                    {% set candidate_year = path_parts.0 | int %}
+                    {% if candidate_year in config.extra.years %}
+                        {% set current_year = candidate_year %}
+                    {% endif %}
+                {% endif %}
+                {% set current_year_string = current_year ~ "" %}
+                {% set teams_data_path = current_year_string ~ "/data/teams.toml" %}
+                {% set teams_data = load_data(path=teams_data_path) %} {% for
+                team in teams_data.team %}
+                <tr>
+                    <td class="logo-col">
+                        <div class="team-logo-wrap">
+                            {% if team.logo %} {% if team.logo is
+                            ending_with(".svg") %}
+                            <img
+                                src="{{ get_url(path=team.logo) }}"
+                                alt=""
+                                aria-hidden="true"
+                                class="team-logo"
+                                width="126"
+                                height="78"
+                            />
+                            {% else %} {% set resized_image =
+                            resize_image(path=team.logo, height=96, op="fit_height",
+                            format="webp") %}
+                            <img
+                                src="{{ resized_image.url }}"
+                                alt=""
+                                aria-hidden="true"
+                                class="team-logo"
+                                width="{{ resized_image.width }}"
+                                height="{{ resized_image.height }}"
+                            />
+                            {% endif %} {% endif %}
+                        </div>
+                    </td>
+                    <td class="team-col">
+                        <a class="team-name-link" href="{{ team.link }}">{{ team.name }}</a>
+                    </td>
+                    <td class="division-col">
+                        {% if team.league | trim != "" %}
+                            <span class="league-badge">{{ team.league }}</span>
+                        {% else %}
+                            <span class="league-badge league-badge-empty">—</span>
+                        {% endif %}
+                    </td>
+                    <td class="country-col">
+                        <div class="country-cell">
+                            <img
+                                src="https://flagcdn.com/{{ team.country | lower }}.svg"
+                                alt="{{ team.country }} Flag"
+                                class="country-flag"
+                                width="24"
+                                height="24"
+                            />
+                            <span class="country-code">{{ team.country | upper }}</span>
+                        </div>
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</div>
+{% endblock content %}

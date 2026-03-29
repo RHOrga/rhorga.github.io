@@ -1,0 +1,507 @@
+// Color Palette & Fonts
+$red: #e52f26;
+$blue-light: #00a9e0;
+$blue-dark: #005c97;
+$white: #ffffff;
+$text-color: #333;
+$font-family: "Open Sans", sans-serif;
+
+// General Styling
+body {
+    font-family: $font-family;
+    color: $text-color;
+    margin: 0;
+    padding: 2rem 1rem;
+    min-height: 100vh;
+    scrollbar-gutter: stable both-edges;
+    background: $blue-light;
+}
+
+h1,
+h2,
+h3 {
+    font-weight: bold;
+}
+
+// The main white content box
+.content-wrapper {
+    background-color: $white;
+    max-width: 960px;
+    margin: 0 auto;
+    border-radius: 8px;
+    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.2);
+}
+
+// Logo container
+.logo-container {
+    padding-bottom: 2rem;
+    text-align: center;
+    img {
+        max-width: 300px;
+        height: auto;
+    }
+}
+
+.language-switcher {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.9rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+
+    a {
+        color: $blue-dark;
+        text-decoration: none;
+
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+
+    .separator {
+        color: #777;
+    }
+
+    .current-lang {
+        color: $red;
+    }
+}
+
+// Header and Navigation (inside the white box)
+.site-header {
+    .main-nav .main-nav-inner {
+        display: grid;
+        grid-template-columns: 150px 1fr 150px;
+        align-items: stretch;
+        min-height: 52px;
+        background-color: $red;
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+    }
+
+    .main-nav .nav-links {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: stretch;
+        grid-column: 2;
+        min-width: 0;
+    }
+
+    .main-nav .nav-links li {
+        display: flex;
+        align-items: stretch;
+    }
+
+    .main-nav .language-switcher-item {
+        grid-column: 1;
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        padding-left: 0.9rem;
+    }
+
+    .main-nav .language-switcher-item .language-switcher {
+        font-size: 0.82rem;
+        font-weight: 700;
+        letter-spacing: 0.02em;
+        line-height: 1;
+        gap: 0.25rem;
+        padding: 0;
+        border: 0;
+        background: transparent;
+        box-shadow: none;
+    }
+
+    .main-nav .language-switcher-item .language-switcher a {
+        color: rgba(255, 255, 255, 0.88);
+        padding: 0.06rem 0.12rem;
+        transition: color 0.2s ease, opacity 0.2s ease;
+    }
+
+    .main-nav .language-switcher-item .language-switcher a:hover {
+        text-decoration: underline;
+        color: #fff;
+    }
+
+    .main-nav .language-switcher-item .language-switcher .separator {
+        color: rgba(255, 255, 255, 0.65);
+    }
+
+    .main-nav .language-switcher-item .language-switcher .current-lang {
+        color: #fff;
+        padding: 0.06rem 0.12rem;
+        text-decoration: underline;
+        text-underline-offset: 2px;
+        font-weight: 800;
+    }
+
+    .main-nav .nav-links a {
+        display: flex;
+        align-items: center;
+        height: 100%;
+        padding: 0 0.85rem;
+        color: $white;
+        text-decoration: none;
+        font-weight: bold;
+        text-transform: none;
+        font-size: 0.82rem;
+        letter-spacing: 0.01em;
+        transition: background-color 0.2s ease-in-out;
+
+        &.current,
+        &:hover {
+            background-color: $white;
+            color: $red;
+        }
+    }
+}
+
+// Main Content Area
+.main-content {
+    padding: 2rem 2.5rem;
+}
+
+.homepage-wrapper {
+    display: flex;
+    gap: 1rem;
+    align-items: flex-start;
+
+    .side-image {
+        flex: 0 0 200px;
+        position: relative;
+        left: -72px;
+        margin-right: -52px;
+        width: 200px;
+        height: 200px;
+
+        img {
+            width: 100%;
+            height: 100%;
+            border-radius: 50%;
+            object-fit: contain;
+            aspect-ratio: 1 / 1;
+            background-color: $white;
+            padding: 10px;
+            border: 2px solid $blue-light;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+    }
+
+    .main-column {
+        flex: 1;
+        h1 {
+            color: $red;
+            margin-top: 0;
+            font-size: 2.5rem;
+        }
+    }
+}
+
+// Generic Page Styling
+.page-content {
+    h1 {
+        color: $red;
+        margin-top: 0;
+    }
+}
+
+// Sponsor Strip (inside the white box)
+.sponsor-strip {
+    padding: 2rem 2.5rem;
+    border-top: 1px solid #e0e0e0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 24px;
+
+    > a,
+    > span {
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
+        width: 130px;
+        height: 52px;
+        padding: 0.2rem;
+    }
+
+    > a {
+        transition: transform 0.2s ease;
+
+        &:hover {
+            transform: translateY(-1px) scale(1.04);
+        }
+    }
+
+    img {
+        height: auto;
+        width: auto;
+        max-width: 100%;
+        max-height: 100%;
+        object-fit: contain;
+    }
+}
+
+// Footer (inside the white box)
+.site-footer {
+    padding: 1rem 2.5rem;
+    text-align: center;
+    font-size: 0.9rem;
+    color: #666;
+    border-top: 1px solid #e0e0e0;
+
+    .footer-nav {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+    }
+    a {
+        color: #333;
+        text-decoration: none;
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+}
+
+// Team Table
+.team-table-container {
+    margin: 2rem auto 0;
+    width: 100%;
+    overflow-x: auto;
+    border: 1px solid #dbe5ef;
+    border-radius: 16px;
+    box-shadow: 0 14px 28px rgba(0, 40, 90, 0.08);
+    background: linear-gradient(180deg, #ffffff 0%, #fbfdff 100%);
+}
+
+.team-table {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: separate;
+    border-spacing: 0;
+    margin: 0;
+    font-size: 1rem;
+
+    thead th {
+        position: sticky;
+        top: 0;
+        z-index: 1;
+        background: linear-gradient(180deg, #f5f9fe 0%, #edf4fb 100%);
+        border-bottom: 1px solid #dbe5ef;
+        padding: 0.95rem 1.4rem;
+        text-align: left;
+        text-transform: uppercase;
+        font-size: 0.76rem;
+        font-weight: 800;
+        letter-spacing: 0.08em;
+        color: #47627b;
+    }
+
+    tbody tr {
+        border-bottom: 1px solid #edf2f7;
+        transition: background-color 0.2s, box-shadow 0.2s;
+        &:hover {
+            background-color: #f6faff;
+            box-shadow: inset 0 0 0 999px rgba(79, 154, 222, 0.05);
+        }
+    }
+
+    tbody tr:last-child {
+        border-bottom: 0;
+    }
+
+    td {
+        padding: 1rem 1.6rem;
+        vertical-align: middle;
+        white-space: normal;
+    }
+
+    .logo-col {
+        width: 22%;
+        text-align: center;
+    }
+
+    .team-col {
+        width: 46%;
+    }
+
+    .division-col {
+        width: 14%;
+        text-align: center;
+    }
+
+    .country-col {
+        width: 18%;
+        text-align: center;
+    }
+
+    .team-logo-wrap {
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
+        width: 140px;
+        height: 86px;
+        padding: 0.35rem;
+        border-radius: 12px;
+        border: 1px solid #dbe6f1;
+        background: #fff;
+    }
+
+    .team-logo {
+        max-height: 78px;
+        max-width: 126px;
+        object-fit: contain; // Ensures logos aren't stretched
+        display: block;
+    }
+
+    .team-name-link {
+        color: #173f63;
+        font-weight: 700;
+        text-decoration: none;
+        line-height: 1.3;
+
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+
+    .league-badge {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-width: 64px;
+        padding: 0.3rem 0.55rem;
+        border-radius: 999px;
+        background: #e8f3ff;
+        color: #1a4e7a;
+        border: 1px solid #c8ddf0;
+        font-size: 0.75rem;
+        font-weight: 800;
+        letter-spacing: 0.05em;
+    }
+
+    .league-badge-empty {
+        background: #f3f5f8;
+        color: #748397;
+        border-color: #dde4ec;
+    }
+
+    .country-cell {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.55rem;
+        padding: 0.22rem 0.7rem 0.22rem 0.24rem;
+        border-radius: 999px;
+        background: #eef6ff;
+        border: 1px solid #cfe0f1;
+    }
+
+    .country-code {
+        font-size: 0.77rem;
+        font-weight: 800;
+        letter-spacing: 0.05em;
+        color: #355775;
+    }
+
+    .country-flag {
+        width: 24px;
+        height: 24px;
+        object-fit: cover;
+        border-radius: 50%;
+        border: 1px solid #bfd3e6;
+        box-shadow: 0 1px 2px rgba(0, 30, 60, 0.1);
+    }
+}
+
+// Responsive Design
+@media (max-width: 768px) {
+    body {
+        padding: 1rem 0.5rem;
+    }
+
+    .site-header .main-nav .main-nav-inner {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .site-header .main-nav .language-switcher-item {
+        justify-content: center;
+        padding: 0.75rem 1rem;
+    }
+
+    .site-header .main-nav .nav-links {
+        flex-direction: column;
+    }
+
+    .team-table {
+        .logo-col,
+        .team-col,
+        .division-col,
+        .country-col {
+            width: auto;
+            min-width: 0;
+        }
+
+        td,
+        thead th {
+            padding-left: 1rem;
+            padding-right: 1rem;
+        }
+
+        .team-logo-wrap {
+            width: 112px;
+            height: 72px;
+        }
+
+        .logo-col,
+        .team-col,
+        .division-col,
+        .country-col {
+            width: auto;
+        }
+    }
+
+    .main-content {
+        padding: 1.5rem;
+    }
+
+    .homepage-wrapper {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+
+        .side-image {
+            left: 0;
+            margin-right: 0;
+            margin-bottom: 1rem;
+        }
+    }
+}
+
+.content-image {
+    margin: 2rem auto;
+    padding: 0;
+    max-width: 100%;
+    text-align: center;
+
+    img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 8px;
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    }
+
+    figcaption {
+        margin-top: 0.75rem;
+        font-size: 0.9rem;
+        color: #666;
+        font-style: italic;
+    }
+}

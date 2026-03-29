@@ -1,0 +1,15 @@
+<div class="{{ class | default(value='content-image') }}">
+    <figure>
+        {% set image = resize_image(path=src, width=width | default(value=768),
+        op="fit_width", format="webp" ) %}
+        <img
+            src="{{ image.url }}"
+            alt="{{ alt }}"
+            width="{{ image.width }}"
+            height="{{ image.height }}"
+        />
+        {% if caption %}
+        <figcaption>{{ caption }}</figcaption>
+        {% endif %}
+    </figure>
+</div>

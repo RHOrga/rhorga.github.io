@@ -1,0 +1,83 @@
+[[team]]
+name = "FUmanoids"
+country = "DE"
+league = "HUM"
+logo = "assets/img/teams/FUmanoids.png"
+link = "http://fumanoids.de"
+
+[[team]]
+name = "Hamburg Bit-Bots"
+country = "DE"
+league = "HUM"
+logo = "assets/img/teams/Hamburg Bit-Bots.svg"
+link = "http://bit-bots.de"
+
+[[team]]
+name = "Rhoban Football Club"
+country = "FR"
+league = "HUM"
+logo = "assets/img/teams/rhoban.png"
+link = "http://rhoban.com"
+
+[[team]]
+name = "WF Wolves"
+country = "DE"
+league = "HUM"
+logo = "assets/img/teams/wolves.png"
+link = "http://www.wf-wolves.de"
+
+[[team]]
+name = "Bembelbots"
+country = "DE"
+league = "SPL"
+logo = "assets/img/teams/Bembelbots.png"
+link = "https://www.jrl.cs.uni-frankfurt.de/web/robocup"
+
+[[team]]
+name = "Berlin United - Nao Team Humboldt"
+country = "DE"
+league = "SPL"
+logo = "assets/img/teams/Berlin United - NaoTH.png"
+link = "http://naoth.de"
+
+[[team]]
+name = "B-Human"
+country = "DE"
+league = "SPL"
+logo = "assets/img/teams/B-Human.png"
+link = "https://www.b-human.de"
+
+[[team]]
+name = "Dutch Nao Team"
+country = "NL"
+league = "SPL"
+logo = "assets/img/teams/DNT_logo.png"
+link = "http://www.dutchnaoteam.nl"
+
+[[team]]
+name = "HULKs"
+country = "DE"
+league = "SPL"
+logo = "assets/img/teams/HULKs.svg"
+link = "http://hulks.de"
+
+[[team]]
+name = "Luxembourg United"
+country = "LU"
+league = "SPL"
+logo = "assets/img/teams/LuxembourgUnited.jpg"
+link = "https://luxembourg-united.uni.lu"
+
+[[team]]
+name = "Nao Devils Dortmund"
+country = "DE"
+league = "SPL"
+logo = "assets/img/teams/Nao Devils Dortmund.png"
+link = "http://www.irf.tu-dortmund.de/cms/de/IT/Forschung/Robotics/RoboCup/index.html"
+
+[[team]]
+name = "Nao-Team HTWK"
+country = "DE"
+league = "SPL"
+logo = "assets/img/teams/Nao-Team HTWK.svg"
+link = "http://www.htwk-robots.de"

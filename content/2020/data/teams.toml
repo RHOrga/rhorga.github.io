@@ -1,0 +1,160 @@
+[[team]]
+name = "01.RFC Berlin"
+country = "DE"
+league = "HUM"
+logo = "assets/img/teams/01rfc_berlin.png"
+link = "https://01.rfc-berlin.de/"
+
+[[team]]
+name = "Bembelbots"
+country = "DE"
+league = "SPL"
+logo = "assets/img/teams/Bembelbots.png"
+link = "https://www.jrl.cs.uni-frankfurt.de/web/robocup"
+
+[[team]]
+name = "Berlin United - Nao Team Humboldt"
+country = "DE"
+league = "SPL"
+logo = "assets/img/teams/Berlin United - NaoTH.png"
+link = "http://naoth.de"
+
+[[team]]
+name = "Hamburg Bit-Bots"
+country = "DE"
+league = "HUM"
+logo = "assets/img/teams/Hamburg Bit-Bots.svg"
+link = "http://bit-bots.de"
+
+[[team]]
+name = "BlueWave"
+country = "IR"
+league = "SPL"
+logo = ""
+link = ""
+
+[[team]]
+name = "Bold Hearts"
+country = "EN"
+league = "HUM"
+logo = "assets/img/teams/bold_hearts.png"
+link = "http://robocup.herts.ac.uk/"
+
+[[team]]
+name = "B-Human"
+country = "DE"
+league = "SPL"
+logo = "assets/img/teams/B-Human.png"
+link = "https://www.b-human.de"
+
+[[team]]
+name = "CIT Brains"
+country = "JP"
+league = "HUM"
+logo = "assets/img/teams/cit-brains.png"
+link = "https://sites.google.com/a/p.chibakoudai.jp/cit-brains/home_en"
+
+[[team]]
+name = "DinoBytes"
+country = "CA"
+league = "SPL"
+logo = ""
+link = ""
+
+[[team]]
+name = "Dutch Nao Team"
+country = "NL"
+league = "SPL"
+logo = "assets/img/teams/DNT_logo.png"
+link = "http://www.dutchnaoteam.nl"
+
+[[team]]
+name = "Electric Sheep"
+country = "NZ"
+league = "HUM"
+logo = "assets/img/teams/electric-sheep.gif"
+link = "https://humanoid.science/"
+
+[[team]]
+name = "HS-KL Kaiserslautern"
+country = "DE"
+league = "SPL"
+logo = ""
+link = ""
+
+[[team]]
+name = "HULKs"
+country = "DE"
+league = "SPL"
+logo = "assets/img/teams/HULKs.svg"
+link = "https://hulks.de"
+
+[[team]]
+name = "MiPal"
+country = "AU"
+league = "SPL"
+logo = ""
+link = "http://mipal.net.au/"
+
+[[team]]
+name = "Nao Devils Dortmund"
+country = "DE"
+league = "SPL"
+logo = "assets/img/teams/Nao Devils Dortmund.png"
+link = "https://naodevils.de/"
+
+[[team]]
+name = "NomadZ"
+country = "CH"
+league = "SPL"
+logo = "assets/img/teams/nomadz.png"
+link = "https://robocup.ethz.ch/"
+
+[[team]]
+name = "Rinobot"
+country = "BR"
+league = "SPL"
+logo = "assets/img/teams/rinobot_red.png"
+link = "https://www.facebook.com/rinobot/"
+
+[[team]]
+name = "RoboDucks"
+country = "AUT"
+league = "SPL"
+logo = ""
+link = ""
+
+[[team]]
+name = "RoboEireann"
+country = "IE"
+league = "SPL"
+logo = "assets/img/teams/roboeireann.png"
+link = "http://www.eeng.nuim.ie/robocup/"
+
+[[team]]
+name = "rUNSWift"
+country = "AU"
+league = "SPL"
+logo = "assets/img/teams/rUNSWift.png"
+link = "https://www.engineering.unsw.edu.au/computer-science-engineering/student-life/student-projects/robocup"
+
+[[team]]
+name = "SPQR Robot Soccer Team"
+country = "IT"
+league = "SPL"
+logo = "assets/img/teams/spqr.jpg"
+link = "http://spqr.diag.uniroma1.it/"
+
+[[team]]
+name = "UnBeatables"
+country = "BR"
+league = "SPL"
+logo = "assets/img/teams/UnBeatables.bmp"
+link = "https://www.facebook.com/unbeatablesbr"
+
+[[team]]
+name = "UT Austin Villa"
+country = "US"
+league = "SPL"
+logo = "assets/img/teams/austinvillalogo.jpg"
+link = "https://www.cs.utexas.edu/~AustinVilla/"

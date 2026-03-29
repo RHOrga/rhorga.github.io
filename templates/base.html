@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+    <link
+        rel="icon"
+        href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚽</text></svg>"
+    />
+    <link rel="stylesheet" href="{{ get_url(path='main.css') }}" />
+</head>
+
+<body>
+    {% set current_url = current_path | default(value="/") %}
+    {% set path_without_slash = current_url | trim_start_matches(pat="/") | trim_end_matches(pat="/") %}
+    {% set path_parts = path_without_slash | split(pat="/") %}
+    {% set current_year = config.extra.latest_year %}
+    {% set current_year_string = current_year ~ "" %}
+    {% set current_lang = "en" %}
+    {% if path_parts | length >= 1 %}
+        {% set candidate_year = path_parts.0 | int %}
+        {% if candidate_year in config.extra.years %}
+            {% set current_year = candidate_year %}
+            {% set current_year_string = candidate_year ~ "" %}
+        {% endif %}
+        {% if path_parts | length >= 2 %}
+            {% if path_parts.1 == "de" or path_parts.1 == "en" %}
+                {% set current_lang = path_parts.1 %}
+            {% endif %}
+        {% endif %}
+    {% endif %}
+
+    <div class="logo-container">
+        <a href="{{ get_url(path='/' ~ current_year ~ '/' ~ current_lang ~ '/') }}">
+            <img
+                src="{{ get_url(path='rohow/logo-wordmark.svg') }}"
+                alt="RoHOW Logo"
+                width="300"
+                height="98"
+            />
+        </a>
+    </div>
+
+    <div class="content-wrapper">
+        <header class="site-header">
+            <nav class="main-nav">
+                <div class="main-nav-inner">
+                    <div class="language-switcher-item">
+                        <div class="language-switcher">
+                            {% if current_lang == "en" %}
+                                <span class="current-lang">EN</span>
+                                <span class="separator">|</span>
+                                <a href="{{ get_url(path='/' ~ current_year ~ '/de/') }}">DE</a>
+                            {% else %}
+                                <a href="{{ get_url(path='/' ~ current_year ~ '/en/') }}">EN</a>
+                                <span class="separator">|</span>
+                                <span class="current-lang">DE</span>
+                            {% endif %}
+                        </div>
+                    </div>
+                    {% if current_lang == "de" %}
+                        {% set menu_items = config.extra.menu_items_de %}
+                    {% else %}
+                        {% set menu_items = config.extra.menu_items_en %}
+                    {% endif %}
+                    <ul class="nav-links">
+                    {% for item in menu_items %}
+                        {% set item_url = item.url | replace(from="{year}", to=current_year ~ "") %}
+                        <li>
+                            <a
+                                href="{{ get_url(path=item_url) }}"
+                                class="{% if current_url == get_url(path=item_url) %}current{% endif %}"
+                            >
+                                {{ item.name }}
+                            </a>
+                        </li>
+                    {% endfor %}
+                    </ul>
+                </div>
+            </nav>
+        </header>
+
+        <main class="main-content">
+            {% block content %}{% endblock content %}
+        </main>
+
+        <section class="sponsor-strip">
+            {% set sponsors_data_path = current_year_string ~ "/data/sponsors.toml" %}
+            {% set sponsor_data = load_data(path=sponsors_data_path) %}
+            {% for sponsor in sponsor_data.sponsor %}
+                {% set sponsor_href = sponsor.url | default(value="") %}
+                {% set sponsor_image_path = current_year_string ~ "/sponsors/" ~ sponsor.logo %}
+                {% if sponsor_href != "" %}
+                    <a href="{{ sponsor_href }}" target="_blank" rel="noopener noreferrer">
+                {% else %}
+                    <span>
+                {% endif %}
+                {% if sponsor.logo is ending_with(".svg") %}
+                    <img
+                        src="{{ get_url(path=sponsor_image_path) }}"
+                        alt="{{ sponsor.name }} Logo"
+                        width="180"
+                        height="60"
+                    />
+                {% else %}
+                    {% set resized_image = resize_image(path=sponsor_image_path, height=100, op="fit_height", format="webp") %}
+                    <img
+                        src="{{ resized_image.url }}"
+                        alt="{{ sponsor.name }} Logo"
+                        width="{{ resized_image.width }}"
+                        height="{{ resized_image.height }}"
+                    />
+                {% endif %}
+                {% if sponsor_href != "" %}
+                    </a>
+                {% else %}
+                    </span>
+                {% endif %}
+            {% endfor %}
+        </section>
+
+        <footer class="site-footer">
+            <nav class="footer-nav">
+                <span>© {{ now() | date(format="%Y") }} HULKs e.V.</span>
+                <span>|</span>
+
+                {% if current_lang == "de" %}
+                    {% set footer_links = config.extra.footer_links_de %}
+                {% else %}
+                    {% set footer_links = config.extra.footer_links_en %}
+                {% endif %}
+                {% for link in footer_links %}
+                    {% set link_url = link.url | replace(from="{year}", to=current_year ~ "") %}
+                    <a href="{{ get_url(path=link_url) }}">{{ link.name }}</a>
+                    {% if not loop.last %}<span>|</span>{% endif %}
+                {% endfor %}
+            </nav>
+        </footer>
+    </div>
+</body>
+</html>

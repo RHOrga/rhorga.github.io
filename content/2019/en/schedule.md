@@ -1,0 +1,50 @@
++++
+title = "Schedule"
++++
+
+
+## Workshop and talk schedule
+
+Register your workshops and talks <a href="https://rohow.de/mopad" target="_blank">here</a>.
+
+You can subscribe to a webcal containing all workshops using [this link](webcal://hulks.dual.tuhh.de/nextcloud/remote.php/dav/public-calendars/EaC4ifWy3TAkD2bK?export).
+
+### Ideas for workshops and discussions
+
+TBA
+
+### Announced Talks & Workshops
+
+* **B.Sc. Lukas Post**  
+[TBA] Automatische Differenzierung von Extended Kalman Filtern auf Mannigfaltigkeiten
+
+## Friday (29<sup>th</sup> November 2019)
+
+| Time     | Event                              |
+| :------  | :-------                           |
+| 05:00 pm | Setup for all teams                |
+| 07:00 pm | Welcoming in Auditorium Maximum II |
+| 08:00 pm | Pre conference party               |
+## Saturday (30<sup>th</sup> November 2019)
+
+| Time     | Event                         |
+| :------  | :-------                      |
+| 09:00 am | Venue opens and breakfast     |
+| 10:00 am | Workshop sessions             |
+| 01:00 pm | Lunch break                   |
+| 02:00 pm | Workshop sessions             |
+| 04:00 pm | Coffee break                  |
+| 04:30 pm | Workshop sessions             |
+| 08:00 pm | After conference get-together |
+| 12:00 am | Venue closes                  |
+## Sunday (1<sup>st</sup> December 2019)
+
+| Time     | Event                     |
+| :------  | :-------                  |
+| 09:00 am | Venue opens and breakfast |
+| 11:00 am | Workshop sessions         |
+| 01:00 pm | Lunch break               |
+| 03:00 pm | Workshop sessions         |
+| 04:00 pm | Coffee break              |
+| 04:30 pm | Workshop sessions         |
+| 06:00 pm | Conference end            |

@@ -1,8 +1,0 @@
-title: RoHOW
-description: Robotic Hamburg Open Workshop
-
-markdown: kramdown
-
-plugins:
-  - jekyll-redirect-from
-
