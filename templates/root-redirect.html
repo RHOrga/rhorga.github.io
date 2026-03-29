@@ -1,21 +1,25 @@
 <!doctype html>
 <html lang="en">
-
-<head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         {% set target = "/" ~ config.extra.latest_year ~ "/en/" %}
-    <title>RoHOW - Redirecting...</title>
-    <meta http-equiv="refresh" content="0;url={{ target }}" />
-    <link rel="canonical" href="{{ target }}" />
-</head>
-
-<body>
-    <p>Redirecting to the latest RoHOW event...</p>
-    <p>If you are not automatically redirected, <a href="{{ target }}">click here</a>.</p>
-    <script>
-        window.location.replace({{ target | json_encode | safe }});
-    </script>
-</body>
-
+        <title>RoHOW</title>
+        <meta http-equiv="refresh" content="0;url={{ target }}" />
+        <link rel="canonical" href="{{ target }}" />
+        <style>
+            html,
+            body {
+                margin: 0;
+                width: 100%;
+                height: 100%;
+                background: #00a9e0;
+            }
+        </style>
+    </head>
+    <body>
+        <script>
+            window.location.replace({{ target | json_encode | safe }});
+        </script>
+    </body>
 </html>

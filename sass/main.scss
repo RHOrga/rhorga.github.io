@@ -119,7 +119,9 @@ h3 {
     .main-nav .language-switcher-item .language-switcher a {
         color: rgba(255, 255, 255, 0.88);
         padding: 0.06rem 0.12rem;
-        transition: color 0.2s ease, opacity 0.2s ease;
+        transition:
+            color 0.2s ease,
+            opacity 0.2s ease;
     }
 
     .main-nav .language-switcher-item .language-switcher a:hover {
@@ -207,6 +209,15 @@ h3 {
         color: $red;
         margin-top: 0;
     }
+}
+
+.homepage-image {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    margin: 0 0 1.25rem 0;
+    border-radius: 6px;
 }
 
 // Sponsor Strip (inside the white box)
@@ -305,7 +316,9 @@ h3 {
 
     tbody tr {
         border-bottom: 1px solid #edf2f7;
-        transition: background-color 0.2s, box-shadow 0.2s;
+        transition:
+            background-color 0.2s,
+            box-shadow 0.2s;
         &:hover {
             background-color: #f6faff;
             box-shadow: inset 0 0 0 999px rgba(79, 154, 222, 0.05);

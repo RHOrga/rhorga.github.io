@@ -4,11 +4,6 @@ logo = "KDAB.svg"
 url = "https://www.kdab.com/"
 
 [[sponsor]]
-name = "tk.de"
-logo = "TK_logo_Sonderform.svg"
-url = "https://www.tk.de/techniker"
-
-[[sponsor]]
 name = "draeger.com"
 logo = "Draeger_L_Standard_RGB_Dark-Blue.svg"
 url = "https://www.draeger.com/de_de/Home"

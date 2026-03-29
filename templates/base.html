@@ -18,6 +18,7 @@
     {% set current_year = config.extra.latest_year %}
     {% set current_year_string = current_year ~ "" %}
     {% set current_lang = "en" %}
+    {% set current_suffix = "" %}
     {% if path_parts | length >= 1 %}
         {% set candidate_year = path_parts.0 | int %}
         {% if candidate_year in config.extra.years %}
@@ -29,6 +30,17 @@
                 {% set current_lang = path_parts.1 %}
             {% endif %}
         {% endif %}
+        {% if path_parts | length > 2 %}
+            {% set suffix_parts = path_parts | slice(start=2) %}
+            {% set current_suffix = suffix_parts | join(sep="/") %}
+        {% endif %}
+    {% endif %}
+    {% if current_suffix != "" %}
+        {% set de_switch_path = "/" ~ current_year ~ "/de/" ~ current_suffix ~ "/" %}
+        {% set en_switch_path = "/" ~ current_year ~ "/en/" ~ current_suffix ~ "/" %}
+    {% else %}
+        {% set de_switch_path = "/" ~ current_year ~ "/de/" %}
+        {% set en_switch_path = "/" ~ current_year ~ "/en/" %}
     {% endif %}
 
     <div class="logo-container">
@@ -51,9 +63,9 @@
                             {% if current_lang == "en" %}
                                 <span class="current-lang">EN</span>
                                 <span class="separator">|</span>
-                                <a href="{{ get_url(path='/' ~ current_year ~ '/de/') }}">DE</a>
+                                <a href="{{ get_url(path=de_switch_path) }}">DE</a>
                             {% else %}
-                                <a href="{{ get_url(path='/' ~ current_year ~ '/en/') }}">EN</a>
+                                <a href="{{ get_url(path=en_switch_path) }}">EN</a>
                                 <span class="separator">|</span>
                                 <span class="current-lang">DE</span>
                             {% endif %}
@@ -70,7 +82,7 @@
                         <li>
                             <a
                                 href="{{ get_url(path=item_url) }}"
-                                class="{% if current_url == get_url(path=item_url) %}current{% endif %}"
+                                class="{% if current_url == item_url or current_url == item_url ~ '/' or current_url == item_url | trim_end_matches(pat='/') %}current{% endif %}"
                             >
                                 {{ item.name }}
                             </a>

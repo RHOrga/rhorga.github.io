@@ -17,15 +17,4 @@ title = "Ablauf"
 
 ## Samstag (28. November 2026)
 
-| 08:00 | Venue öffnet |
-| :--- | :--- |
-| 09:00 | Frühstück |
-| 10:00 | Talks |
-
 ## Sonntag (29. November 2026)
-
-| 08:00 | Venue öffnet |
-| :--- | :--- |
-| 09:00 | Frühstück |
-| 10:00 | Talks |
-

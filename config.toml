@@ -33,7 +33,7 @@ menu_items_en = [
 menu_items_de = [
     { name = "Startseite", url = "/{year}/de/" },
     { name = "Teams", url = "/{year}/de/teams/" },
-    { name = "Zeitplan", url = "/{year}/de/schedule/" },
+    { name = "Ablauf", url = "/{year}/de/schedule/" },
     { name = "Veranstaltungsort", url = "/{year}/de/venue/" },
     { name = "Presse", url = "/{year}/de/press/" },
     { name = "Kontakt", url = "/{year}/de/contact/" },
