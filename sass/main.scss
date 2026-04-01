@@ -72,7 +72,7 @@ h3 {
 .site-header {
     .main-nav .main-nav-inner {
         display: grid;
-        grid-template-columns: 150px 1fr 150px;
+        grid-template-columns: auto 1fr auto;
         align-items: stretch;
         min-height: 52px;
         background-color: $red;
@@ -89,6 +89,7 @@ h3 {
         align-items: stretch;
         grid-column: 2;
         min-width: 0;
+        flex-shrink: 0;
     }
 
     .main-nav .nav-links li {
@@ -145,7 +146,7 @@ h3 {
         display: flex;
         align-items: center;
         height: 100%;
-        padding: 0 0.85rem;
+        padding: 0 1.2rem;
         color: $white;
         text-decoration: none;
         font-weight: bold;
@@ -447,17 +448,39 @@ h3 {
 
     .site-header .main-nav .main-nav-inner {
         display: flex;
-        flex-direction: column;
-        text-align: center;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+
+        // Hide the scrollbar so it looks like a clean "tab" bar
+        &::-webkit-scrollbar {
+            display: none;
+        }
+        -ms-overflow-style: none;  // IE/Edge
+        scrollbar-width: none;     // Firefox
+    }
+
+    // Fading effect to hint that scrolling is possible
+    .site-header .main-nav {
+        position: relative;
+
+        &::after {
+            content: "";
+            position: absolute;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            width: 40px;
+            background: linear-gradient(to right, transparent, $red);
+            pointer-events: none;
+        }
     }
 
     .site-header .main-nav .language-switcher-item {
-        justify-content: center;
-        padding: 0.75rem 1rem;
+        padding: 0 0.5rem;
     }
 
-    .site-header .main-nav .nav-links {
-        flex-direction: column;
+    .site-header .main-nav .nav-links a {
+        padding: 0 0.6rem;
     }
 
     .team-table {
