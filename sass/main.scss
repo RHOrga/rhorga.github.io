@@ -23,6 +23,19 @@ h3 {
     font-weight: bold;
 }
 
+// Accessibility - Focus States
+a:focus-visible,
+button:focus-visible {
+    outline: 2px solid $blue-dark;
+    outline-offset: 2px;
+}
+
+// Ensure interactive elements have good contrast on focus
+.site-header a:focus-visible {
+    outline-color: $white;
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
 // The main white content box
 .content-wrapper {
     background-color: $white;
@@ -160,6 +173,125 @@ h3 {
             background-color: $white;
             color: $red;
         }
+    }
+}
+
+// Mobile Menu Toggle Button (hidden on desktop)
+.mobile-menu-toggle {
+    display: none;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 0.75rem;
+    margin-right: 0.5rem;
+    margin-left: auto;
+}
+
+.hamburger-icon {
+    display: block;
+    width: 22px;
+    height: 2px;
+    background-color: $white;
+    position: relative;
+    transition: background-color 0.2s ease;
+
+    &::before,
+    &::after {
+        content: "";
+        position: absolute;
+        left: 0;
+        width: 100%;
+        height: 2px;
+        background-color: $white;
+        transition: transform 0.3s ease;
+    }
+
+    &::before {
+        top: -7px;
+    }
+
+    &::after {
+        bottom: -7px;
+    }
+}
+
+// Hamburger animation when open
+.mobile-menu-toggle.is-open .hamburger-icon {
+    background-color: transparent;
+
+    &::before {
+        transform: translateY(7px) rotate(45deg);
+    }
+
+    &::after {
+        transform: translateY(-7px) rotate(-45deg);
+    }
+}
+
+// Mobile Dropdown Menu (hidden by default)
+.mobile-menu {
+    display: none;
+    background-color: $red;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.mobile-nav-links {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    li {
+        border-top: 1px solid rgba(255, 255, 255, 0.15);
+    }
+
+    a {
+        display: block;
+        padding: 1rem 1.25rem;
+        color: $white;
+        text-decoration: none;
+        font-weight: 600;
+        font-size: 0.95rem;
+        transition: background-color 0.2s ease;
+
+        &:hover,
+        &.current {
+            background-color: rgba(255, 255, 255, 0.1);
+        }
+
+        &.current {
+            border-left: 3px solid $white;
+        }
+    }
+}
+
+.mobile-language-switcher {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 1rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.15);
+    font-size: 0.9rem;
+    font-weight: 700;
+
+    a {
+        color: rgba(255, 255, 255, 0.85);
+        text-decoration: none;
+
+        &:hover {
+            color: $white;
+            text-decoration: underline;
+        }
+    }
+
+    .separator {
+        color: rgba(255, 255, 255, 0.5);
+    }
+
+    .current-lang {
+        color: $white;
+        text-decoration: underline;
     }
 }
 
@@ -446,41 +578,33 @@ h3 {
         padding: 1rem 0.5rem;
     }
 
+    // Mobile Navigation - show hamburger, hide desktop nav
     .site-header .main-nav .main-nav-inner {
         display: flex;
-        overflow-x: auto;
-        -webkit-overflow-scrolling: touch;
-
-        // Hide the scrollbar so it looks like a clean "tab" bar
-        &::-webkit-scrollbar {
-            display: none;
-        }
-        -ms-overflow-style: none;  // IE/Edge
-        scrollbar-width: none;     // Firefox
+        align-items: center;
+        justify-content: flex-end;
     }
 
-    // Fading effect to hint that scrolling is possible
-    .site-header .main-nav {
-        position: relative;
-
-        &::after {
-            content: "";
-            position: absolute;
-            top: 0;
-            right: 0;
-            bottom: 0;
-            width: 40px;
-            background: linear-gradient(to right, transparent, $red);
-            pointer-events: none;
-        }
-    }
-
+    .site-header .main-nav .nav-links,
     .site-header .main-nav .language-switcher-item {
-        padding: 0 0.5rem;
+        display: none;
     }
 
-    .site-header .main-nav .nav-links a {
-        padding: 0 0.6rem;
+    .mobile-menu-toggle {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-width: 44px;
+        min-height: 44px;
+    }
+
+    .mobile-menu.is-open {
+        display: block;
+    }
+
+    // Remove the old scroll hint fade effect
+    .site-header .main-nav::after {
+        display: none;
     }
 
     .team-table {
@@ -526,6 +650,29 @@ h3 {
             margin-bottom: 1rem;
         }
     }
+
+    // Footer mobile adjustments
+    .site-footer {
+        padding: 1rem 1.5rem;
+
+        .footer-nav {
+            flex-wrap: wrap;
+            gap: 0.5rem 0.75rem;
+            font-size: 0.85rem;
+        }
+    }
+
+    // Sponsor strip mobile adjustments
+    .sponsor-strip {
+        padding: 1.5rem 1rem;
+        gap: 16px;
+
+        > a,
+        > span {
+            width: 100px;
+            height: 40px;
+        }
+    }
 }
 
 .content-image {
@@ -546,5 +693,101 @@ h3 {
         font-size: 0.9rem;
         color: #666;
         font-style: italic;
+    }
+}
+
+// Responsive Video Embeds
+.video-embed {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    margin: 1.5rem 0;
+    border-radius: 8px;
+    overflow: hidden;
+    background: #000;
+
+    iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+    }
+}
+
+// Responsive iframes in content (maps, etc.)
+.page-content,
+.main-column {
+    iframe {
+        max-width: 100%;
+        border-radius: 6px;
+    }
+
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+}
+
+// Responsive Tables (markdown-generated)
+.page-content table,
+.main-column table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+    font-size: 0.95rem;
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+
+    thead {
+        background: linear-gradient(180deg, #f5f9fe 0%, #edf4fb 100%);
+    }
+
+    th,
+    td {
+        padding: 0.75rem 1rem;
+        text-align: left;
+        border-bottom: 1px solid #e0e0e0;
+        white-space: nowrap;
+    }
+
+    th {
+        font-weight: 700;
+        color: #47627b;
+        font-size: 0.85rem;
+        text-transform: uppercase;
+        letter-spacing: 0.03em;
+    }
+
+    tbody tr:hover {
+        background-color: #f9fbfd;
+    }
+
+    // Allow wrapping for tables with longer content
+    &.wrap-content td,
+    &.wrap-content th {
+        white-space: normal;
+    }
+}
+
+// Schedule-style tables (time | event format)
+.page-content table td:first-child,
+.main-column table td:first-child {
+    font-weight: 600;
+    color: $blue-dark;
+    white-space: nowrap;
+}
+
+@media (max-width: 768px) {
+    .page-content table,
+    .main-column table {
+        font-size: 0.875rem;
+
+        th,
+        td {
+            padding: 0.6rem 0.75rem;
+        }
     }
 }

@@ -9,6 +9,7 @@
         href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚽</text></svg>"
     />
     <link rel="stylesheet" href="{{ get_url(path='main.css') }}" />
+    <script src="{{ get_url(path='js/menu.js') }}" defer></script>
 </head>
 
 <body>
@@ -89,6 +90,35 @@
                         </li>
                     {% endfor %}
                     </ul>
+                    <button class="mobile-menu-toggle" aria-label="Menu" aria-expanded="false">
+                        <span class="hamburger-icon"></span>
+                    </button>
+                </div>
+                <div class="mobile-menu">
+                    <ul class="mobile-nav-links">
+                    {% for item in menu_items %}
+                        {% set item_url = item.url | replace(from="{year}", to=current_year ~ "") %}
+                        <li>
+                            <a
+                                href="{{ get_url(path=item_url) }}"
+                                class="{% if current_url == item_url or current_url == item_url ~ '/' or current_url == item_url | trim_end_matches(pat='/') %}current{% endif %}"
+                            >
+                                {{ item.name }}
+                            </a>
+                        </li>
+                    {% endfor %}
+                    </ul>
+                    <div class="mobile-language-switcher">
+                        {% if current_lang == "en" %}
+                            <span class="current-lang">EN</span>
+                            <span class="separator">|</span>
+                            <a href="{{ get_url(path=de_switch_path) }}">DE</a>
+                        {% else %}
+                            <a href="{{ get_url(path=en_switch_path) }}">EN</a>
+                            <span class="separator">|</span>
+                            <span class="current-lang">DE</span>
+                        {% endif %}
+                    </div>
                 </div>
             </nav>
         </header>
