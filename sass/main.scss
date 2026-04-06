@@ -14,7 +14,8 @@ body {
     padding: 2rem 1rem;
     min-height: 100vh;
     scrollbar-gutter: stable both-edges;
-    background: $blue-light;
+    background: linear-gradient(180deg, $blue-light 0%, darken($blue-light, 5%) 100%);
+    background-attachment: fixed;
 }
 
 h1,
