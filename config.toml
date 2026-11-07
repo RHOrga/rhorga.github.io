@@ -9,8 +9,8 @@ build_search_index = false
 
 title = "RoHOW - Robotic Hamburg Open Workshop"
 
-[markdown]
-highlight_code = true
+[markdown.highlighting]
+theme = "github-light"
 
 [extra]
 # Latest year for redirect

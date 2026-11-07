@@ -1,15 +1,18 @@
-<div class="{{ class | default(value='content-image') }}">
+{% component image(src, alt, width=768, class="content-image", caption="") %}
+<div class="{{ class }}">
     <figure>
-        {% set image = resize_image(path=src, width=width | default(value=768),
+        {% set image = resize_image(path=src, width=width,
         op="fit_width", format="webp" ) %}
         <img
             src="{{ image.url }}"
             alt="{{ alt }}"
             width="{{ image.width }}"
             height="{{ image.height }}"
+            loading="lazy"
         />
         {% if caption %}
         <figcaption>{{ caption }}</figcaption>
         {% endif %}
     </figure>
 </div>
+{% endcomponent image %}

@@ -1,4 +1,5 @@
-<div class="video-embed {% if class %}{{class}}{% endif %}">
+{% component youtube(id, autoplay=false, class="") %}
+<div class="video-embed {{ class }}">
     <iframe
         src="https://www.youtube.com/embed/{{id}}{% if autoplay %}?autoplay=1{% endif %}"
         title="YouTube video"
@@ -6,3 +7,4 @@
         loading="lazy"
     ></iframe>
 </div>
+{% endcomponent youtube %}

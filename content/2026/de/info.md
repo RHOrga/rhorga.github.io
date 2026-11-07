@@ -30,7 +30,7 @@ Verwenden Sie die folgende Adresse für die Lieferung:
 - Samstag: 0900 bis ~0000
 - Sonntag: 0900 bis ~1730
 
-Weitere Einzelheiten: [Zeitplan](https://rohow.de/schedule)
+Weitere Einzelheiten: [Zeitplan](@/2026/de/schedule.md)
 
 ### Netzwerk & Steckdosen
 

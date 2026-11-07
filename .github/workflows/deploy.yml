@@ -24,7 +24,7 @@ jobs:
             --user "$(id -u):$(id -g)" \
             -v "$GITHUB_WORKSPACE:/work" \
             -w /work \
-            ghcr.io/getzola/zola:v0.19.1 \
+            ghcr.io/getzola/zola:v0.23.6 \
             build
 
       - name: Upload artifact

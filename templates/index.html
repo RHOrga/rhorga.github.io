@@ -1,17 +1,27 @@
-{% extends "base.html" %} {% block title %}{{ section.title }} | {{ config.title
-}}{% endblock title %} {% block content %}
+{% extends "base.html" %}
+{% block title %}{{ section.title }} {{ current_year }} | {{ config.title }}{% endblock title %}
+{% block content %}
 <div class="homepage-wrapper">
-    <aside class="side-image">
-        <img
-            src="{{ get_url(path='rohow/logo-robot.svg') }}"
-            alt=""
-            aria-hidden="true"
-            width="200"
-            height="200"
-        />
-    </aside>
+    <section class="event-hero" aria-labelledby="event-heading">
+        <div class="event-heading">
+            <img class="hero-robot" src="{{ get_url(path='rohow/logo-robot.svg') }}" alt="" width="200" height="200" />
+            <div>
+                <h1 id="event-heading">{{ section.title }} {{ current_year }}</h1>
+                {% if section.extra.event_date %}
+                    <p class="event-details">{{ section.extra.event_date }} · TU Hamburg</p>
+                {% endif %}
+            </div>
+        </div>
+    </section>
     <div class="main-column">
-        <h1>{{ section.title }}</h1>
+        {% if section.extra.photo %}
+            {% set small = resize_image(path=section.extra.photo, width=640, op="fit_width", format="webp", quality=82) %}
+            {% set large = resize_image(path=section.extra.photo, width=1280, op="fit_width", format="webp", quality=82) %}
+            <figure class="homepage-photo">
+                <img class="homepage-image" src="{{ large.url }}" srcset="{{ small.url }} {{ small.width }}w, {{ large.url }} {{ large.width }}w" sizes="(max-width: 960px) calc(100vw - 48px), 960px" alt="{{ section.extra.photo_alt }}" width="{{ large.width }}" height="{{ large.height }}" fetchpriority="high" />
+                <figcaption>{{ section.extra.photo_caption }}</figcaption>
+            </figure>
+        {% endif %}
         {{ section.content | safe }}
     </div>
 </div>

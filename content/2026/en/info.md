@@ -30,7 +30,7 @@ Use the following address for delivery:
 - Saturday: 0900 to ~0000
 - Sunday: 0900 to ~1730
 
-More details: [Schedule](https://rohow.de/schedule)
+More details: [Schedule](@/2026/en/schedule.md)
 
 ### Network & Power outlets
 

@@ -1,13 +1,15 @@
 +++
 title = "RoHOW"
+description = "Three days of robot soccer, workshops, and research exchange with the international RoboCup community."
 sort_by = "none"
 template = "index.html"
+
+[extra]
+event_date = "27–29 November 2026"
+photo = "assets/img/teams2025.jpeg"
+photo_alt = "RoHOW 2025 participants gathered for a group photo"
+photo_caption = "The RoHOW community at the 2025 workshop."
 +++
-
-
-
-
-<img src="/assets/img/teams2025.jpeg" alt="Gruppenfoto" class="homepage-image" />
 
 From **November 27 to November 29, 2026**, the <a href="https://www.hulks.de/">HULKs</a>, the robot soccer team from Hamburg University of Technology (TUHH), are hosting the 13th Robotic Hamburg Open Workshop (RoHOW) at TUHH.
 This networking and educational event provides an opportunity for <a href="https://www.robocup.org/">RoboCup</a> teams in the field of humanoid robotics to share their insights and advancements, particularly in the context of robot soccer. The RoHOW creates an environment for in-depth discussions, workshops, and informative lectures, fostering an intense exchange among experts and promoting a deeper understanding of current research results in robotics.

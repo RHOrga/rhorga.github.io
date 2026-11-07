@@ -46,4 +46,4 @@ zola build
 ## CI/Deploy
 
 - Pushes to `master` trigger GitHub Pages deploy via `.github/workflows/deploy.yml`
-- Uses Zola v0.19.1 in container
+- Uses Zola v0.23.6 in container

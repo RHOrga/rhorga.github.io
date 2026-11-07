@@ -1,25 +1,19 @@
+{% set target_lang = "en" %}
+{% if page is defined %}
+    {% set target_lang = page.extra.redirect_lang | default(value="en") %}
+{% endif %}
+{% set target = get_url(path="/" ~ config.extra.latest_year ~ "/" ~ target_lang ~ "/", trailing_slash=true) %}
 <!doctype html>
-<html lang="en">
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        {% set target = "/" ~ config.extra.latest_year ~ "/en/" %}
-        <title>RoHOW</title>
-        <meta http-equiv="refresh" content="0;url={{ target }}" />
-        <link rel="canonical" href="{{ target }}" />
-        <style>
-            html,
-            body {
-                margin: 0;
-                width: 100%;
-                height: 100%;
-                background: #00a9e0;
-            }
-        </style>
-    </head>
-    <body>
-        <script>
-            window.location.replace({{ target | json_encode | safe }});
-        </script>
-    </body>
+<html lang="{{ target_lang }}">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>RoHOW {{ config.extra.latest_year }}</title>
+    <meta http-equiv="refresh" content="0;url={{ target }}" />
+    <link rel="canonical" href="{{ target }}" />
+</head>
+<body>
+    <p><a href="{{ target }}">{{ "Zur aktuellen RoHOW-Veranstaltung" if target_lang == "de" else "Continue to the latest RoHOW event" }}</a></p>
+    <script>window.location.replace({{ target | json_encode | safe }} + window.location.hash);</script>
+</body>
 </html>

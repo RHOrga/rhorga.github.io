@@ -1,22 +1,27 @@
-// Mobile menu toggle
-document.addEventListener('DOMContentLoaded', function() {
-    const toggle = document.querySelector('.mobile-menu-toggle');
-    const menu = document.querySelector('.mobile-menu');
-    
-    if (toggle && menu) {
-        toggle.addEventListener('click', function() {
-            const isOpen = menu.classList.toggle('is-open');
-            toggle.classList.toggle('is-open', isOpen);
-            toggle.setAttribute('aria-expanded', isOpen);
-        });
+document.documentElement.classList.add('js');
 
-        // Close menu when clicking a link
-        menu.querySelectorAll('a').forEach(function(link) {
-            link.addEventListener('click', function() {
-                menu.classList.remove('is-open');
-                toggle.classList.remove('is-open');
-                toggle.setAttribute('aria-expanded', 'false');
-            });
-        });
+const toggle = document.querySelector('.mobile-menu-toggle');
+const menu = document.querySelector('#main-navigation');
+
+if (toggle && menu) {
+    function closeMenu() {
+        menu.classList.remove('is-open');
+        toggle.setAttribute('aria-expanded', 'false');
     }
-});
+
+    toggle.addEventListener('click', function() {
+        const isOpen = menu.classList.toggle('is-open');
+        toggle.setAttribute('aria-expanded', String(isOpen));
+    });
+
+    menu.addEventListener('click', function(event) {
+        if (event.target.closest('a')) closeMenu();
+    });
+
+    document.addEventListener('keydown', function(event) {
+        if (event.key === 'Escape' && menu.classList.contains('is-open')) {
+            closeMenu();
+            toggle.focus();
+        }
+    });
+}
