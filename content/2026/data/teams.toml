@@ -4,3 +4,10 @@ country = "DE"
 league = "HSL"
 logo = "assets/img/teams/HULKs.svg"
 link = "https://hulks.de"
+
+[[team]]
+name = "WF Wolves"
+country = "DE"
+league = "HSL"
+logo = "assets/img/teams/wf-wolves.png"
+link = "https://www.wf-wolves.de/"
