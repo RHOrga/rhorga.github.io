@@ -9,5 +9,54 @@ link = "https://hulks.de"
 name = "WF Wolves"
 country = "DE"
 league = "HSL"
-logo = "assets/img/teams/wf-wolves.png"
+logo = "assets/img/teams/wf-wolves.svg"
 link = "https://www.wf-wolves.de/"
+
+[[team]]
+name = "Hamburg Bit-Bots"
+country = "DE"
+league = "HSL"
+logo = "assets/img/teams/Hamburg Bit-Bots.svg"
+link = "https://bit-bots.de"
+
+[[team]]
+name = "FOOMBOT"
+country = "PL"
+league = "HSL"
+logo = "assets/img/teams/foombot.svg"
+link = "https://foom.bot/"
+
+[[team]]
+name = "Berlin United"
+country = "DE"
+league = "HSL"
+logo = "assets/img/teams/Berlin United - NaoTH.svg"
+link = "https://berlin-united.org/"
+
+[[team]]
+name = "Ruhrbot Devils"
+country = "DE"
+league = "HSL"
+logo = "assets/img/teams/ruhrbot-devils.svg"
+link = "https://ruhrbotdevils.de/"
+
+[[team]]
+name = "B-Human"
+country = "DE"
+league = "HSL"
+logo = "assets/img/teams/B-Human.svg"
+link = "https://www.b-human.de"
+
+[[team]]
+name = "whIRLwind Amsterdam"
+country = "NL"
+league = "HSL"
+logo = "assets/img/teams/whirlwind.svg"
+link = "https://whirlwind.team/"
+
+[[team]]
+name = "R-ZWEI KICKERS"
+country = "DE"
+league = "HSL"
+logo = "assets/img/teams/r2kickers.svg"
+link = "https://smart-machines.hs-kl.de/projekte/hs-kl-robocup/"

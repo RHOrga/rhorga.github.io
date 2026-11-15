@@ -22,12 +22,7 @@
                 <tr>
                     <td class="logo-col">
                         {% if team.logo %}
-                            {% if team.logo is ending_with(pat=".svg") %}
-                                <img src="{{ get_url(path=team.logo) }}" alt="" class="team-logo" width="126" height="78" loading="lazy" />
-                            {% else %}
-                                {% set image = resize_image(path=team.logo, height=96, op="fit_height", format="webp") %}
-                                <img src="{{ image.url }}" alt="" class="team-logo" width="{{ image.width }}" height="{{ image.height }}" loading="lazy" />
-                            {% endif %}
+                            <img src="{{ get_url(path=team.logo) }}" alt="" class="team-logo" width="126" height="78" loading="lazy" />
                         {% endif %}
                     </td>
                     <td><a class="team-name-link" href="{{ team.link }}">{{ team.name }}</a></td>
