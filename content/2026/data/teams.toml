@@ -30,7 +30,7 @@ link = "https://foom.bot/"
 name = "Berlin United"
 country = "DE"
 league = "HSL"
-logo = "assets/img/teams/Berlin United - NaoTH.svg"
+logo = "assets/img/teams/berlin-united-official.webp"
 link = "https://berlin-united.org/"
 
 [[team]]
@@ -60,3 +60,17 @@ country = "DE"
 league = "HSL"
 logo = "assets/img/teams/r2kickers.svg"
 link = "https://smart-machines.hs-kl.de/projekte/hs-kl-robocup/"
+
+[[team]]
+name = "HTWK Robots"
+country = "DE"
+league = "HSL"
+logo = "assets/img/teams/HTWK.svg"
+link = "https://robots.htwk-leipzig.de/"
+
+[[team]]
+name = "FC Isar Robotics"
+country = "DE"
+league = "HSL"
+logo = "assets/img/teams/fc-isar.svg"
+link = "https://fcisar.de/"
