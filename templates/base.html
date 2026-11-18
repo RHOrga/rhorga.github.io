@@ -93,7 +93,10 @@
                 <span>© {{ now() | date(format="%Y") }} HULKs e.V.</span>
                 {% for link in footer_links %}
                     {% set link_url = link.url | replace(from="{year}", to=current_year ~ "") %}
-                    <a href="{{ get_url(path=link_url) }}">{{ link.name }}</a>
+                    {% if link_url is starting_with(pat="/") %}
+                        {% set link_url = get_url(path=link_url) %}
+                    {% endif %}
+                    <a href="{{ link_url }}">{{ link.name }}</a>
                 {% endfor %}
             </nav>
         </footer>

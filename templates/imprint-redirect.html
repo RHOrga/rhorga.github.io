@@ -1,0 +1,15 @@
+{% set target = "https://hulks.de/imprint" %}
+<!doctype html>
+<html lang="{{ page.extra.redirect_lang }}">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ page.title }}</title>
+    <meta http-equiv="refresh" content="0;url={{ target }}" />
+    <link rel="canonical" href="{{ target }}" />
+</head>
+<body>
+    <p><a href="{{ target }}">{{ "Zum Impressum der HULKs" if page.extra.redirect_lang == "de" else "Continue to the HULKs imprint" }}</a></p>
+    <script>window.location.replace({{ target | json_encode | safe }} + window.location.hash);</script>
+</body>
+</html>

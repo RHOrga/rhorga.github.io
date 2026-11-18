@@ -41,12 +41,12 @@ menu_items_de = [
 
 # English footer links
 footer_links_en = [
-    { name = "Imprint", url = "/{year}/en/imprint/" },
+    { name = "Imprint", url = "https://hulks.de/imprint" },
     { name = "Privacy Policy", url = "/{year}/en/privacy-policy/" },
 ]
 
 # German footer links
 footer_links_de = [
-    { name = "Impressum", url = "/{year}/de/imprint/" },
+    { name = "Impressum", url = "https://hulks.de/imprint" },
     { name = "Datenschutzerklärung", url = "/{year}/de/privacy-policy/" },
 ]
