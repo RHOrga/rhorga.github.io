@@ -71,7 +71,7 @@ link = "https://robots.htwk-leipzig.de/"
 [[team]]
 name = "FC Isar Robotics"
 country = "DE"
-region_flag = "assets/img/flags/bavaria.svg"
+region_flag = "assets/img/flags/bavaria.png"
 region_name_en = "Bavaria"
 region_name_de = "Bayern"
 league = "HSL"
