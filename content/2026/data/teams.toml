@@ -77,3 +77,16 @@ region_name_de = "Bayern"
 league = "HSL"
 logo = "assets/img/teams/fc-isar.svg"
 link = "https://fcisar.de/"
+
+[[team]]
+name = "SPQR Team"
+country = "IT"
+league = "HSL"
+logo = "assets/img/teams/spqr.svg"
+link = "https://spqr.diag.uniroma1.it/"
+
+[[team]]
+name = "Johannes Gutenberg-Universität Mainz"
+country = "DE"
+league = ""
+link = "https://www.uni-mainz.de/"
