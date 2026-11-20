@@ -2,3 +2,18 @@
 name = "Technische Universität Hamburg"
 logo = "TUHH_logo_rgb_2023.svg"
 url = "https://www.tuhh.de/tuhh/startseite"
+
+[[sponsor]]
+name = "RoboCup Germany"
+logo = "robocup_germany.webp"
+url = "https://robocup.de/"
+
+[[sponsor]]
+name = "Dräger"
+logo = "Draeger_L_Standard_RGB_Dark-Blue.svg"
+url = "https://www.draeger.com/de_de/"
+
+[[sponsor]]
+name = "GEA"
+logo = "GEA_Logo_w_Claim_sRGB_VibrantBlue.svg"
+url = "https://www.gea.com/de/"
