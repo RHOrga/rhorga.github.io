@@ -30,6 +30,10 @@
                     <td>
                         <span class="country-cell">
                             <img src="https://flagcdn.com/{{ team.country | lower }}.svg" alt="" class="country-flag" width="24" height="18" loading="lazy" />
+                            {% if team.region_flag %}
+                                {% set region_name = team.region_name_de if current_lang == "de" else team.region_name_en %}
+                                <img src="{{ get_url(path=team.region_flag) }}" alt="{{ region_name }}" title="{{ region_name }}" class="country-flag" width="24" height="18" loading="lazy" />
+                            {% endif %}
                             <span>{{ team.country | upper }}</span>
                         </span>
                     </td>
