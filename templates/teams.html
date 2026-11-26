@@ -25,18 +25,28 @@
                             <img src="{{ get_url(path=team.logo) }}" alt="" class="team-logo" width="126" height="78" loading="lazy" />
                         {% endif %}
                     </td>
-                    <td><a class="team-name-link" href="{{ team.link }}">{{ team.name }}</a></td>
+                    <td>
+                        {% if team.link %}
+                            <a class="team-name-link" href="{{ team.link }}">{{ team.name }}</a>
+                        {% else %}
+                            {{ team.name }}
+                        {% endif %}
+                    </td>
                     <td>{{ team.league if team.league | trim else "—" }}</td>
                     <td>
-                        <span class="country-cell">
-                            {% if team.region_flag %}
-                                {% set region_name = team.region_name_de if current_lang == "de" else team.region_name_en %}
-                                <img src="{{ get_url(path=team.region_flag) }}" alt="{{ region_name }}" title="{{ region_name }}" class="country-flag" width="24" height="18" loading="lazy" />
-                            {% else %}
-                                <img src="https://flagcdn.com/{{ team.country | lower }}.svg" alt="" class="country-flag" width="24" height="18" loading="lazy" />
-                            {% endif %}
-                            <span>{{ team.country | upper }}</span>
-                        </span>
+                        {% if team.country %}
+                            <span class="country-cell">
+                                {% if team.region_flag %}
+                                    {% set region_name = team.region_name_de if current_lang == "de" else team.region_name_en %}
+                                    <img src="{{ get_url(path=team.region_flag) }}" alt="{{ region_name }}" title="{{ region_name }}" class="country-flag" width="24" height="18" loading="lazy" />
+                                {% else %}
+                                    <img src="https://flagcdn.com/{{ team.country | lower }}.svg" alt="" class="country-flag" width="24" height="18" loading="lazy" />
+                                {% endif %}
+                                <span>{{ team.country | upper }}</span>
+                            </span>
+                        {% else %}
+                            —
+                        {% endif %}
                     </td>
                 </tr>
                 {% endfor %}

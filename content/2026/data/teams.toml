@@ -90,3 +90,23 @@ name = "Johannes Gutenberg-Universität Mainz"
 country = "DE"
 league = ""
 link = "https://www.uni-mainz.de/"
+
+[[team]]
+name = "FreiBots (online)"
+league = ""
+logo = "assets/img/teams/freibots.svg"
+link = "https://freibots.github.io/"
+
+[[team]]
+name = "RoboEireann (online)"
+country = "IE"
+league = "HSL"
+logo = "assets/img/teams/roboeireann.svg"
+link = "https://www.maynoothuniversity.ie/news-events/robo-ireann-competes-italian-open-robocup-humanoid-soccer-tournament"
+
+[[team]]
+name = "Booster Robotics (online)"
+country = "CN"
+league = ""
+logo = "assets/img/teams/booster-robotics.svg"
+link = "https://www.booster.tech/"
